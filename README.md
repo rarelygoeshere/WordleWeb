@@ -1,7 +1,9 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 # WordleWeb
 My own list of Wordle-like games and other assorted variations of this game format. Hope people enjoy and contribute to this!
-
+# [u/PhilosophyQuick7182](https://www.reddit.com/user/PhilosophyQuick7182/)
+- [Cobble](https://wilf.live/cobble/) Word game where you must use up all the letters in just two words, with as few extra letters as possible. Published on March 29, 2025
+ 
 [Addle](https://alex.strinka.net/programs/addle/) - Wordle with Addition equations.
 
 [Actorle](https://actorle.com/) - Wordle but you have to guess Actors
