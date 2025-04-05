@@ -21,7 +21,8 @@ My own list of Wordle-like games and other assorted variations of this game form
 
 # [](https://x.com/DoodleSci)/[Youtube](https://www.youtube.com/DoodleScience)
 - [Flagle](https://www.flagle.io/)/[Twitter release post](https://x.com/DoodleSci/status/1496887524094009352) Worldle-inspired flag guessing game. Published on February 24, 2022
-
+- [Mapl](https://mapl.life/)/[Twitter release post](https://x.com/DoodleSci/status/1789975201188356437) Worldle-inspired Map guessing game where you must identify the location marked on the redacted map. Published on May 13, 2024
+- 
 
 - [Addle](https://alex.strinka.net/programs/addle/) - Wordle with Addition equations.
 
