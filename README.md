@@ -3,8 +3,11 @@
 My own list of Wordle-like games and other assorted variations of this game format. Hope people enjoy and contribute to this!
 # [u/PhilosophyQuick7182](https://www.reddit.com/user/PhilosophyQuick7182/)
 - [Cobble](https://wilf.live/cobble/) Word game where you must use up all the letters in just two words, with as few extra letters as possible. Published on March 29, 2025
- 
-[Addle](https://alex.strinka.net/programs/addle/) - Wordle with Addition equations.
+
+# [Antoine Teuf](https://x.com/teuteuf)/[Bluesky](https://bsky.app/profile/antoine.pinkbean.studio)
+- [Worldle](https://worldle.teuteuf.fr/)/[Ko-fi release post](https://ko-fi.com/post/WorLdle-Guess-a-new-country-every-day-H2H2A8VX8)/[Wikipedia](https://en.wikipedia.org/wiki/Worldle)/[Apple App Store](https://apps.apple.com/us/app/worldle-geography-guess/id6451441040)/[Google Play Store](https://play.google.com/store/apps/details?id=fr.teuteuf.worldle.twa) Wordle inspired game where you must guess one country or territory based on an outline of its shape alone. Published on January 30, 2022 
+
+- [Addle](https://alex.strinka.net/programs/addle/) - Wordle with Addition equations.
 
 [Actorle](https://actorle.com/) - Wordle but you have to guess Actors
 
@@ -176,7 +179,7 @@ My own list of Wordle-like games and other assorted variations of this game form
 
 [Wordle-peaks](https://vegeta897.github.io/wordle-peaks/) - Wordle but after each guess, the tiles show whether your letters occur earlier or later in the alphabet compared to the correct letters. 
 
-[Worldle](https://worldle.teuteuf.fr/) - The game will show you an outline of a country, along with some basic facts about it, and challenge you to name which one it is.
+[Worldle]() - The game will show you an outline of a country, along with some basic facts about it, and challenge you to name which one it is.
 
 [Wor-Wordle-dle](https://wor-wordle-dle.web.app/#/) - Multi Layered Wordle.
 
