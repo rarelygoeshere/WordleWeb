@@ -5,7 +5,8 @@ My own list of Wordle-like games and other assorted variations of this game form
 - [Cobble](https://wilf.live/cobble/) Word game where you must use up all the letters in just two words, with as few extra letters as possible. Published on March 29, 2025
 
 # [Antoine Teuf](https://x.com/teuteuf)/[Bluesky](https://bsky.app/profile/antoine.pinkbean.studio)
-- [Worldle](https://worldle.teuteuf.fr/)/[Github](https://github.com/markgalassi/worldle)/[Apple App Store](https://apps.apple.com/us/app/worldle-geography-guess/id6451441040)/[Google Play Store](https://play.google.com/store/apps/details?id=fr.teuteuf.worldle.twa)/[Twitter release post](https://x.com/teuteuf/status/1485628624929705988)/[Ko-fi release post](https://ko-fi.com/post/WorLdle-Guess-a-new-country-every-day-H2H2A8VX8)/[Wikipedia](https://en.wikipedia.org/wiki/Worldle)/[The Washington Post article](https://www.washingtonpost.com/video-games/2022/02/16/wordle-spin-off-worldle-creator-antoine-teuf/) Wordle inspired game where you must guess one country or territory based on an outline of its shape alone. Published on January 30, 2022 
+- [Worldle](https://worldle.teuteuf.fr/)/[Github](https://github.com/markgalassi/worldle)/[Apple App Store](https://apps.apple.com/us/app/worldle-geography-guess/id6451441040)/[Google Play Store](https://play.google.com/store/apps/details?id=fr.teuteuf.worldle.twa)/[Twitter release post](https://x.com/teuteuf/status/1485628624929705988)/[Ko-fi release post](https://ko-fi.com/post/WorLdle-Guess-a-new-country-every-day-H2H2A8VX8)/[Wikipedia](https://en.wikipedia.org/wiki/Worldle)/[The Washington Post article](https://www.washingtonpost.com/video-games/2022/02/16/wordle-spin-off-worldle-creator-antoine-teuf/) Wordle inspired game where you must guess one country or territory based on an outline of its shape alone. Published on January 30, 2022
+
 # [Clevergoat](https://clevergoat.com/)/[Instagram](https://www.instagram.com/clevergoatgames/)/[Reddit](https://www.reddit.com/r/clevergoat/)
 - [Proximity](https://proximity.clevergoat.com/) Semantic word-guessing challenge, with unlimited guesses for guessing the secret word, to which the game informs you how close you are to the secret word, based on your word's meaning.
 - [WordGrid](https://wordgrid.clevergoat.com/) Word game where you fill a 3x3 grid with English words while aiming for the lowest possible rarity.
@@ -14,6 +15,10 @@ My own list of Wordle-like games and other assorted variations of this game form
 - [Word Chase](https://wordchase.clevergoat.com/) Fast-paced word formation game that challenges players to connect letters on a dynamic geometric board to form as many words as possible within a two-minute time limit.
 - [Stacked](https://stacked.clevergoat.com/) Daily word categorization puzzle where players must uncover hidden connections among a set of words by grouping them into categories of varying sizes ranging from 1 to 5 words.
 - [Crossherd](https://crossherd.clevergoat.com/) Fast-paced Daily 5x5 mini crossword puzzles where you must complete the puzzle as quickly and accurately as possible.
+
+# [Giuseppe Sollazzo](https://puntofisso.net/)/[Twitter](https://x.com/puntofisso)/[Bluesky](https://bsky.app/profile/puntofisso.bsky.social)
+- [Wardle](https://wardle.puntofisso.net/)/[Github](https://github.com/puntofisso/wardle)/[Twitter release post](https://x.com/puntofisso/status/1495517650360832001) Worldle-inspired spinoff focusing on the UK Local Authority. Published on February 21, 2022
+
 - [Addle](https://alex.strinka.net/programs/addle/) - Wordle with Addition equations.
 
 [Actorle](https://actorle.com/) - Wordle but you have to guess Actors
