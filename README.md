@@ -19,6 +19,10 @@ My own list of Wordle-like games and other assorted variations of this game form
 # [Giuseppe Sollazzo](https://puntofisso.net/)/[Twitter](https://x.com/puntofisso)/[Bluesky](https://bsky.app/profile/puntofisso.bsky.social)
 - [Wardle](https://wardle.puntofisso.net/)/[Github](https://github.com/puntofisso/wardle)/[Twitter release post](https://x.com/puntofisso/status/1495517650360832001) Worldle-inspired spinoff focusing on the UK Local Authority. Published on February 21, 2022
 
+# [](https://x.com/DoodleSci)/[Youtube](https://www.youtube.com/DoodleScience)
+- [Flagle](https://www.flagle.io/)/[Twitter release post](https://x.com/DoodleSci/status/1496887524094009352) Worldle-inspired flag guessing game. Published on February 24, 2022
+
+
 - [Addle](https://alex.strinka.net/programs/addle/) - Wordle with Addition equations.
 
 [Actorle](https://actorle.com/) - Wordle but you have to guess Actors
