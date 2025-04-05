@@ -13,6 +13,7 @@ My own list of Wordle-like games and other assorted variations of this game form
 - [Flipple](https://flipple.clevergoat.com/) Word transformation puzzle game, where the objective is to convert a given starting word into a target word by changing one letter at a time, with each intermediate step forming a valid English word.
 - [Word Chase](https://wordchase.clevergoat.com/) Fast-paced word formation game that challenges players to connect letters on a dynamic geometric board to form as many words as possible within a two-minute time limit.
 - [Stacked](https://stacked.clevergoat.com/) Daily word categorization puzzle where players must uncover hidden connections among a set of words by grouping them into categories of varying sizes ranging from 1 to 5 words.
+- [Crossherd](https://crossherd.clevergoat.com/) Fast-paced Daily 5x5 mini crossword puzzles where you must complete the puzzle as quickly and accurately as possible.
 - [Addle](https://alex.strinka.net/programs/addle/) - Wordle with Addition equations.
 
 [Actorle](https://actorle.com/) - Wordle but you have to guess Actors
