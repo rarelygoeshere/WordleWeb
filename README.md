@@ -10,6 +10,7 @@ My own list of Wordle-like games and other assorted variations of this game form
 - [Proximity](https://proximity.clevergoat.com/) Semantic word-guessing challenge, with unlimited guesses for guessing the secret word, to which the game informs you how close you are to the secret word, based on your word's meaning.
 - [WordGrid](https://wordgrid.clevergoat.com/) Word game where you fill a 3x3 grid with English words while aiming for the lowest possible rarity.
 - [Categories](https://categories.clevergoat.com/) Daily word categorization puzzle, where you identify four groups of four related words from a set of sixteen, testing your ability to find links between seemingly unrelated words.
+- [Flipple](https://flipple.clevergoat.com/) Word transformation puzzle game, where the objective is to convert a given starting word into a target word by changing one letter at a time, with each intermediate step forming a valid English word.
 - [Addle](https://alex.strinka.net/programs/addle/) - Wordle with Addition equations.
 
 [Actorle](https://actorle.com/) - Wordle but you have to guess Actors
