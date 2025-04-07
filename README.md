@@ -38,6 +38,9 @@ My own list of Wordle-like games and other assorted variations of this game form
 # [Sam Hughes/Qntm](https://qntm.org/)/[Twitter](https://x.com/qntm)/[Bluesky](https://bsky.app/profile/qntm.org)/[Github](https://github.com/qntm)/[Wikipedia](https://en.wikipedia.org/wiki/Qntm)
 - [Absurdle](https://qntm.org/files/absurdle/absurdle.html) Dynamic, adversarial word-guessing game that adjusts its secret word in response to the player's guesses, aiming to prolong the game and make it more challenging. Published on January 9, 2022
 
+# [Trainwreck Labs](https://trainwrecklabs.com/) 
+- [GLOBLE: CAPITALS](https://globle-capitals.com/) Daily capital city-guessing challenge with proximity hints.​
+- [GLOBLE](https://globle-game.com/) Daily country-guessing challenge based on proximity feedback.Published on March 2022
 
 [Actorle](https://actorle.com/) - Wordle but you have to guess Actors
 
