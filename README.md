@@ -5,6 +5,7 @@ My own list of Wordle-like games and other assorted variations of this game form
 - [Cobble](https://wilf.live/cobble/) Word game where you must use up all the letters in just two words, with as few extra letters as possible. Published on March 29, 2025
 
 # [Antoine Teuf](https://x.com/teuteuf)/[Bluesky](https://bsky.app/profile/antoine.pinkbean.studio)
+- [Emovi](https://emovi.teuteuf.fr/)/[Twitter post](https://x.com/teuteuf/status/1548586421035974657) Wordle-inspired game where you guess the movie title from emoji clues.​ Published on July 16, 2022
 - [Worldle](https://worldle.teuteuf.fr/)/[Github](https://github.com/markgalassi/worldle)/[Apple App Store](https://apps.apple.com/us/app/worldle-geography-guess/id6451441040)/[Google Play Store](https://play.google.com/store/apps/details?id=fr.teuteuf.worldle.twa)/[Twitter release post](https://x.com/teuteuf/status/1485628624929705988)/[Ko-fi release post](https://ko-fi.com/post/WorLdle-Guess-a-new-country-every-day-H2H2A8VX8)/[Wikipedia](https://en.wikipedia.org/wiki/Worldle)/[The Washington Post article](https://www.washingtonpost.com/video-games/2022/02/16/wordle-spin-off-worldle-creator-antoine-teuf/) Wordle inspired game where you must guess one country or territory based on an outline of its shape alone. Published on January 30, 2022
 
 # [Clevergoat](https://clevergoat.com/)/[Instagram](https://www.instagram.com/clevergoatgames/)/[Reddit](https://www.reddit.com/r/clevergoat/)
