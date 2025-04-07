@@ -42,6 +42,13 @@ My own list of Wordle-like games and other assorted variations of this game form
 - [GLOBLE: CAPITALS](https://globle-capitals.com/) Daily capital city-guessing challenge with proximity hints.​
 - [GLOBLE](https://globle-game.com/) Daily country-guessing challenge based on proximity feedback.Published on March 2022
 
+# [Countryle](https://x.com/countryleapp)/[Kofi](https://ko-fi.com/countryle)
+- [Countryle](https://www.countryle.com/)/[Twitter](https://x.com/countryleapp/status/1501211442858676225) Daily country-guessing challenge with attribute-based feedback. Published on March 8, 2022
+- [Capitale](https://capitale.countryle.com/) Daily capital city-guessing challenge with attribute-based feedback.
+
+# [Adriano Brandão](https://aded.studio/)/[Merchandising shop](https://www.bonfire.com/store/musicle/)/[Twitter](https://x.com/adrianosbr)/[Bluesky](https://bsky.app/profile/adrianobrandao.com)
+- [Musicle](https://musicle.app/atlas)/[Official Twitter](https://x.com/musicleapp)/[Product Hunt](https://www.producthunt.com/products/musicle) Daily music-guessing game where you guess a country by its national anthem. Published on May 16, 2022
+
 [Actorle](https://actorle.com/) - Wordle but you have to guess Actors
 
 [Alphabeticle](https://alphabeticle.xyz/) - Wordle but your number of guesses is limited by whether your letters occur earlier or later in the alphabet compared to the correct letters. 
