@@ -29,6 +29,10 @@ My own list of Wordle-like games and other assorted variations of this game form
 # [Alex Strinka](https://alex.strinka.net/)/[Old Blog](https://slithytovesandborogoves.blogspot.com/)
 - [Addle](https://alex.strinka.net/programs/addle/) - Wordle-inspired game but with addition problems. Use hints from your earlier guesses to figure out the addition equation. Likely published on early 2022
 
+# [u/SubstantialWinter812](https://www.reddit.com/user/SubstantialWinter812/)
+- [Sharp Words](https://www.sharpwords.app/)/[Google Play Store](https://play.google.com/store/apps/details?id=com.npt.sharpwords)/[Apple App store](https://apps.apple.com/us/app/sharp-words/id6448644737)/[Reddit post](https://www.reddit.com/r/wordle/comments/1cjgcsd/hey_word_game_lovers_i_made_a_wordleinspired_word/) Word puzzle game combining Wordle and crossword mechanics. Published on May 4, 2024
+
+
 [Actorle](https://actorle.com/) - Wordle but you have to guess Actors
 
 [Alphabeticle](https://alphabeticle.xyz/) - Wordle but your number of guesses is limited by whether your letters occur earlier or later in the alphabet compared to the correct letters. 
