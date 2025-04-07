@@ -207,3 +207,4 @@ My own list of Wordle-like games and other assorted variations of this game form
 
 # Sources
 - Found in [Awesome Wordle](https://github.com/prakhar897/awesome-wordle)
+- [A game rentry from the site hunting list on the FMHY Subreddit](https://rentry.co/aawb2pus)
