@@ -32,6 +32,8 @@ My own list of Wordle-like games and other assorted variations of this game form
 # [u/SubstantialWinter812](https://www.reddit.com/user/SubstantialWinter812/)
 - [Sharp Words](https://www.sharpwords.app/)/[Google Play Store](https://play.google.com/store/apps/details?id=com.npt.sharpwords)/[Apple App store](https://apps.apple.com/us/app/sharp-words/id6448644737)/[Reddit post](https://www.reddit.com/r/wordle/comments/1cjgcsd/hey_word_game_lovers_i_made_a_wordleinspired_word/) Word puzzle game combining Wordle and crossword mechanics. Published on May 4, 2024
 
+# [AntonMakesGames](https://antonmakesgames.itch.io/)/[Mastodon](https://mastodon.gamedev.place/@antonmakesgames)/[Github](https://github.com/Redoxee)
+- [EmojiGuessr](https://antonmakesgames.itch.io/emojiguessr)/[Github](https://github.com/Redoxee/emojiguessr) A game where you guess words or expressions using only emojis. Published on July 9, 2023
 
 [Actorle](https://actorle.com/) - Wordle but you have to guess Actors
 
