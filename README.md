@@ -23,9 +23,11 @@ My own list of Wordle-like games and other assorted variations of this game form
 - [Flagle](https://www.flagle.io/)/[Twitter release post](https://x.com/DoodleSci/status/1496887524094009352) Worldle-inspired flag guessing game. Published on February 24, 2022
 - [Mapl](https://mapl.life/)/[Twitter release post](https://x.com/DoodleSci/status/1789975201188356437) Worldle-inspired Map guessing game where you must identify the location marked on the redacted map. Published on May 13, 2024
 
-# [Alexander Simoes](https://alexandersimoes.com/)
-- [Tradle](https://games.oec.world/en/tradle/) Worlde-inspired spinoff where players reference a treemap of a country’s exports to guess which country it is.
-- [Addle](https://alex.strinka.net/programs/addle/) - Wordle with Addition equations.
+# [Alexander Simoes](https://alexandersimoes.com/)/[Twitter](https://x.com/ximoes)/[Github](https://github.com/alexandersimoes)
+- [Tradle](https://games.oec.world/en/tradle/)/[Github](https://github.com/alexandersimoes/tradle)/[Automaton Article](https://automaton-media.com/en/news/20220311-10472/)/[Marketplace Interview](https://www.marketplace.org/2023/08/24/tradle-brings-wordle-style-game-to-global-exports/) Worlde-inspired spinoff where players reference a treemap of a country’s exports to guess which country it is. Published on March 2022
+
+# [Alex Strinka](https://alex.strinka.net/)/[Old Blog](https://slithytovesandborogoves.blogspot.com/)
+- [Addle](https://alex.strinka.net/programs/addle/) - Wordle-inspired game but with addition problems. Use hints from your earlier guesses to figure out the addition equation. Likely published on early 2022
 
 [Actorle](https://actorle.com/) - Wordle but you have to guess Actors
 
