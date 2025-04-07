@@ -35,6 +35,10 @@ My own list of Wordle-like games and other assorted variations of this game form
 # [AntonMakesGames](https://antonmakesgames.itch.io/)/[Mastodon](https://mastodon.gamedev.place/@antonmakesgames)/[Github](https://github.com/Redoxee)
 - [EmojiGuessr](https://antonmakesgames.itch.io/emojiguessr)/[Github](https://github.com/Redoxee/emojiguessr) A game where you guess words or expressions using only emojis. Published on July 9, 2023
 
+# [Sam Hughes/Qntm](https://qntm.org/)/[Twitter](https://x.com/qntm)/[Bluesky](https://bsky.app/profile/qntm.org)/[Github](https://github.com/qntm)/[Wikipedia](https://en.wikipedia.org/wiki/Qntm)
+- [Absurdle](https://qntm.org/files/absurdle/absurdle.html) Dynamic, adversarial word-guessing game that adjusts its secret word in response to the player's guesses, aiming to prolong the game and make it more challenging. Published on January 9, 2022
+
+
 [Actorle](https://actorle.com/) - Wordle but you have to guess Actors
 
 [Alphabeticle](https://alphabeticle.xyz/) - Wordle but your number of guesses is limited by whether your letters occur earlier or later in the alphabet compared to the correct letters. 
