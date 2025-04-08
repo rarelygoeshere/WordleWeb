@@ -116,9 +116,10 @@ My own list of Wordle-like games and other assorted variations of this game form
 # [Jonathan Magano](https://x.com/Jonamaths)/[Framagit](https://framagit.org/JonathanMM)/[Mastodon](https://mastodon.social/@JonathanMM)
 - [Sutom](https://sutom.nocle.fr/)/[Framagit](https://framagit.org/JonathanMM/sutom)/[Wikipedia](https://fr.wikipedia.org/wiki/Sutom) Wordle game inspired by the French television game show _Motus_. Published on January 8, 2022
 
+# [Framed](https://x.com/framedwtf)/[Instagram](https://www.instagram.com/framedwtf)/[Bluesky](https://bsky.app/profile/framed.wtf)
+- [Framed](https://framed.wtf/) Daily movie identification Wordle-like using still frames.
 
-
-[Actorle](https://actorle.com/) - Wordle but you have to guess Actors
+[Actorle](https://actorle.com/) - Wordle but you have to guess Actors 
 
 
 [Alphabeticle](https://alphabeticle.xyz/) - Wordle but your number of guesses is limited by whether your letters occur earlier or later in the alphabet compared to the correct letters. 
@@ -289,7 +290,7 @@ My own list of Wordle-like games and other assorted variations of this game form
 
 [Yeardle](https://histordle.com/yeardle/) - Guess the year some historic events happened
 # Sort this out
-Duordle, Bardle, Heardle, BIRDL and even Lewdle
+Duordle, Bardle, Heardle, BIRD, the Movie Frame Game
 # Sources
 - Found in [Awesome Wordle](https://github.com/prakhar897/awesome-wordle) Note: recheck for additional Wordle variants
 ## Sources to sort through
