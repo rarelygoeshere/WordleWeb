@@ -61,6 +61,12 @@ My own list of Wordle-like games and other assorted variations of this game form
 # [Freddie Meyer](https://www.fmeyer.com/)
 - [Quordle](https://www.merriam-webster.com/games/quordle/)/[Wikipedia](https://en.wikipedia.org/wiki/Quordle) - A simultaneous four-word puzzle challenge with color-coded feedback, similar to Wordle—but with the twist that you must solve four puzzles at once. Published on February 2022
 
+# [Zaratustra](https://zaratustra.itch.io/)
+- [Plusdle](https://zaratustra.itch.io/plusdle) Wordle spinoff where you deduce a hidden sum instead of a word. Published on August 30, 2022
+- [Xdle](https://zaratustra.itch.io/xdle) Wordle spinoff where you deduce a hidden number within a specified range, typically between 1 and 1,000, using a series of mathematical clues provided after each guess.​ Published on May 24, 2022
+- [Dordle](https://zaratustra.itch.io/dordle) A Wordle clone where you solve two puzzles simultaneously. Published on January 21, 2022
+
+
 [Actorle](https://actorle.com/) - Wordle but you have to guess Actors
 
 [Alphabeticle](https://alphabeticle.xyz/) - Wordle but your number of guesses is limited by whether your letters occur earlier or later in the alphabet compared to the correct letters. 
