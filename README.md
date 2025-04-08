@@ -91,7 +91,19 @@ My own list of Wordle-like games and other assorted variations of this game form
 - [LeMot6](https://www.solitaire-play.com/lemot6/) Six-letter French Wordle clone. Published on March 6, 2022
 - [LeMot](https://www.solitaire-play.com/lemot/)/[Blog article](https://blog.pagesd.info/2022/01/11/le-mot-play-wordle-in-french/)/[Dev.to article](https://dev.to/michelc/lemot-to-play-wordle-in-french-5dh) French Wordle clone. Published on January 11, 2022
 
-[Actorle](https://actorle.com/) - Wordle but you have to guess Actors
+# screenwriter Gary Whitta and games developer [Adam Nickerson](https://x.com/theadamvision)
+- [Lewdle](https://www.lewdlegame.com/)/[1](https://lewdlegame.io/)/[Web version](https://www.lewdlegame.com/App)/[Apple App Store](https://apps.apple.com/us/app/lewdle/id1628871137)/[Business Insider Article](https://www.businessinsider.com/lewdle-wordle-game-viral-lewd-creators-gary-whitta-interview-2022-1) Wordle with Bad words. Published on January 2022
+
+# [PreoNus Games](https://steambase.io/developers/preonus-games)
+- Wordle series:
+  - [Wordle 5](https://store.steampowered.com/app/1867190/Wordle_5/) Published on October 11, 2022
+  - [Wordle](https://store.steampowered.com/app/1334000/Wordle/) Published on April 12, 2021
+  - [Wordle 4](https://store.steampowered.com/app/1477020/Wordle_4/) Published on December 1, 2020
+  - [Wordle 3](https://store.steampowered.com/app/1428820/Wordle_3/) Published on October 6, 2020
+  - [Wordle 2](https://store.steampowered.com/app/1386730/Wordle_2/) Published on August 31, 2020
+
+
+  [Actorle](https://actorle.com/) - Wordle but you have to guess Actors
 
 [Alphabeticle](https://alphabeticle.xyz/) - Wordle but your number of guesses is limited by whether your letters occur earlier or later in the alphabet compared to the correct letters. 
 
@@ -172,7 +184,6 @@ My own list of Wordle-like games and other assorted variations of this game form
 
 [Letterle](https://edjefferson.com/letterle/) - Wordle but you have to guess 1 letter.
 
-[Lewdle](https://www.lewdlegame.com/) - Wordle with Bad words.
 
 [Lexli](https://lexli.gr/) - Wordle in Greek
 
@@ -228,7 +239,7 @@ My own list of Wordle-like games and other assorted variations of this game form
 
 [Survivle](https://lazyguyy.github.io/survivle/) - Wordle on hard mode. All information gather must be used.
 
-[Sweardle](https://sweardle.com/) - Wordle with bad words.
+[Sweardle](https://sweardle.com/) - Wordle with swear words.
 
 [Symble](https://www.symble.app/) -  When you guess, you see a sequence of 5 symbols overlaid onto an invisible version of the secret answer, without knowing which symbol means a letter is correctly placed/incorrectly placed in the answer or not in the answer.
 
@@ -270,3 +281,5 @@ Duordle, Bardle, Heardle, BIRDL and even Lewdle
 - [A game rentry from the site hunting list on the FMHY Subreddit](https://rentry.co/aawb2pus)
 - https://www.washingtonpost.com/video-games/2022/02/16/wordle-spin-off-worldle-creator-antoine-teuf/
 - https://forumserver.twoplustwo.com/59/puzzles-other-games/word500-1805627/index3.html
+- https://www.reddit.com/r/wordle/comments/svk6gq/created_a_compilation_of_wordltype_games_hope_you/
+- https://www.howtogeek.com/107428/the-6-best-wordle-alternatives/
