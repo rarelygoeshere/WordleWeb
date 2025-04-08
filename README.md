@@ -254,6 +254,7 @@ My own list of Wordle-like games and other assorted variations of this game form
 # Sort this out
 Duordle, Bardle, Heardle, BIRDL and even Lewdle
 # Sources
-- Found in [Awesome Wordle](https://github.com/prakhar897/awesome-wordle)
+- Found in [Awesome Wordle](https://github.com/prakhar897/awesome-wordle) Note: recheck for additional Wordle variants
+## Sources to sort through
 - [March 8, 2022 - Drew Patty - Medium: Wordle Spinoffs: The Complete and Authoritative Index](https://medium.com/floodgates/the-complete-and-authoritative-list-of-wordle-spinoffs-fb00bfafc448)/[Archive link](https://archive.ph/vuNdB)
 - [A game rentry from the site hunting list on the FMHY Subreddit](https://rentry.co/aawb2pus)
