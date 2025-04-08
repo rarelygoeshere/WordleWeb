@@ -64,8 +64,10 @@ My own list of Wordle-like games and other assorted variations of this game form
 # [Zaratustra](https://zaratustra.itch.io/)
 - [Plusdle](https://zaratustra.itch.io/plusdle) Wordle spinoff where you deduce a hidden sum instead of a word. Published on August 30, 2022
 - [Xdle](https://zaratustra.itch.io/xdle) Wordle spinoff where you deduce a hidden number within a specified range, typically between 1 and 1,000, using a series of mathematical clues provided after each guess.​ Published on May 24, 2022
-- [Dordle](https://zaratustra.itch.io/dordle) A Wordle clone where you solve two puzzles simultaneously. Published on January 21, 2022
+- [Dordle](https://zaratustra.itch.io/dordle)/[1](https://dordlegame.io/)  A Wordle clone where you solve two words simultaneously. Published on January 21, 2022
 
+# Kenneth Crawford
+- [Octordle](https://www.britannica.com/games/octordle/)/[1](https://octordlegame.io/) Same core gameplay as Wordle, but you have to attempt eight words simultaneously, plus other variants. Published on February 2022
 
 [Actorle](https://actorle.com/) - Wordle but you have to guess Actors
 
@@ -103,7 +105,6 @@ My own list of Wordle-like games and other assorted variations of this game form
 
 [DontWordle](https://dontwordle.com/) - A complete opposite of Wordle.
 
-[Dordle](https://dordlegame.io/) -  Wordle with two words to guess instead of just one.
 
 [Duotrigordle](https://duotrigordle.com/#) - Wordle but you have to guess 32 words in 37 tries.
 
@@ -160,7 +161,6 @@ My own list of Wordle-like games and other assorted variations of this game form
 [Movlie](https://movlie.org/) - Guess movie from screenshot
 
 
-[Octordle](https://octordle.com/) - Same as Wordle but you have to attempt eight prompts simultaneously, plus other variants.
 
 [Optimle](https://optimle.meow.garden/) - Optimized wordle.
 
