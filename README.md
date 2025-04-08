@@ -128,7 +128,7 @@ My own list of Wordle-like games and other assorted variations of this game form
 # [Cassidy Williams](https://cassidoo.co/)
 - [Jumblie](https://jumblie.com/) Daily themed word search puzzle. Published on November 28, 2023
 
-# [David Turner](https://games.novalis.org/)
+# [David Turner](https://games.novalis.org/)/[Twitter](https://x.com/novalisdmt)/[Fediverse](https://honk.novalis.org/)/[Gitlab](https://gitlab.com/novalis_dt)/[Patreon](https://www.patreon.com/profile/creators?u=4043145)
 - [Semantle](https://semantle.com/)/[The Washington Post article](https://www.washingtonpost.com/video-games/2022/04/04/semantle-wordle-hard-mode/) Like Wordle, but with hints showing how semantically 'hot' or 'cold' your guesses are to the secret word. Published on February 27, 2022
 
 [Actorle](https://actorle.com/) - Wordle but you have to guess Actors 
