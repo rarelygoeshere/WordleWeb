@@ -123,6 +123,9 @@ My own list of Wordle-like games and other assorted variations of this game form
 # [Lluis](https://x.com/DrRaego)
 - [Chronoline](https://chronoline.app)/[Twitter release post](https://x.com/DrRaego/status/1640299258254352385) Worldle-inspired game where players place cards representing historical events in the correct chronological order to form a timeline. Published on March 27, 2023
 
+# [Cassidy Williams](https://cassidoo.co/)
+- [Jumblie](https://jumblie.com/) Daily themed word search puzzle. Published on November 28, 2023
+
 [Actorle](https://actorle.com/) - Wordle but you have to guess Actors 
 
 
