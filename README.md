@@ -50,8 +50,13 @@ My own list of Wordle-like games and other assorted variations of this game form
 
 # [Adriano Brandão](https://aded.studio/)/[Merchandising shop](https://www.bonfire.com/store/musicle/)/[Twitter](https://x.com/adrianosbr)/[Bluesky](https://bsky.app/profile/adrianobrandao.com)
 - [Musicle](https://musicle.app/atlas)/[Official Twitter](https://x.com/musicleapp)/[Product Hunt](https://www.producthunt.com/products/musicle) Daily music-guessing game where you guess a country by its national anthem. Published on May 16, 2022
+
 # [Nerdlegame](https://x.com/nerdlegame)
 - [Nerdle](https://nerdlegame.com/)/[Wikipedia](https://en.wikipedia.org/wiki/Nerdle) - Wordle-inspired daily math equation guessing game with color-coded feedback. Published on January 2022
+
+# [Niklbird](https://x.com/niklbird)
+- [Flagle](https://flagle.de/)/[Twitter release post](https://x.com/niklbird/status/1521800215673688064) An adaptation to Worldle where players guess flags instead of country borders. Published on May 4, 2022
+
 
 [Actorle](https://actorle.com/) - Wordle but you have to guess Actors
 
