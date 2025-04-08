@@ -107,6 +107,11 @@ My own list of Wordle-like games and other assorted variations of this game form
 - [Wordhurdle](https://solitaired.com/wordhurdle) A game like Worlde, but you guess the 6-letter word. Published on February 2022
 - [Clue Hurdle](https://solitaired.com/cluehurdle) Similar to Phrazle but provides additional clues to assist players in guessing the phrase
 
+# [u/Ertersy](https://www.reddit.com/user/Ertersy/)
+- [Taylordle.xyz](https://www.taylordle.xyz/)/[Reddit release post](https://www.reddit.com/r/TaylorSwift/comments/1bclpah/i_made_a_new_taylordle/) Daily Taylor Swift song guessing Wordle variant. Published on March 12, 2024
+
+# [Fireblend/Sergio Morales Esquivel](https://github.com/fireblend/)
+- [Squirdle](https://squirdle.fireblend.com/)/[Github](https://github.com/Fireblend/squirdle) Pokemon-themed Wordle game. Published on January 11, 2022
   [Actorle](https://actorle.com/) - Wordle but you have to guess Actors
 
 [Alphabeticle](https://alphabeticle.xyz/) - Wordle but your number of guesses is limited by whether your letters occur earlier or later in the alphabet compared to the correct letters. 
