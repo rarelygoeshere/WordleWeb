@@ -283,3 +283,5 @@ Duordle, Bardle, Heardle, BIRDL and even Lewdle
 - https://forumserver.twoplustwo.com/59/puzzles-other-games/word500-1805627/index3.html
 - https://www.reddit.com/r/wordle/comments/svk6gq/created_a_compilation_of_wordltype_games_hope_you/
 - https://www.howtogeek.com/107428/the-6-best-wordle-alternatives/
+- https://ftw.usatoday.com/story/entertainment/pop-culture/2022/01/25/wordle-knockoffs-imitations-word-games/81404318007/
+- https://www.washingtonpost.com/video-games/2022/02/03/wordle-alternatives-new-york-times-paywall/
