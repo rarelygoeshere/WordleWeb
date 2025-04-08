@@ -309,3 +309,4 @@ Duordle, Bardle, Heardle, BIRD, the Movie Frame Game
 - https://www.howtogeek.com/107428/the-6-best-wordle-alternatives/
 - https://ftw.usatoday.com/story/entertainment/pop-culture/2022/01/25/wordle-knockoffs-imitations-word-games/81404318007/
 - https://www.washingtonpost.com/video-games/2022/02/03/wordle-alternatives-new-york-times-paywall/
+- https://www.numerama.com/politique/1649280-les-clones-de-wordle-risquent-de-disparaitre.html
