@@ -87,6 +87,9 @@ My own list of Wordle-like games and other assorted variations of this game form
 # [cole_adams1](https://x.com/cole_adams1)
 - [Curldle](https://www.curldle.com/)/[Twitter release post](https://x.com/cole_adams1/status/1494737061529616386) Wordle clone for curling fans, where you guess the linescore of a curling game based on the final score. Published on February 19, 2022
 
+# [Michel C./LeMotLeJeu](https://blog.pagesd.info/)/[Twitter](https://x.com/LeMotLeJeu)/[Bluesky](https://bsky.app/profile/lemotlejeu.bsky.social)/[Mastodon](https://mastodon.top/@LeMotLeJeu)
+- [LeMot6](https://www.solitaire-play.com/lemot6/) Six-letter French Wordle clone. Published on March 6, 2022
+- [LeMot](https://www.solitaire-play.com/lemot/)/[Blog article](https://blog.pagesd.info/2022/01/11/le-mot-play-wordle-in-french/)/[Dev.to article](https://dev.to/michelc/lemot-to-play-wordle-in-french-5dh) French Wordle clone. Published on January 11, 2022
 
 [Actorle](https://actorle.com/) - Wordle but you have to guess Actors
 
@@ -265,3 +268,5 @@ Duordle, Bardle, Heardle, BIRDL and even Lewdle
 ## Sources to sort through
 - [March 8, 2022 - Drew Patty - Medium: Wordle Spinoffs: The Complete and Authoritative Index](https://medium.com/floodgates/the-complete-and-authoritative-list-of-wordle-spinoffs-fb00bfafc448)/[Archive link](https://archive.ph/vuNdB)
 - [A game rentry from the site hunting list on the FMHY Subreddit](https://rentry.co/aawb2pus)
+- https://www.washingtonpost.com/video-games/2022/02/16/wordle-spin-off-worldle-creator-antoine-teuf/
+- https://forumserver.twoplustwo.com/59/puzzles-other-games/word500-1805627/index3.html
