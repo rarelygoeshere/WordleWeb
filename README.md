@@ -41,8 +41,9 @@ My own list of Wordle-like games and other assorted variations of this game form
 
 # [Trainwreck Labs](https://trainwrecklabs.com/)
 - [Forgeous](https://forgeous.fun/) Daily art forgery through digital finger painting.​
+- [GLOBLE: LEAGUES](https://globle-leagues.com/) Multiplayer version of Globle.
 - [GLOBLE: CAPITALS](https://globle-capitals.com/) Daily capital city-guessing challenge with proximity hints.​
-- [GLOBLE](https://globle-game.com/) Daily country-guessing challenge based on proximity feedback.Published on March 2022
+- [GLOBLE](https://globle-game.com/)/[Github](https://github.com/the-abe-train/globle) Daily country-guessing challenge based on proximity feedback. Published on January 18, 2022
 
 # [Countryle](https://x.com/countryleapp)/[Kofi](https://ko-fi.com/countryle)
 - [Countryle](https://www.countryle.com/)/[Twitter](https://x.com/countryleapp/status/1501211442858676225) Daily country-guessing challenge with attribute-based feedback. Published on March 8, 2022
@@ -57,6 +58,8 @@ My own list of Wordle-like games and other assorted variations of this game form
 # [Niklbird](https://x.com/niklbird)
 - [Flagle](https://flagle.de/)/[Twitter release post](https://x.com/niklbird/status/1521800215673688064) An adaptation to Worldle where players guess flags instead of country borders. Published on May 4, 2022
 
+# 
+[Quordle](https://www.merriam-webster.com/games/quordle/) - Same as Wordle, but you have to attempt four prompts simultaneously.
 
 [Actorle](https://actorle.com/) - Wordle but you have to guess Actors
 
@@ -174,8 +177,6 @@ My own list of Wordle-like games and other assorted variations of this game form
 [Primel](https://converged.yt/primel/) - Wordle with Prime Numbers.
 
 [Quintessential](https://quintessential.fun/) - Wordle but you can only swap words.
-
-[Quordle](https://www.quordle.com/#/) - Same as Wordle, but you have to attempt four prompts simultaneously.
 
 [QWRTL](https://limpet.net/qwrtl/) - Wordle but Letter E is banished.
 
