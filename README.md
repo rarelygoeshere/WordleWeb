@@ -75,6 +75,10 @@ My own list of Wordle-like games and other assorted variations of this game form
 # [Guillaume Harari](https://x.com/GuillaumeHarari)/[Github](https://github.com/guillaumebdx)/[Codepen](https://codepen.io/guillaumebdx)/[Portfolio](https://portfolio.harari.ovh/)
 - [WordleMonde](https://wordlemonde.fr/)/[1](https://worldle.harari.ovh/)/[Github](https://github.com/guillaumebdx/worldle)/[Official Twitter](https://x.com/WordleMonde)/[Twitter release post](https://x.com/WordleMonde/status/1483207959975010309) French Worldle-inspired spinoff where you must guess geographical locations in France. Published on January 18, 2022
 
+# [Katherine Oelsner](https://www.katherineoelsner.com/)/[Github](https://github.com/octokatherine)/[Twitter](https://x.com/katherinecodes)
+- [Word Master](https://octokatherine.github.io/word-master/)/[Github](https://github.com/octokatherine/word-master)/[Twitter release post](https://x.com/katherinecodes/status/1476310566775885824) Word guessing game similar to Mastermind. Published on December 30, 2021
+
+
 [Actorle](https://actorle.com/) - Wordle but you have to guess Actors
 
 [Alphabeticle](https://alphabeticle.xyz/) - Wordle but your number of guesses is limited by whether your letters occur earlier or later in the alphabet compared to the correct letters. 
