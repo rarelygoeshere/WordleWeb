@@ -78,6 +78,8 @@ My own list of Wordle-like games and other assorted variations of this game form
 # [Katherine Oelsner](https://www.katherineoelsner.com/)/[Github](https://github.com/octokatherine)/[Twitter](https://x.com/katherinecodes)
 - [Word Master](https://octokatherine.github.io/word-master/)/[Github](https://github.com/octokatherine/word-master)/[Twitter release post](https://x.com/katherinecodes/status/1476310566775885824) Word guessing game similar to Mastermind. Published on December 30, 2021
 
+# [Bradley Connolly](https://x.com/bradleyc73)
+- [Hertl](https://www.hertl.app/)/[Twitter release post](https://x.com/bradleyc73/status/1504277939931820033) Daily NHL player guessing game. Published on March 17, 2022
 
 [Actorle](https://actorle.com/) - Wordle but you have to guess Actors
 
@@ -249,7 +251,8 @@ My own list of Wordle-like games and other assorted variations of this game form
 [Wor-Wordle-dle](https://wor-wordle-dle.web.app/#/) - Multi Layered Wordle.
 
 [Yeardle](https://histordle.com/yeardle/) - Guess the year some historic events happened
-
+# Sort this out
+Duordle, Bardle, Heardle, BIRDL and even Lewdle
 # Sources
 - Found in [Awesome Wordle](https://github.com/prakhar897/awesome-wordle)
 - [March 8, 2022 - Drew Patty - Medium: Wordle Spinoffs: The Complete and Authoritative Index](https://medium.com/floodgates/the-complete-and-authoritative-list-of-wordle-spinoffs-fb00bfafc448)/[Archive link](https://archive.ph/vuNdB)
