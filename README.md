@@ -81,8 +81,12 @@ My own list of Wordle-like games and other assorted variations of this game form
 # [Bradley Connolly](https://x.com/bradleyc73)
 - [Hertl](https://www.hertl.app/)/[Twitter release post](https://x.com/bradleyc73/status/1504277939931820033) Daily NHL player guessing game. Published on March 17, 2022
 
-# [Louan Bengmah(https://x.com/louanben)/[Github](https://github.com/LouanBen)
+# [Louan Bengmah](https://x.com/louanben)/[Github](https://github.com/LouanBen)
 - [Le Mot](https://wordle.louan.me/)/[Github](https://github.com/louanben/wordle-fr)/[Official Twitter](https://x.com/WordleFR) Wordle Clone adapted for French vocabulary. Published on January 6, 202
+
+# [cole_adams1](https://x.com/cole_adams1)
+- [Curldle](https://www.curldle.com/)/[Twitter release post](https://x.com/cole_adams1/status/1494737061529616386) Wordle clone for curling fans, where you guess the linescore of a curling game based on the final score. Published on February 19, 2022
+
 
 [Actorle](https://actorle.com/) - Wordle but you have to guess Actors
 
