@@ -69,6 +69,11 @@ My own list of Wordle-like games and other assorted variations of this game form
 # Kenneth Crawford
 - [Octordle](https://www.britannica.com/games/octordle/)/[1](https://octordlegame.io/) Same core gameplay as Wordle, but you have to attempt eight words simultaneously, plus other variants. Published on February 2022
 
+# [Pallav Agarwal](https://agpallav.com/)
+- [MyWordle](https://mywordle.strivemath.com/)/[Twitter release post](https://x.com/pallavmac/status/1484980408563355649) A version of Wordle where you can create and share personalized Wordle puzzles for others to play. Published on January 23, 2022
+
+#
+
 [Actorle](https://actorle.com/) - Wordle but you have to guess Actors
 
 [Alphabeticle](https://alphabeticle.xyz/) - Wordle but your number of guesses is limited by whether your letters occur earlier or later in the alphabet compared to the correct letters. 
