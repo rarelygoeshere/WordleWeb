@@ -58,8 +58,8 @@ My own list of Wordle-like games and other assorted variations of this game form
 # [Niklbird](https://x.com/niklbird)
 - [Flagle](https://flagle.de/)/[Twitter release post](https://x.com/niklbird/status/1521800215673688064) An adaptation to Worldle where players guess flags instead of country borders. Published on May 4, 2022
 
-# 
-[Quordle](https://www.merriam-webster.com/games/quordle/) - Same as Wordle, but you have to attempt four prompts simultaneously.
+# [Freddie Meyer](https://www.fmeyer.com/)
+- [Quordle](https://www.merriam-webster.com/games/quordle/)/[Wikipedia](https://en.wikipedia.org/wiki/Quordle) - A simultaneous four-word puzzle challenge with color-coded feedback, similar to Wordle—but with the twist that you must solve four puzzles at once. Published on February 2022
 
 [Actorle](https://actorle.com/) - Wordle but you have to guess Actors
 
