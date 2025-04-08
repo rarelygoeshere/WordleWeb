@@ -72,7 +72,7 @@ My own list of Wordle-like games and other assorted variations of this game form
 # [Pallav Agarwal](https://agpallav.com/)
 - [MyWordle](https://mywordle.strivemath.com/)/[Twitter release post](https://x.com/pallavmac/status/1484980408563355649) A version of Wordle where you can create and share personalized Wordle puzzles for others to play. Published on January 23, 2022
 
-# [Guillaume Harari](https://x.com/GuillaumeHarari)/[Github](https://github.com/guillaumebdx)/[Portfolio](https://portfolio.harari.ovh/)
+# [Guillaume Harari](https://x.com/GuillaumeHarari)/[Github](https://github.com/guillaumebdx)/[Codepen](https://codepen.io/guillaumebdx)/[Portfolio](https://portfolio.harari.ovh/)
 - [WordleMonde](https://wordlemonde.fr/)/[1](https://worldle.harari.ovh/)/[Github](https://github.com/guillaumebdx/worldle)/[Official Twitter](https://x.com/WordleMonde)/[Twitter release post](https://x.com/WordleMonde/status/1483207959975010309) French Worldle-inspired spinoff where you must guess geographical locations in France. Published on January 18, 2022
 
 [Actorle](https://actorle.com/) - Wordle but you have to guess Actors
