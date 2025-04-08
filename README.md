@@ -102,6 +102,10 @@ My own list of Wordle-like games and other assorted variations of this game form
   - [Wordle 3](https://store.steampowered.com/app/1428820/Wordle_3/) Published on October 6, 2020
   - [Wordle 2](https://store.steampowered.com/app/1386730/Wordle_2/) Published on August 31, 2020
 
+# [Solitaired](https://solitaired.com/)
+- [Phrazle](https://solitaired.com/phrazle) Phrase-guessing Wordle game
+- [Wordhurdle](https://solitaired.com/wordhurdle) A game like Worlde, but you guess the 6-letter word. Published on February 2022
+- [Clue Hurdle](https://solitaired.com/cluehurdle) Similar to Phrazle but provides additional clues to assist players in guessing the phrase
 
   [Actorle](https://actorle.com/) - Wordle but you have to guess Actors
 
