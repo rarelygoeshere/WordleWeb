@@ -205,7 +205,10 @@ My own list of Wordle-like games and other assorted variations of this game form
   - [Word Hunt Solver](https://wordhuntsolver.com/)/[Github](https://github.com/mtomko87/wordhuntsolver) a web application designed to find all possible words that can be formed in a given grid of letters. It assists players in games like "Word Hunt" by providing potential word combinations from the letter grid. Published on August 16, 2021
 
 # [hedalu244](https://github.com/hedalu244)
-- [Diffle](https://hedalu244.github.io/diffle/)/[Github](https://github.com/hedalu244/diffle) Word game where you guess a hidden word using as few letters and attempts as possible. Published on Janunary 29, 2022
+- [Diffle](https://hedalu244.github.io/diffle/)/[Github](https://github.com/hedalu244/diffle) Word game where you guess a hidden word using as few letters and attempts as possible. Published on January 29, 2022
+
+# [Jack Li](https://jackli.gg/)/[Twitter](https://x.com/jackli_gg)
+- [Chessle](https://jackli.gg/chessle/)/[Reddit release post](https://www.reddit.com/r/chess/comments/srwlee/i_created_chessle_like_wordle_but_for_chess/)/[Chess.com release post](https://www.chess.com/blog/GMJackL/chessle-like-wordle-but-for-chess-openings) Wordle with Chess pieces, where players guess specific chess opening sequences. Published on February 14, 2022
 
 - [Actorle](https://actorle.com/) - Wordle but you have to guess Actors 
 
@@ -230,7 +233,6 @@ My own list of Wordle-like games and other assorted variations of this game form
 
 [Cemantle](https://cemantle.certitudes.org/) - Wordle but you're given temperature of closeness to the chosen word.
 
-[Chessle](https://jackli.gg/chessle/) - Wordle with Chess pieces.
 
 [Colordle](https://colordle.com/) - Wordle but you have to guess the color hex value.
 
