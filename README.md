@@ -204,6 +204,9 @@ My own list of Wordle-like games and other assorted variations of this game form
 - [Wordhuntle](https://www.wordhuntle.com/)/[Github](https://github.com/mtomko87/wordhuntle) Connect adjacent letters to form words in a square grid.​ Published on January 26, 2022
   - [Word Hunt Solver](https://wordhuntsolver.com/)/[Github](https://github.com/mtomko87/wordhuntsolver) a web application designed to find all possible words that can be formed in a given grid of letters. It assists players in games like "Word Hunt" by providing potential word combinations from the letter grid. Published on August 16, 2021
 
+# [hedalu244](https://github.com/hedalu244)
+- [Diffle](https://hedalu244.github.io/diffle/)/[Github](https://github.com/hedalu244/diffle) Word game where you guess a hidden word using as few letters and attempts as possible. Published on Janunary 29, 2022
+
 - [Actorle](https://actorle.com/) - Wordle but you have to guess Actors 
 
 
