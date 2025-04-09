@@ -182,6 +182,9 @@ My own list of Wordle-like games and other assorted variations of this game form
 # [Ryan Carmody](https://x.com/ryancarmody_dev)
 - [Smug Chicken](https://smugchicken.com/)/[Official Twitter](https://x.com/smug_chicken)/[Twitter release post](https://x.com/smug_chicken/status/1614748274526941184) A daily AI word game where players guess the two-word text prompt used to generate both an AI art image and a ChatGPT haiku. Published on January 16, 2023
 
+# [LeConnections](https://x.com/leconnectapp)
+- [NFLeConnections](https://www.nf.leconnections.app/)/[Twitter release post](https://x.com/leconnectapp/status/1810440440166146477) Identify connections among NFL players.​ Published on July 9, 2024
+- [LeConnections](https://www.leconnections.app/)/[Twitter release post](https://x.com/leconnectapp/status/1764781263356080150) Identify connections among NBA players. Published on February 26, 2024
 
 - [Actorle](https://actorle.com/) - Wordle but you have to guess Actors 
 
