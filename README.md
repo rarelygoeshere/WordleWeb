@@ -198,7 +198,11 @@ My own list of Wordle-like games and other assorted variations of this game form
   - [Shawffle](https://shawffle.busydoingnothing.co.uk/) A daily word game in English with the Shavian alphabet, where players swap letters to form valid words in a Waffle grid.
 
 # [Michael Giuffrida](https://michaelg.us/)
-- [Squaredle](https://squaredle.app/)/[Official Reddit](https://www.reddit.com/r/squaredle/)/[Official Twitter](https://x.com/SquaredleApp)/[Article](https://web.archive.org/web/20220719200539/https://wordfinder.yourdictionary.com/blog/the-story-of-squaredle-talking-with-game-creator-michael-giuffrida/) A daily word search game challenging players to exhaust all adjacent-letter words from a square grid. Published on March 5, 2022
+- [Squaredle](https://squaredle.app/)/[Official Reddit](https://www.reddit.com/r/squaredle/)/[Official Twitter](https://x.com/SquaredleApp)/[Article](https://web.archive.org/web/20220719200539/https://wordfinder.yourdictionary.com/blog/the-story-of-squaredle-talking-with-game-creator-michael-giuffrida/) A daily word search game where players connect adjacent letters in any direction to form words, aiming to clear the entire grid by exhausting all possible combinations. Published on March 5, 2022
+
+# [mtomko87](https://github.com/mtomko87)
+- [Wordhuntle](https://www.wordhuntle.com/)/[Github](https://github.com/mtomko87/wordhuntle) Connect adjacent letters to form words in a square grid.​ Published on January 26, 2022
+  - [Word Hunt Solver](https://wordhuntsolver.com/)/[Github](https://github.com/mtomko87/wordhuntsolver) a web application designed to find all possible words that can be formed in a given grid of letters. It assists players in games like "Word Hunt" by providing potential word combinations from the letter grid. Published on August 16, 2021
 
 - [Actorle](https://actorle.com/) - Wordle but you have to guess Actors 
 
