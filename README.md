@@ -146,8 +146,11 @@ My own list of Wordle-like games and other assorted variations of this game form
 # [Chee Aun](https://cheeaun.com/)/[Github](https://github.com/cheeaun)/[Twitter](https://x.com/cheeaun)/[Bluesky](https://bsky.app/profile/cheeaun.com)/[Mastodon](https://mastodon.social/@cheeaun)
 - [Chengyu Wordle](https://cheeaun.github.io/chengyu-wordle/)/[Github](https://github.com/cheeaun/chengyu-wordle)/[Twitter release post](https://x.com/cheeaun/status/1486655277516480527)/[Sixth Tone article](https://www.sixthtone.com/news/1009586) Wordle for Chinese idioms, where players fill in blanks using available characters. Published on January 27, 2022
 
-# [Anthony Fu](https://antfu.me/)/[Github](https://github.com/antfu)/[Bluesky](https://bsky.app/profile/antfu.me)/[Twitter](https://x.com/antfu7)
-- [汉兜 (Hàn dōu)](https://handle.antfu.me/)/[Github](https://github.com/antfu/handle)/[Twitter release post](https://x.com/antfu7/status/1487459883037634563) A Chinese version of Wordle where players guess a four-character word with tone and pinyin feedback. Published on January 29, 2022
+# [Anthony Fu](https://antfu.me/)/[Github](https://github.com/antfu)/[Bluesky](https://bsky.app/profile/antfu.me)/[Twitter](https://x.com/antfu7) and [Inès](https://twitter.com/iiiiiiines_____)
+- [汉兜 (Hàn dōu)](https://handle.antfu.me/)/[Github](https://github.com/antfu/handle)/[Twitter release post](https://x.com/antfu7/status/1487459883037634563) A Chinese version of Wordle where players guess a four-character word using pinyin and pronunciation tones as hints. Published on January 29, 2022
+
+# [LinCenYing](https://github.com/lincenying)
+- [汉兜 (Hàn dōu)](https://handle.mmxiaowu.com/)/[Github](https://github.com/lincenying/handle) A 汉兜 (Hàn dōu) clone modified by LinCenYing. Published on March 9, 2023
 
 [Actorle](https://actorle.com/) - Wordle but you have to guess Actors 
 
@@ -331,3 +334,4 @@ https://worlde-word-game.glitch.me/
 - https://www.washingtonpost.com/video-games/2022/02/03/wordle-alternatives-new-york-times-paywall/
 - https://www.numerama.com/politique/1649280-les-clones-de-wordle-risquent-de-disparaitre.html
 - https://github.com/cheeaun/chengyu-wordle#other-similar-attempts Sort these out for Chinese Wordle clones
+- https://siwei.io/en/resolve-wordle/
