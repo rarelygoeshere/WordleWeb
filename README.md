@@ -160,6 +160,8 @@ My own list of Wordle-like games and other assorted variations of this game form
   - [GEODLE: Singapore Schools](https://geodle.vercel.app/sg-schools) Wordle for Singapore Schools names.
   - [GEODLE: Singapore Shopping Malls](https://geodle.vercel.app/sg-shopping-malls) Wordle for Singapore Shopping Malls names.
 
+# [Robert Brignall](https://rbrignall.github.io/)/[Academia Website](https://www.rbrignall.org.uk/)/[Bluesky](https://bsky.app/profile/rbrignall.bsky.social)/[Github](https://github.com/rbrignall)/[Twitter](https://x.com/rbrignall)
+- [Byrdle](https://www.byrdle.net/)/[Github](https://github.com/rbrignall/open-byrdle)/[Old Github](https://github.com/rbrignall/byrdle)/[Twitter release post](https://x.com/QuireMemes/status/1481205826601771010) Wordle for choral music. Published on January 12, 2022
 
 [Actorle](https://actorle.com/) - Wordle but you have to guess Actors 
 
@@ -180,7 +182,6 @@ My own list of Wordle-like games and other assorted variations of this game form
 
 [Brdl](https://brdl.alex.gd/) - Guess daily bird banding code.
 
-[Byrdle](https://www.byrdle.net/) - Wordle for choral music.
 
 [Canukle](https://www.canucklegame.ca/) - Wordle with Canadian words.
 
