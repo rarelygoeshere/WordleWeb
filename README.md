@@ -128,9 +128,14 @@ My own list of Wordle-like games and other assorted variations of this game form
 # [Cassidy Williams](https://cassidoo.co/)
 - [Jumblie](https://jumblie.com/) Daily themed word search puzzle. Published on November 28, 2023
 
-# [David Turner](https://games.novalis.org/)/[Twitter](https://x.com/novalisdmt)/[Fediverse](https://honk.novalis.org/)/[Gitlab](https://gitlab.com/novalis_dt)/[Patreon](https://www.patreon.com/profile/creators?u=4043145)
-- [Semantle](https://semantle.com/)/[The Washington Post article](https://www.washingtonpost.com/video-games/2022/04/04/semantle-wordle-hard-mode/) Like Wordle, but with hints showing how semantically 'hot' or 'cold' your guesses are to the secret word. Published on February 27, 2022
+# [David Turner](https://games.novalis.org/)/[Twitter](https://x.com/novalisdmt)/[Fediverse](https://honk.novalis.org/)/[Gitlab](https://gitlab.com/novalis_dt)/[Patreon](https://www.patreon.com/profile/creators?u=4043145)/[Blog](https://novalis.org/blog/)
+- [Semantle](https://semantle.com/)/[Twitter release post](https://x.com/NovalisDMT/status/1488356261875830784)/[The Washington Post article](https://www.washingtonpost.com/video-games/2022/04/04/semantle-wordle-hard-mode/) Like Wordle, but with hints showing how semantically 'hot' or 'cold' your guesses are to the secret word. Published on February 1, 2022
 
+# [Sunny Ng](https://sunny.ng/)/[Twitter](https://x.com/_blahblahblah)/[Github](https://github.com/blahblahblah-)
+- [Roundle](https://london.subwaydle.com/)/[Github](https://github.com/blahblahblah-/subwaydle-london)/[Twitter release post](https://x.com/_blahblahblah/status/1529114497234964480) Daily London Underground route Wordle puzzle. Published on May 24, 2022
+- [MTRdle](https://hk.subwaydle.com/)/[Github](https://github.com/blahblahblah-/subwaydle-hk)/[Twitter release post](https://x.com/_blahblahblah/status/1525666557564801024) Daily Hong Kong MTR route Wordle puzzle. Published on May 15, 2022
+- [Subwaydle](https://www.subwaydle.com/)/[Github](https://github.com/blahblahblah-/subwaydle)/[Kotaku article](https://kotaku.com/games-like-wordle-subwaydle-nyct-mta-best-routes-1848461481) Daily NYC subway route Wordle puzzle. Published on January 29, 2022
+- 
 [Actorle](https://actorle.com/) - Wordle but you have to guess Actors 
 
 
@@ -263,7 +268,6 @@ My own list of Wordle-like games and other assorted variations of this game form
 
 [Squardle](https://fubargames.se/squardle/) - Wordle on a 5X5 grid.
 
-[Subwaydle](https://www.subwaydle.com/) - Wordle with Subway trip.
 
 [Survivle](https://lazyguyy.github.io/survivle/) - Wordle on hard mode. All information gather must be used.
 
