@@ -143,6 +143,10 @@ My own list of Wordle-like games and other assorted variations of this game form
 # [Hangzhi Yu](https://www.hangzhi.de/)/[Github](https://github.com/Hnagzhi)/[Twitter](https://x.com/hanghzi)
 - [Ubahndle](https://ubahndle.hangzhi.de/)/[Github](https://github.com/Hnagzhi/subwaydle-berlin) Subwaydle-inspired spinoff for Berlin U-Bahn/S-Bahn routes. Published on May 29, 2022
 
+# [Chee Aun](https://cheeaun.com/)/[Github](https://github.com/cheeaun)/[Twitter](https://x.com/cheeaun)/[Bluesky](https://bsky.app/profile/cheeaun.com)/[Mastodon](https://mastodon.social/@cheeaun)
+- [Chengyu Wordle](https://cheeaun.github.io/chengyu-wordle/)/[Github](https://github.com/cheeaun/chengyu-wordle)/[Twitter release post](https://x.com/cheeaun/status/1486655277516480527)/[Sixth Tone article](https://www.sixthtone.com/news/1009586) Wordle for Chinese idioms, where players fill in blanks using available characters. Published on January 27, 2022
+
+
 [Actorle](https://actorle.com/) - Wordle but you have to guess Actors 
 
 
@@ -216,8 +220,6 @@ My own list of Wordle-like games and other assorted variations of this game form
 [GuessTheArt](https://guessthe.art/help) - Given a picture, guess the words used to generate it.
 
 [Hardle](https://hardle.herokuapp.com/) - Wordle but tiles have random colours for hint.
-
-[Heardle](https://www.spotify.com/heardle/?type=auto&message=no-local-storage) - Guess music from intro
 
 [JoinedWords](https://jw-daily.web.app/#/) - Guess words based on clues.
 
@@ -326,3 +328,4 @@ https://worlde-word-game.glitch.me/
 - https://ftw.usatoday.com/story/entertainment/pop-culture/2022/01/25/wordle-knockoffs-imitations-word-games/81404318007/
 - https://www.washingtonpost.com/video-games/2022/02/03/wordle-alternatives-new-york-times-paywall/
 - https://www.numerama.com/politique/1649280-les-clones-de-wordle-risquent-de-disparaitre.html
+- https://github.com/cheeaun/chengyu-wordle#other-similar-attempts Sort these out for Chinese Wordle clones
