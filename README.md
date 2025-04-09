@@ -129,6 +129,7 @@ My own list of Wordle-like games and other assorted variations of this game form
 - [Jumblie](https://jumblie.com/) Daily themed word search puzzle. Published on November 28, 2023
 
 # [David Turner](https://games.novalis.org/)/[Twitter](https://x.com/novalisdmt)/[Fediverse](https://honk.novalis.org/)/[Gitlab](https://gitlab.com/novalis_dt)/[Patreon](https://www.patreon.com/profile/creators?u=4043145)/[Blog](https://novalis.org/blog/)
+- [Middles](https://middlesgame.com/)/[Blog release post](https://novalis.org/blog/2023-10-30-middles-a-daily-word-game-.html) Daily word completion challenge based on unique middle segments.​ Published on October 30, 2023
 - [Semantle](https://semantle.com/)/[Twitter release post](https://x.com/NovalisDMT/status/1488356261875830784)/[The Washington Post article](https://www.washingtonpost.com/video-games/2022/04/04/semantle-wordle-hard-mode/) Like Wordle, but with hints showing how semantically 'hot' or 'cold' your guesses are to the secret word. Published on February 1, 2022
 
 # [Sunny Ng](https://sunny.ng/)/[Twitter](https://x.com/_blahblahblah)/[Github](https://github.com/blahblahblah-)
