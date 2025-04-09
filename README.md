@@ -130,7 +130,9 @@ My own list of Wordle-like games and other assorted variations of this game form
 
 # [David Turner](https://games.novalis.org/)/[Twitter](https://x.com/novalisdmt)/[Fediverse](https://honk.novalis.org/)/[Gitlab](https://gitlab.com/novalis_dt)/[Patreon](https://www.patreon.com/profile/creators?u=4043145)/[Blog](https://novalis.org/blog/)
 - [Middles](https://middlesgame.com/)/[Blog release post](https://novalis.org/blog/2023-10-30-middles-a-daily-word-game-.html)/[Twitter release post](https://x.com/NovalisDMT/status/1719049555415584957) Daily word completion challenge based on unique middle segments.​ Published on October 30, 2023
+- [Swemantle](https://swemantle.riddle.nu/)/[Twitter release post](https://x.com/NovalisDMT/status/1495499476349423622) Guess the secret Swedish word based on semantic similarity. Published on February 21, 2022
 - [Semantle](https://semantle.com/)/[Twitter release post](https://x.com/NovalisDMT/status/1488356261875830784)/[The Washington Post article](https://www.washingtonpost.com/video-games/2022/04/04/semantle-wordle-hard-mode/) Like Wordle, but with hints showing how semantically 'hot' or 'cold' your guesses are to the secret word. Published on February 1, 2022
+  - [Semantle Word Triangulation](https://gist.github.com/davidhaas6/b36b0ce55d1993cae243145c68d30f9d) A tool made by David Haas to triangulate Semantle's secret word using player inputs and semantic analysis. Published on April 9, 2022
 
 # [Sunny Ng](https://sunny.ng/)/[Twitter](https://x.com/_blahblahblah)/[Github](https://github.com/blahblahblah-)
 - [Roundle](https://london.subwaydle.com/)/[Github](https://github.com/blahblahblah-/subwaydle-london)/[Twitter release post](https://x.com/_blahblahblah/status/1529114497234964480) Daily London Underground route Wordle puzzle. Published on May 24, 2022
@@ -163,7 +165,12 @@ My own list of Wordle-like games and other assorted variations of this game form
 # [Robert Brignall](https://rbrignall.github.io/)/[Academia Website](https://www.rbrignall.org.uk/)/[Bluesky](https://bsky.app/profile/rbrignall.bsky.social)/[Github](https://github.com/rbrignall)/[Twitter](https://x.com/rbrignall)
 - [Byrdle](https://www.byrdle.net/)/[Github](https://github.com/rbrignall/open-byrdle)/[Old Github](https://github.com/rbrignall/byrdle)/[Twitter release post](https://x.com/QuireMemes/status/1481205826601771010) Wordle for choral music. Published on January 12, 2022
 
-[Actorle](https://actorle.com/) - Wordle but you have to guess Actors 
+# [Itamar Shefi](https://www.ishefi.com/)/[Twitter](https://x.com/shefi89)/[Github](https://github.com/ishefi)
+- [Degle](https://degle.ishefi.com/)/[Github](https://github.com/ishefi/degle) Worldle-inspired game where you guess a country's flag. Published on May 16, 2022
+- [Hebrew Semantle](https://semantle.ishefi.com/)/[Github](https://github.com/ishefi/semantle-he)/[Twitter release post](https://x.com/shefi89/status/1495687004713070594) Semantle-inspired spinoff where players guess the secret Hebrew word based on semantic similarity.​ Published on February 21, 2022
+  - [Helper tool](https://github.com/Pavelrst/semantle-he-solver) A helper tool made by Pavelrst for solving Hebrew Semantle puzzles, which evaluates semantic similarities to guide players. Published on March 27, 2022
+
+- [Actorle](https://actorle.com/) - Wordle but you have to guess Actors 
 
 
 [Alphabeticle](https://alphabeticle.xyz/) - Wordle but your number of guesses is limited by whether your letters occur earlier or later in the alphabet compared to the correct letters. 
