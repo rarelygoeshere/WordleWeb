@@ -197,6 +197,8 @@ My own list of Wordle-like games and other assorted variations of this game form
   - [Jeu de Gaufre](https://jeudegaufre.fr/) A daily French word game where players swap letters to form valid words in a Waffle grid.
   - [Shawffle](https://shawffle.busydoingnothing.co.uk/) A daily word game in English with the Shavian alphabet, where players swap letters to form valid words in a Waffle grid.
 
+# [Michael Giuffrida](https://michaelg.us/)
+- [Squaredle](https://squaredle.app/)/[Official Reddit](https://www.reddit.com/r/squaredle/)/[Official Twitter](https://x.com/SquaredleApp)/[Article](https://web.archive.org/web/20220719200539/https://wordfinder.yourdictionary.com/blog/the-story-of-squaredle-talking-with-game-creator-michael-giuffrida/) A daily word search game challenging players to exhaust all adjacent-letter words from a square grid. Published on March 5, 2022
 
 - [Actorle](https://actorle.com/) - Wordle but you have to guess Actors 
 
@@ -335,7 +337,6 @@ My own list of Wordle-like games and other assorted variations of this game form
 
 [TriviaV](https://triviav.com/) - Wordle but you have to answer 5 questions.
 
-[Tradle](https://oec.world/en/tradle/) - Guess which US State exports these products! 
 
 [Turdle](https://turdle.xyz/) -  a Wordle clone about guessing the correct sequence of animated frames to make a turtle jump!
 
