@@ -135,6 +135,10 @@ My own list of Wordle-like games and other assorted variations of this game form
 - [Roundle](https://london.subwaydle.com/)/[Github](https://github.com/blahblahblah-/subwaydle-london)/[Twitter release post](https://x.com/_blahblahblah/status/1529114497234964480) Daily London Underground route Wordle puzzle. Published on May 24, 2022
 - [MTRdle](https://hk.subwaydle.com/)/[Github](https://github.com/blahblahblah-/subwaydle-hk)/[Twitter release post](https://x.com/_blahblahblah/status/1525666557564801024) Daily Hong Kong MTR route Wordle puzzle. Published on May 15, 2022
 - [Subwaydle](https://www.subwaydle.com/)/[Github](https://github.com/blahblahblah-/subwaydle)/[Kotaku article](https://kotaku.com/games-like-wordle-subwaydle-nyct-mta-best-routes-1848461481) Daily NYC subway route Wordle puzzle. Published on January 29, 2022
+
+# [Madeleine Barowsky](https://github.com/madeleine-b)
+- [MBTAdle](https://www.mbtadle.com/)/[Github](https://github.com/madeleine-b/mbtadle)/[GBH Article](https://www.wgbh.org/news/local/2023-11-30/boston-finally-has-its-own-subwaydle) Subwaydle-inspired spinoff for Boston MBTA routes.​ Published on November 29, 2023
+
 - 
 [Actorle](https://actorle.com/) - Wordle but you have to guess Actors 
 
