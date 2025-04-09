@@ -152,6 +152,15 @@ My own list of Wordle-like games and other assorted variations of this game form
 # [LinCenYing](https://github.com/lincenying)
 - [汉兜 (Hàn dōu)](https://handle.mmxiaowu.com/)/[Github](https://github.com/lincenying/handle) A 汉兜 (Hàn dōu) clone modified by LinCenYing. Published on March 9, 2023
 
+# [u/Lifth](https://www.reddit.com/user/Lifth/) 
+- [GEODLE](https://geodle.vercel.app/)/[Reddit Release post](https://www.reddit.com/r/singapore/comments/so06e8/how_familiar_are_you_with_singapore_mrt_and_lrt/) Geography-based Wordle based on Singapore. Published on February 9, 2022
+  - [GEODLE: Singapore MRT & LRT Stations](https://geodle.vercel.app/sg-mrt-lrt) Wordle for Singapore MRT & LRT station names.
+  - [GEODLE: Singapore MRT Stations](https://geodle.vercel.app/sg-mrt) Wordle for Singapore MRT Stations names.
+  - [GEODLE: Singapore Parks](https://geodle.vercel.app/sg-parks) Wordle for Singapore Parks names.
+  - [GEODLE: Singapore Schools](https://geodle.vercel.app/sg-schools) Wordle for Singapore Schools names.
+  - [GEODLE: Singapore Shopping Malls](https://geodle.vercel.app/sg-shopping-malls) Wordle for Singapore Shopping Malls names.
+
+
 [Actorle](https://actorle.com/) - Wordle but you have to guess Actors 
 
 
