@@ -351,3 +351,4 @@ https://allanchain.github.io/chinese-wordle/ by Allan Chain
 - https://github.com/cheeaun/chengyu-wordle#other-similar-attempts Sort these out for Chinese Wordle clones
 - https://siwei.io/en/resolve-wordle/
 - https://slate.com/culture/2022/03/wordle-multiple-languages-lemot-termo-chengyu.html
+- https://nypost.com/2022/02/18/8-wordle-spinoffs-to-play-from-subwaydle-to-nerdle/
