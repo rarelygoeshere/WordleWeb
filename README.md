@@ -170,6 +170,9 @@ My own list of Wordle-like games and other assorted variations of this game form
 - [Hebrew Semantle](https://semantle.ishefi.com/)/[Github](https://github.com/ishefi/semantle-he)/[Twitter release post](https://x.com/shefi89/status/1495687004713070594) Semantle-inspired spinoff where players guess the secret Hebrew word based on semantic similarity.​ Published on February 21, 2022
   - [Helper tool](https://github.com/Pavelrst/semantle-he-solver) A helper tool made by Pavelrst for solving Hebrew Semantle puzzles, which evaluates semantic similarities to guide players. Published on March 27, 2022
 
+# [m88m](https://news.ycombinator.com/user?id=m88m)
+- [Matle](https://www.matle.io/)/[Hacker News post](https://news.ycombinator.com/item?id=42949019) A daily chess puzzle inspired by Wordle where players guess a hidden checkmate position. Published on February 5, 2025
+
 - [Actorle](https://actorle.com/) - Wordle but you have to guess Actors 
 
 
@@ -343,8 +346,10 @@ https://worlde-word-game.glitch.me/
   https://web.archive.org/web/20220118194332/https://pinyincaichengyu.com/ by https://x.com/_limboy
 https://allanchain.github.io/chinese-wordle/ by Allan Chain
 # Sources
-- Found in [Awesome Wordle](https://github.com/prakhar897/awesome-wordle) Note: recheck for additional Wordle variants
+## Other Wordle indexes
+- [Awesome Wordle](https://github.com/prakhar897/awesome-wordle) Note: recheck for additional Wordle variants to be added here.
 - [Wordles of the World](https://rwmpelstilzchen.gitlab.io/wordles/)/[Twitter release post](https://x.com/JudaRonen/status/1485640320201203712)
+- [Wordleverse](https://wordleverse.net/)
 ## Sources to sort through
 - [March 8, 2022 - Drew Patty - Medium: Wordle Spinoffs: The Complete and Authoritative Index](https://medium.com/floodgates/the-complete-and-authoritative-list-of-wordle-spinoffs-fb00bfafc448)/[Archive link](https://archive.ph/vuNdB)
 - [A game rentry from the site hunting list on the FMHY Subreddit](https://rentry.co/aawb2pus)
@@ -359,3 +364,5 @@ https://allanchain.github.io/chinese-wordle/ by Allan Chain
 - https://siwei.io/en/resolve-wordle/
 - https://slate.com/culture/2022/03/wordle-multiple-languages-lemot-termo-chengyu.html
 - https://nypost.com/2022/02/18/8-wordle-spinoffs-to-play-from-subwaydle-to-nerdle/
+- https://nypost.com/2022/04/18/from-foodle-to-framed-wordle-has-some-game-competition-now/
+- https://www.producthunt.com/collections/wordle-like-games
