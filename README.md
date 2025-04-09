@@ -330,8 +330,13 @@ My own list of Wordle-like games and other assorted variations of this game form
 # Sort this out
 Duordle, Bardle, Heardle, BIRD, the Movie Frame Game
 https://worlde-word-game.glitch.me/
+
+[https://bryony.dev/chengyu/chengyu.html](https://web.archive.org/web/20220123155036/https://bryony.dev/chengyu/chengyu.html) by [@nurupo_dev](https://x.com/nurupo_dev)
+  https://web.archive.org/web/20220118194332/https://pinyincaichengyu.com/ by https://x.com/_limboy
+https://allanchain.github.io/chinese-wordle/ by Allan Chain
 # Sources
 - Found in [Awesome Wordle](https://github.com/prakhar897/awesome-wordle) Note: recheck for additional Wordle variants
+- [Wordles of the World](https://rwmpelstilzchen.gitlab.io/wordles/)/[Twitter release post](https://x.com/JudaRonen/status/1485640320201203712)
 ## Sources to sort through
 - [March 8, 2022 - Drew Patty - Medium: Wordle Spinoffs: The Complete and Authoritative Index](https://medium.com/floodgates/the-complete-and-authoritative-list-of-wordle-spinoffs-fb00bfafc448)/[Archive link](https://archive.ph/vuNdB)
 - [A game rentry from the site hunting list on the FMHY Subreddit](https://rentry.co/aawb2pus)
@@ -344,3 +349,4 @@ https://worlde-word-game.glitch.me/
 - https://www.numerama.com/politique/1649280-les-clones-de-wordle-risquent-de-disparaitre.html
 - https://github.com/cheeaun/chengyu-wordle#other-similar-attempts Sort these out for Chinese Wordle clones
 - https://siwei.io/en/resolve-wordle/
+- https://slate.com/culture/2022/03/wordle-multiple-languages-lemot-termo-chengyu.html
