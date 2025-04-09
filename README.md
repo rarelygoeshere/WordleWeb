@@ -173,6 +173,16 @@ My own list of Wordle-like games and other assorted variations of this game form
 # [m88m](https://news.ycombinator.com/user?id=m88m)
 - [Matle](https://www.matle.io/)/[Hacker News post](https://news.ycombinator.com/item?id=42949019) A daily chess puzzle inspired by Wordle where players guess a hidden checkmate position. Published on February 5, 2025
 
+# [Raymond Hulha](https://news.ycombinator.com/user?id=raymond_goo)
+- [Solitairle](https://www.solitairle.com/) Daily solvable Yukon Solitaire puzzles.
+
+# [James Robinson](https://x.com/JamesJessian)/[Instagram](https://www.instagram.com/thatwafflegame/)/[Threads](https://www.threads.net/@thatwafflegame)/[Kofi](https://ko-fi.com/wafflegame)
+- [Waffle](https://wafflegame.net/)/[Twitter release post](https://x.com/JamesJessian/status/1492942028799451138) Wordle but you have to create words horizontally and vertically. Published on February 14, 2022
+
+# [Ryan Carmody](https://x.com/ryancarmody_dev)
+- [Smug Chicken](https://smugchicken.com/)/[Official Twitter](https://x.com/smug_chicken)/[Twitter release post](https://x.com/smug_chicken/status/1614748274526941184) A daily AI word game where players guess the two-word text prompt used to generate both an AI art image and a ChatGPT haiku. Published on January 16, 2023
+
+
 - [Actorle](https://actorle.com/) - Wordle but you have to guess Actors 
 
 
@@ -317,7 +327,6 @@ My own list of Wordle-like games and other assorted variations of this game form
 
 [Tusmo](https://www.tusmo.xyz/) - idk i dont speak bonjour.
 
-[Waffle](https://wafflegame.net/) - Wordle but you have to create words horizontally and vertically.
 
 [Weaver](https://wordwormdormdork.com/) - Join connection between two words.
 
@@ -366,3 +375,4 @@ https://allanchain.github.io/chinese-wordle/ by Allan Chain
 - https://nypost.com/2022/02/18/8-wordle-spinoffs-to-play-from-subwaydle-to-nerdle/
 - https://nypost.com/2022/04/18/from-foodle-to-framed-wordle-has-some-game-competition-now/
 - https://www.producthunt.com/collections/wordle-like-games
+- https://github.com/idanzur/el-solver Look through this link for more games
