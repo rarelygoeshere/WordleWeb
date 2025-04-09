@@ -164,6 +164,8 @@ My own list of Wordle-like games and other assorted variations of this game form
   - [GEODLE: Singapore Shopping Malls](https://geodle.vercel.app/sg-shopping-malls) Wordle for Singapore Shopping Malls names.
 
 # [Robert Brignall](https://rbrignall.github.io/)/[Academia Website](https://www.rbrignall.org.uk/)/[Bluesky](https://bsky.app/profile/rbrignall.bsky.social)/[Github](https://github.com/rbrignall)/[Twitter](https://x.com/rbrignall)
+- [Susie](https://susie.rbrignall.org.uk/)/[Github](https://github.com/rbrignall/susie)/[Twitter release post](https://x.com/rbrignall/status/1514692620819251202) A daily word-guessing game blending Wordle and Countdown - solve using consonant/vowel pattern hints. Published on April 15, 2022
+- [Numble](https://rbrignall.github.io/numble/)/[Github](https://github.com/rbrignall/numble)/[Twitter release post](https://x.com/rbrignall/status/1485400347925532678) A mathematically-themed version of Wordle. Published on January 24, 2022
 - [Byrdle](https://www.byrdle.net/)/[Github](https://github.com/rbrignall/open-byrdle)/[Old Github](https://github.com/rbrignall/byrdle)/[Twitter release post](https://x.com/QuireMemes/status/1481205826601771010) Wordle for choral music. Published on January 12, 2022
 
 # [Itamar Shefi](https://www.ishefi.com/)/[Twitter](https://x.com/shefi89)/[Github](https://github.com/ishefi)
@@ -207,7 +209,7 @@ My own list of Wordle-like games and other assorted variations of this game form
 # [hedalu244](https://github.com/hedalu244)
 - [Diffle](https://hedalu244.github.io/diffle/)/[Github](https://github.com/hedalu244/diffle) Word game where you guess a hidden word using as few letters and attempts as possible. Published on January 29, 2022
 
-# [Jack Li](https://jackli.gg/)/[Twitter](https://x.com/jackli_gg)
+# [Jack Li](https://jackli.gg/)/[Twitter](https://x.com/jackli_gg)/[Youtube](https://www.youtube.com/@jack_li)
 - [Chessle](https://jackli.gg/chessle/)/[Reddit release post](https://www.reddit.com/r/chess/comments/srwlee/i_created_chessle_like_wordle_but_for_chess/)/[Chess.com release post](https://www.chess.com/blog/GMJackL/chessle-like-wordle-but-for-chess-openings) Wordle with Chess pieces, where players guess specific chess opening sequences. Published on February 14, 2022
 
 - [Actorle](https://actorle.com/) - Wordle but you have to guess Actors 
@@ -373,7 +375,16 @@ My own list of Wordle-like games and other assorted variations of this game form
 [Yeardle](https://histordle.com/yeardle/) - Guess the year some historic events happened
 # Sort this out
 Duordle, Bardle, Heardle, BIRD, the Movie Frame Game
+worgle, prayerdle, letterle, absurdle, primel, queerdle
 https://worlde-word-game.glitch.me/
+Possible word games that could exist:
+Suggested subjects for future developments
+Nurdle - cricket, or microplastics
+Noodle - pasta
+Curdle - dairy products
+Boodle - filthy lucre
+
+
 
 [https://bryony.dev/chengyu/chengyu.html](https://web.archive.org/web/20220123155036/https://bryony.dev/chengyu/chengyu.html) by [@nurupo_dev](https://x.com/nurupo_dev)
   https://web.archive.org/web/20220118194332/https://pinyincaichengyu.com/ by https://x.com/_limboy
