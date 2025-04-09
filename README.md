@@ -313,6 +313,7 @@ My own list of Wordle-like games and other assorted variations of this game form
 [Yeardle](https://histordle.com/yeardle/) - Guess the year some historic events happened
 # Sort this out
 Duordle, Bardle, Heardle, BIRD, the Movie Frame Game
+https://worlde-word-game.glitch.me/
 # Sources
 - Found in [Awesome Wordle](https://github.com/prakhar897/awesome-wordle) Note: recheck for additional Wordle variants
 ## Sources to sort through
