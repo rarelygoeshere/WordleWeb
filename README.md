@@ -24,8 +24,9 @@ My own list of Wordle-like games and other assorted variations of this game form
 - [Wardle](https://wardle.puntofisso.net/)/[Github](https://github.com/puntofisso/wardle)/[Twitter release post](https://x.com/puntofisso/status/1495517650360832001) Worldle-inspired spinoff focusing on the UK Local Authority. Published on February 21, 2022
 
 # [Ryan Barouki](https://x.com/DoodleSci)/[Youtube](https://www.youtube.com/DoodleScience)
-- [Flagle](https://www.flagle.io/)/[Twitter release post](https://x.com/DoodleSci/status/1496887524094009352) Worldle-inspired flag guessing game. Published on February 24, 2022
 - [Mapl](https://mapl.life/)/[Twitter release post](https://x.com/DoodleSci/status/1789975201188356437) Worldle-inspired Map guessing game where you must identify the location marked on the redacted map. Published on May 13, 2024
+- [Angle](https://angle.wtf/)/[Twitter release post](https://x.com/DoodleSci/status/1541433780015190016) Estimate angle in degrees. Published on June 27, 2022
+- [Flagle](https://www.flagle.io/)/[Twitter release post](https://x.com/DoodleSci/status/1496887524094009352) Worldle-inspired flag guessing game. Published on February 24, 2022
 
 # [Alexander Simoes](https://alexandersimoes.com/)/[Twitter](https://x.com/ximoes)/[Github](https://github.com/alexandersimoes)
 - [Tradle](https://games.oec.world/en/tradle/)/[Github](https://github.com/alexandersimoes/tradle)/[Automaton Article](https://automaton-media.com/en/news/20220311-10472/)/[Marketplace Interview](https://www.marketplace.org/2023/08/24/tradle-brings-wordle-style-game-to-global-exports/) Worlde-inspired spinoff where players reference a treemap of a country’s exports to guess which country it is. Published on March 2022
@@ -177,7 +178,7 @@ My own list of Wordle-like games and other assorted variations of this game form
 - [Solitairle](https://www.solitairle.com/) Daily solvable Yukon Solitaire puzzles.
 
 # [James Robinson](https://x.com/JamesJessian)/[Instagram](https://www.instagram.com/thatwafflegame/)/[Threads](https://www.threads.net/@thatwafflegame)/[Kofi](https://ko-fi.com/wafflegame)
-- [Waffle](https://wafflegame.net/)/[Twitter release post](https://x.com/JamesJessian/status/1492942028799451138) Wordle but you have to create words horizontally and vertically. Published on February 14, 2022
+- [Waffle](https://wafflegame.net/)/[Twitter release post](https://x.com/JamesJessian/status/1492942028799451138)/[Article](https://www.portsmouth.co.uk/business/consumer/wordle-inspired-waffle-game-invented-last-year-in-portsmouth-played-by-more-than-13-million-people-4069144) Wordle but you have to create words horizontally and vertically. Published on February 14, 2022
 
 # [Ryan Carmody](https://x.com/ryancarmody_dev)
 - [Smug Chicken](https://smugchicken.com/)/[Official Twitter](https://x.com/smug_chicken)/[Twitter release post](https://x.com/smug_chicken/status/1614748274526941184) A daily AI word game where players guess the two-word text prompt used to generate both an AI art image and a ChatGPT haiku. Published on January 16, 2023
@@ -186,6 +187,17 @@ My own list of Wordle-like games and other assorted variations of this game form
 - [NFLeConnections](https://www.nf.leconnections.app/)/[Twitter release post](https://x.com/leconnectapp/status/1810440440166146477) Identify connections among NFL players.​ Published on July 9, 2024
 - [LeConnections](https://www.leconnections.app/)/[Twitter release post](https://x.com/leconnectapp/status/1764781263356080150) Identify connections among NBA players. Published on February 26, 2024
 
+# [HoopGrids](https://x.com/HoopGrids)
+- [HoopGrids](https://hoopgrids.com/) Match NBA players to specific criteria in a square grid.​
+
+# [Neil Roberts](https://github.com/bpeel)
+- [WordRoute](https://wordroute.busydoingnothing.co.uk/)/[Github](https://github.com/bpeel/wordroute) Squardle-inspired word search game, where players rearrange letters using the Shavian alphabet to form interconnected words in a hexagon grid, similar to a crossword puzzle. Published on July 12, 2024
+- [Vaflo](https://github.com/bpeel/vaflo) open source clone of The Waffle Game. Published on July 25, 2023
+  - [Vaflo](https://vaflo.net/)  A daily Esperanto word game where players swap letters to form valid words in a Waffle grid.
+  - [Jeu de Gaufre](https://jeudegaufre.fr/) A daily French word game where players swap letters to form valid words in a Waffle grid.
+  - [Shawffle](https://shawffle.busydoingnothing.co.uk/) A daily word game in English with the Shavian alphabet, where players swap letters to form valid words in a Waffle grid.
+
+
 - [Actorle](https://actorle.com/) - Wordle but you have to guess Actors 
 
 
@@ -193,7 +205,6 @@ My own list of Wordle-like games and other assorted variations of this game form
 
 [Airportle](https://airportle.scottscheapflights.com/) - Wordle with flight codes.
 
-[Angle](https://angle.wtf/) - Estimate angle in degrees
 
 [AntiWordle](https://www.antiwordle.com/) - Wordle but system throws difficulties on you.
 
