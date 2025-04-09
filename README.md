@@ -212,6 +212,13 @@ My own list of Wordle-like games and other assorted variations of this game form
 # [Jack Li](https://jackli.gg/)/[Twitter](https://x.com/jackli_gg)/[Youtube](https://www.youtube.com/@jack_li)
 - [Chessle](https://jackli.gg/chessle/)/[Reddit release post](https://www.reddit.com/r/chess/comments/srwlee/i_created_chessle_like_wordle_but_for_chess/)/[Chess.com release post](https://www.chess.com/blog/GMJackL/chessle-like-wordle-but-for-chess-openings) Wordle with Chess pieces, where players guess specific chess opening sequences. Published on February 14, 2022
 
+# [Hands Up Education](https://www.hands-up-education.org/index.html)
+- [AREPO](https://hands-up-education.org/arepo/index.html) A word-guessing game like Wordle, but for Latin. Likely published on January 2022
+
+# [Maths Zone](https://mathszone.co.uk/resources/grid/index.html)
+- [Ooodle](https://mathszone.co.uk/resources/grid/ooodle/)/[Article](https://mathszone.co.uk/number-facts-x%C3%B7/ooodle/) Guess the correct equation using positional feedback.​ Published on January 3, 2022
+- [Ooodle Max](https://mathszone.co.uk/resources/grid/ooodlemax/) An advanced version of Ooodle.
+
 - [Actorle](https://actorle.com/) - Wordle but you have to guess Actors 
 
 
