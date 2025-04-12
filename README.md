@@ -418,6 +418,7 @@ https://allanchain.github.io/chinese-wordle/ by Allan Chain
 - [Wordles of the World](https://rwmpelstilzchen.gitlab.io/wordles/)/[Twitter release post](https://x.com/JudaRonen/status/1485640320201203712)
 - [Wordleverse](https://wordleverse.net/)
 - [Alldle](https://alldle.net/)
+- [Wordle-inspired Game Collection](https://rentry.org/v72n74fu)
 ## Sources to sort through
 - [March 8, 2022 - Drew Patty - Medium: Wordle Spinoffs: The Complete and Authoritative Index](https://medium.com/floodgates/the-complete-and-authoritative-list-of-wordle-spinoffs-fb00bfafc448)/[Archive link](https://archive.ph/vuNdB)
 - [A game rentry from the site hunting list on the FMHY Subreddit](https://rentry.co/aawb2pus)
