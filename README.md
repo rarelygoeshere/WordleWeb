@@ -231,6 +231,9 @@ My own list of Wordle-like games and other assorted variations of this game form
 # [Thunder Hart](https://x.com/th_nd_r)/[1](https://x.com/thunderdle)/[Linktree](https://linktr.ee/th.nd.r)
 - [Bellionle](https://bellionle.playpass.games/)/[Twitter release post](https://x.com/th_nd_r/status/1561431698063122432) a Heardle/ReHeardle variant for [Jonbellion](https://beacons.ai/jonbellion) songs. Published on August 22, 2022
 
+# [Grant Warman/blorppppp](https://x.com/blorppppp_)
+- [Quadragonle](https://quadragonle.com/)/[Twitter release post](https://x.com/PolygonleGame/status/1747014585683505368) Daily 4x4 word grid puzzle using polygon shape clues.​ Published on January 16, 2024
+- [Polygonle](https://polygonle.com/)/[Official Twitter](https://x.com/PolygonleGame)/[Official Reddit](https://www.reddit.com/r/polygonle/)/[Hey Good Game Interview](https://www.hey.gg/blog/polygonle)/ Wordle, but with polygon shape hints visually mapping to the target word's letters. Published on August 1, 2022 [(Source)](https://x.com/PolygonleGame/status/1686091004049518592) 
 
 - [Actorle](https://actorle.com/) - Wordle but you have to guess Actors 
 
