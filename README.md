@@ -226,7 +226,11 @@ My own list of Wordle-like games and other assorted variations of this game form
 - [Thirdle](https://thirdle.org/)/[Official Twitter](https://x.com/thirdlegame)/[Official Facebook](https://www.facebook.com/Thirdle)/[Offcial Buy Me A Coffee](https://buymeacoffee.com/thirdle)/[Facebook release post](https://www.facebook.com/Thirdle/posts/pfbid08WraJh7d4htbJ9CfkuoQvE4hCpkwxKmX3ATYcwPym3sqt1u1Uo3Dm3RkzY3y2ZpVl?rdid=NKJbaoWV0fRwm3Rd) Wordle where you solve three words at once. Published on June 10, 2022
 
 # [Flavio Moreno](https://ko-fi.com/customentity)/[Reddit](https://www.reddit.com/user/CustomEntity/)
-- [Valodle](https://valodle.eu/)/[Official Reddit](https://www.reddit.com/r/valodle/)/[Official Twitter](https://x.com/ValodleEU) Daily Valorant-themed guessing challenges.​ Published on August 2023
+- [Valodle](https://valodle.eu/)/[Official Reddit](https://www.reddit.com/r/valodle/)/[Official Twitter](https://x.com/ValodleEU) Loldle-inspired daily Valorant-themed guessing challenges.​ Published on August 2023
+
+# [Thunder Hart](https://x.com/th_nd_r)/[1](https://x.com/thunderdle)/[Linktree](https://linktr.ee/th.nd.r)
+- [Bellionle](https://bellionle.playpass.games/)/[Twitter release post](https://x.com/th_nd_r/status/1561431698063122432) a Heardle/ReHeardle variant for [Jonbellion](https://beacons.ai/jonbellion) songs. Published on August 22, 2022
+
 
 - [Actorle](https://actorle.com/) - Wordle but you have to guess Actors 
 
@@ -428,3 +432,4 @@ https://allanchain.github.io/chinese-wordle/ by Allan Chain
 - https://nypost.com/2022/04/18/from-foodle-to-framed-wordle-has-some-game-competition-now/
 - https://www.producthunt.com/collections/wordle-like-games
 - https://github.com/idanzur/el-solver Look through this link for more games
+- https://x.com/thunderdle/status/1664149982306349057 Twitter thread for Wordle games
