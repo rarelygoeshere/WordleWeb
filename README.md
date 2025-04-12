@@ -219,6 +219,9 @@ My own list of Wordle-like games and other assorted variations of this game form
 - [Ooodle](https://mathszone.co.uk/resources/grid/ooodle/)/[Article](https://mathszone.co.uk/number-facts-x%C3%B7/ooodle/) Guess the correct equation using positional feedback.​ Published on January 3, 2022
 - [Ooodle Max](https://mathszone.co.uk/resources/grid/ooodlemax/) An advanced version of Ooodle.
 
+# [ElitoGame]/[https://elitogame.github.io/]/[Github](https://github.com/ElitoGame)/[Patreon](https://www.patreon.com/elitogame)/[Kofi](https://ko-fi.com/elitogame)
+- [MCdle](https://www.mcdle.net/)/[Github](https://github.com/ElitoGame/mcdle-public)/[Official Twitter](https://x.com/MCdleGame)/[Twitter release post](https://x.com/MCdleGame/status/1713958179845923187) Daily Minecraft-themed guessing game.​ Published on October 16, 2023
+
 - [Actorle](https://actorle.com/) - Wordle but you have to guess Actors 
 
 
