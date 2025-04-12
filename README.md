@@ -129,10 +129,10 @@ My own list of Wordle-like games and other assorted variations of this game form
 # [Cassidy Williams](https://cassidoo.co/)
 - [Jumblie](https://jumblie.com/) Daily themed word search puzzle. Published on November 28, 2023
 
-# [David Turner](https://games.novalis.org/)/[Twitter](https://x.com/novalisdmt)/[Fediverse](https://honk.novalis.org/)/[Gitlab](https://gitlab.com/novalis_dt)/[Patreon](https://www.patreon.com/profile/creators?u=4043145)/[Blog](https://novalis.org/blog/)
+# [David Turner/Novalis](https://games.novalis.org/)/[Twitter](https://x.com/novalisdmt)/[Fediverse](https://honk.novalis.org/)/[Gitlab](https://gitlab.com/novalis_dt)/[Patreon](https://www.patreon.com/profile/creators?u=4043145)/[Blog](https://novalis.org/blog/)
 - [Middles](https://middlesgame.com/)/[Blog release post](https://novalis.org/blog/2023-10-30-middles-a-daily-word-game-.html)/[Twitter release post](https://x.com/NovalisDMT/status/1719049555415584957) Daily word completion challenge based on unique middle segments.​ Published on October 30, 2023
 - [Swemantle](https://swemantle.riddle.nu/)/[Twitter release post](https://x.com/NovalisDMT/status/1495499476349423622) Guess the secret Swedish word based on semantic similarity. Published on February 21, 2022
-- [Semantle](https://semantle.com/)/[Twitter release post](https://x.com/NovalisDMT/status/1488356261875830784)/[The Washington Post article](https://www.washingtonpost.com/video-games/2022/04/04/semantle-wordle-hard-mode/) Like Wordle, but with hints showing how semantically 'hot' or 'cold' your guesses are to the secret word. Published on February 1, 2022
+- [Semantle](https://semantle.com/)/[Twitter release post](https://x.com/NovalisDMT/status/1488356261875830784)/[The Washington Post article](https://www.washingtonpost.com/video-games/2022/04/04/semantle-wordle-hard-mode/)/[Hey, Good Game Interview](https://www.hey.gg/blog/semantle) Like Wordle, but with hints showing how semantically 'hot' or 'cold' your guesses are to the secret word. Published on February 1, 2022
   - [Semantle Word Triangulation](https://gist.github.com/davidhaas6/b36b0ce55d1993cae243145c68d30f9d) A tool made by David Haas to triangulate Semantle's secret word using player inputs and semantic analysis. Published on April 9, 2022
 
 # [Sunny Ng](https://sunny.ng/)/[Twitter](https://x.com/_blahblahblah)/[Github](https://github.com/blahblahblah-)
@@ -179,8 +179,8 @@ My own list of Wordle-like games and other assorted variations of this game form
 # [Raymond Hulha](https://news.ycombinator.com/user?id=raymond_goo)
 - [Solitairle](https://www.solitairle.com/) Daily solvable Yukon Solitaire puzzles.
 
-# [James Robinson](https://x.com/JamesJessian)/[Instagram](https://www.instagram.com/thatwafflegame/)/[Threads](https://www.threads.net/@thatwafflegame)/[Kofi](https://ko-fi.com/wafflegame)
-- [Waffle](https://wafflegame.net/)/[Twitter release post](https://x.com/JamesJessian/status/1492942028799451138)/[Article](https://www.portsmouth.co.uk/business/consumer/wordle-inspired-waffle-game-invented-last-year-in-portsmouth-played-by-more-than-13-million-people-4069144) Wordle but you have to create words horizontally and vertically. Published on February 14, 2022
+# [James Robinson/Jessian](https://x.com/JamesJessian)/[Instagram](https://www.instagram.com/thatwafflegame/)/[Threads](https://www.threads.net/@thatwafflegame)/[Kofi](https://ko-fi.com/wafflegame)
+- [Waffle](https://wafflegame.net/)/[Twitter release post](https://x.com/JamesJessian/status/1492942028799451138)/[Article](https://www.portsmouth.co.uk/business/consumer/wordle-inspired-waffle-game-invented-last-year-in-portsmouth-played-by-more-than-13-million-people-4069144)/[Hey, Good Game Interview](https://www.hey.gg/blog/wafflegame) Wordle but you have to create words horizontally and vertically. Published on February 14, 2022
 
 # [Ryan Carmody](https://x.com/ryancarmody_dev)
 - [Smug Chicken](https://smugchicken.com/)/[Official Twitter](https://x.com/smug_chicken)/[Twitter release post](https://x.com/smug_chicken/status/1614748274526941184) A daily AI word game where players guess the two-word text prompt used to generate both an AI art image and a ChatGPT haiku. Published on January 16, 2023
@@ -233,7 +233,7 @@ My own list of Wordle-like games and other assorted variations of this game form
 
 # [Grant Warman/blorppppp](https://x.com/blorppppp_)
 - [Quadragonle](https://quadragonle.com/)/[Twitter release post](https://x.com/PolygonleGame/status/1747014585683505368) Daily 4x4 word grid puzzle using polygon shape clues.​ Published on January 16, 2024
-- [Polygonle](https://polygonle.com/)/[Official Twitter](https://x.com/PolygonleGame)/[Official Reddit](https://www.reddit.com/r/polygonle/)/[Hey Good Game Interview](https://www.hey.gg/blog/polygonle)/ Wordle, but with polygon shape hints visually mapping to the target word's letters. Published on August 1, 2022 [(Source)](https://x.com/PolygonleGame/status/1686091004049518592) 
+- [Polygonle](https://polygonle.com/)/[Official Twitter](https://x.com/PolygonleGame)/[Official Reddit](https://www.reddit.com/r/polygonle/)/[Hey, Good Game Interview](https://www.hey.gg/blog/polygonle)/ Wordle, but with polygon shape hints visually mapping to the target word's letters. Published on August 1, 2022 [(Source)](https://x.com/PolygonleGame/status/1686091004049518592) 
 
 - [Actorle](https://actorle.com/) - Wordle but you have to guess Actors 
 
