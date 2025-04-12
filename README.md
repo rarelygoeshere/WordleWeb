@@ -222,6 +222,9 @@ My own list of Wordle-like games and other assorted variations of this game form
 # [ElitoGame]/[https://elitogame.github.io/]/[Github](https://github.com/ElitoGame)/[Patreon](https://www.patreon.com/elitogame)/[Kofi](https://ko-fi.com/elitogame)
 - [MCdle](https://www.mcdle.net/)/[Github](https://github.com/ElitoGame/mcdle-public)/[Official Twitter](https://x.com/MCdleGame)/[Twitter release post](https://x.com/MCdleGame/status/1713958179845923187) Daily Minecraft-themed guessing game.​ Published on October 16, 2023
 
+# Avionista AB
+- [Thirdle](https://thirdle.org/)/[Official Twitter](https://x.com/thirdlegame)/[Official Facebook](https://www.facebook.com/Thirdle)/[Offcial Buy Me A Coffee](https://buymeacoffee.com/thirdle)/[Facebook release post](https://www.facebook.com/Thirdle/posts/pfbid08WraJh7d4htbJ9CfkuoQvE4hCpkwxKmX3ATYcwPym3sqt1u1Uo3Dm3RkzY3y2ZpVl?rdid=NKJbaoWV0fRwm3Rd) Wordle where you solve three words at once. Published on June 10, 2022
+
 - [Actorle](https://actorle.com/) - Wordle but you have to guess Actors 
 
 
@@ -401,9 +404,10 @@ Boodle - filthy lucre
 https://allanchain.github.io/chinese-wordle/ by Allan Chain
 # Sources
 ## Other Wordle indexes
-- [Awesome Wordle](https://github.com/prakhar897/awesome-wordle) Note: recheck for additional Wordle variants to be added here.
+- [(Dead) Awesome Wordle](https://github.com/prakhar897/awesome-wordle) Note: recheck for additional Wordle variants to be added here.
 - [Wordles of the World](https://rwmpelstilzchen.gitlab.io/wordles/)/[Twitter release post](https://x.com/JudaRonen/status/1485640320201203712)
 - [Wordleverse](https://wordleverse.net/)
+- [Alldle](https://alldle.net/)
 ## Sources to sort through
 - [March 8, 2022 - Drew Patty - Medium: Wordle Spinoffs: The Complete and Authoritative Index](https://medium.com/floodgates/the-complete-and-authoritative-list-of-wordle-spinoffs-fb00bfafc448)/[Archive link](https://archive.ph/vuNdB)
 - [A game rentry from the site hunting list on the FMHY Subreddit](https://rentry.co/aawb2pus)
