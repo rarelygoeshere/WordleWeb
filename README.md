@@ -219,11 +219,14 @@ My own list of Wordle-like games and other assorted variations of this game form
 - [Ooodle](https://mathszone.co.uk/resources/grid/ooodle/)/[Article](https://mathszone.co.uk/number-facts-x%C3%B7/ooodle/) Guess the correct equation using positional feedback.​ Published on January 3, 2022
 - [Ooodle Max](https://mathszone.co.uk/resources/grid/ooodlemax/) An advanced version of Ooodle.
 
-# [ElitoGame]/[https://elitogame.github.io/]/[Github](https://github.com/ElitoGame)/[Patreon](https://www.patreon.com/elitogame)/[Kofi](https://ko-fi.com/elitogame)
+# [ElitoGame](https://elitogame.github.io/)/[Github](https://github.com/ElitoGame)/[Patreon](https://www.patreon.com/elitogame)/[Kofi](https://ko-fi.com/elitogame)
 - [MCdle](https://www.mcdle.net/)/[Github](https://github.com/ElitoGame/mcdle-public)/[Official Twitter](https://x.com/MCdleGame)/[Twitter release post](https://x.com/MCdleGame/status/1713958179845923187) Daily Minecraft-themed guessing game.​ Published on October 16, 2023
 
 # Avionista AB
 - [Thirdle](https://thirdle.org/)/[Official Twitter](https://x.com/thirdlegame)/[Official Facebook](https://www.facebook.com/Thirdle)/[Offcial Buy Me A Coffee](https://buymeacoffee.com/thirdle)/[Facebook release post](https://www.facebook.com/Thirdle/posts/pfbid08WraJh7d4htbJ9CfkuoQvE4hCpkwxKmX3ATYcwPym3sqt1u1Uo3Dm3RkzY3y2ZpVl?rdid=NKJbaoWV0fRwm3Rd) Wordle where you solve three words at once. Published on June 10, 2022
+
+# [Flavio Moreno](https://ko-fi.com/customentity)/[Reddit](https://www.reddit.com/user/CustomEntity/)
+- [Valodle](https://valodle.eu/)/[Official Reddit](https://www.reddit.com/r/valodle/)/[Official Twitter](https://x.com/ValodleEU) Daily Valorant-themed guessing challenges.​ Published on August 2023
 
 - [Actorle](https://actorle.com/) - Wordle but you have to guess Actors 
 
