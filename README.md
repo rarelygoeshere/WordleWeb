@@ -238,6 +238,8 @@ My own list of Wordle-like games and other assorted variations of this game form
 # Playco
 - [Deathbattle](https://deathbattle.playpass.games/)/[Loudwire article](https://loudwire.com/avenged-sevenfold-deathbattle-game/)/[Twitter release post](https://x.com/TheOfficialA7X/status/1562821870461677568) a Heardle variant officially endorsed by Avenged Sevenfold for their songs. Published on August 25, 2022
 
+# [Jessy Krupa](https://x.com/JessyKrupa)
+- [Billy Idol Heardle](https://billyidolheardle.playpass.games/)/[Twitter release post](https://x.com/JessyKrupa/status/1550150016957825024) a Heardle variant for Billy Idol songs. Published on July 21, 2022
 - [Actorle](https://actorle.com/) - Wordle but you have to guess Actors 
 
 
