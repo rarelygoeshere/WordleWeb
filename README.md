@@ -406,7 +406,7 @@ Nurdle - cricket, or microplastics
 Noodle - pasta
 Curdle - dairy products
 Boodle - filthy lucre
-
+https://loldle.net/
 
 
 [https://bryony.dev/chengyu/chengyu.html](https://web.archive.org/web/20220123155036/https://bryony.dev/chengyu/chengyu.html) by [@nurupo_dev](https://x.com/nurupo_dev)
