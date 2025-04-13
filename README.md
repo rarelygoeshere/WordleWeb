@@ -235,6 +235,9 @@ My own list of Wordle-like games and other assorted variations of this game form
 - [Quadragonle](https://quadragonle.com/)/[Twitter release post](https://x.com/PolygonleGame/status/1747014585683505368) Daily 4x4 word grid puzzle using polygon shape clues.​ Published on January 16, 2024
 - [Polygonle](https://polygonle.com/)/[Official Twitter](https://x.com/PolygonleGame)/[Official Reddit](https://www.reddit.com/r/polygonle/)/[Hey, Good Game Interview](https://www.hey.gg/blog/polygonle)/ Wordle, but with polygon shape hints visually mapping to the target word's letters. Published on August 1, 2022 [(Source)](https://x.com/PolygonleGame/status/1686091004049518592) 
 
+# Playco
+- [Deathbattle](https://deathbattle.playpass.games/)/[Loudwire article](https://loudwire.com/avenged-sevenfold-deathbattle-game/)/[Twitter release post](https://x.com/TheOfficialA7X/status/1562821870461677568) a Heardle variant officially endorsed by Avenged Sevenfold for their songs. Published on August 25, 2022
+
 - [Actorle](https://actorle.com/) - Wordle but you have to guess Actors 
 
 
