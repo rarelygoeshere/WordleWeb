@@ -245,7 +245,8 @@ My own list of Wordle-like games and other assorted variations of this game form
 # [mikkaio](https://bsky.app/profile/mikkaio.bsky.social)
 - [Horsle](https://horsle.glitch.me/) Wordle parody where the answer is always "horse."​ Likely published around March 2024 [(Source)](https://bsky.app/profile/willowhorse.bsky.social/post/3kn3hoamkxc2v)
 
-
+# [Playpass Team](https://x.com/PlaypassTeam)
+- [Country Guesser](https://countryguesser.gg/)/[Twitter release post](https://x.com/PlaypassTeam/status/1541987009975050245) Daily Country Music Guessing Game. Published on June 29, 2022
 [Alphabeticle](https://alphabeticle.xyz/) - Wordle but your number of guesses is limited by whether your letters occur earlier or later in the alphabet compared to the correct letters. 
 
 [Airportle](https://airportle.scottscheapflights.com/) - Wordle with flight codes.
