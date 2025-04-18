@@ -258,6 +258,9 @@ My own list of Wordle-like games and other assorted variations of this game form
 # [Kam / Asmosis](https://asmosis.carrd.co/)/[Reddit](https://www.reddit.com/user/Asmosus69/)
 - [Los Campesinos! & Sparky Deathcap Heardle](https://los-campesinos-sparky-deathcap-heardle.glitch.me/)/[Reddit release post](https://www.reddit.com/r/loscampesinos/comments/1bfwpq1/los_campesinos_sparky_deathcap_heardle/) Heardle-inspired variant for Los Campesinos! & Sparky Deathcap songs. Published on March 16, 2024
 
+# [u/Kiwi-Pomagranate](https://www.reddit.com/user/Kiwi-Pomagranate/)
+- [WWATT Heardle](https://wwatt-heardle.playpass.games/)/[Reddit release post](https://www.reddit.com/r/willwood/comments/156vr85/i_made_a_will_wood_heardle_sorry_if_wrong_flair/) Heardle spinoff for Will Wood and the Tapeworms songs. Published on July 23, 2023
+
 # [u/Zealousideal-Grass58](https:/www.reddit.com/user/Zealousideal-Grass58/) 
 - []()
 
