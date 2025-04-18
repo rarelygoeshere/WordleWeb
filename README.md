@@ -249,11 +249,14 @@ My own list of Wordle-like games and other assorted variations of this game form
 # [Playpass Team](https://x.com/PlaypassTeam)
 - [Country Guesser](https://countryguesser.gg/)/[Twitter release post](https://x.com/PlaypassTeam/status/1541987009975050245) Heardle-inspired Country Music Songs Guessing Game. Published on June 29, 2022
 - [Portnoydle](https://portnoydle.playpass.games/)/[Twitter release post](https://x.com/PlaypassTeam/status/1541906579896672256) Heardle variant officially [endorsed](https://x.com/MikePortnoy/status/1541909066951364608) by [Mike Portnoy's](https://linktr.ee/mikeportnoy) for his songs. Published on June 29, 2022
-- [Hololive Guesser](https://hologuesser.playpass.games/)/[Reddit release post](https://www.reddit.com/r/Hololive/comments/v24h6i/holo_guesser_a_heardlelike_guessing_game_to_help/)/[Twitter release post](https://x.com/PlaypassTeam/status/1536222754323636224) Heardle spinoff for Hololive songs. Published on June 1, 2022
+- [Hololive Guesser](https://hologuesser.playpass.games/)/[Reddit release post](https://www.reddit.com/r/Hololive/comments/v24h6i/holo_guesser_a_heardlelike_guessing_game_to_help/)/[Twitter release post](https://x.com/PlaypassTeam/status/1536222754323636224) Heardle spinoff for Hololive songs, created by a friend of [u/thatnewjosh](https://www.reddit.com/user/thatnewjosh/), where the two maintain the site together. Published on June 1, 2022
 
 # [Aki Toyoshima / u/chewchiro](https://www.reddit.com/user/chewchiro/)
 - [Oshi Sounds](https://oshisounds.playpass.games/)/[Reddit release post](https://www.reddit.com/r/Hololive/comments/wvnqs8/i_made_a_hololivethemed_daily_audio_guessing_game/) Hololive-themed Heardle variant where you guess the Hololive member based on sound snippet hints from their streams. Published on August 23, 2022
 - [Beadle](https://beadle.gg/)/[Reddit release post](https://www.reddit.com/r/beatles/comments/usr5u5/i_recently_made_a_beatlesthemed_daily_guessing/)/[Youtube video from David Bennett](https://www.youtube.com/watch?v=97eQuZOLhH0) Beatles-themed Heardle spinoff. Published on May 19, 2022
+
+# [Kam / Asmosis](https://asmosis.carrd.co/)/[Reddit](https://www.reddit.com/user/Asmosus69/)
+- [Los Campesinos! & Sparky Deathcap Heardle](https://los-campesinos-sparky-deathcap-heardle.glitch.me/)/[Reddit release post](https://www.reddit.com/r/loscampesinos/comments/1bfwpq1/los_campesinos_sparky_deathcap_heardle/) Heardle-inspired variant for Los Campesinos! & Sparky Deathcap songs. Published on March 16, 2024
 
 # [u/Zealousideal-Grass58](https:/www.reddit.com/user/Zealousideal-Grass58/) 
 - []()
