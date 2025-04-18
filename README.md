@@ -247,8 +247,18 @@ My own list of Wordle-like games and other assorted variations of this game form
 - [Horsle](https://horsle.glitch.me/) Wordle parody where the answer is always "horse."​ Likely published around March 2024 [(Source)](https://bsky.app/profile/willowhorse.bsky.social/post/3kn3hoamkxc2v)
 
 # [Playpass Team](https://x.com/PlaypassTeam)
-- [Country Guesser](https://countryguesser.gg/)/[Twitter release post](https://x.com/PlaypassTeam/status/1541987009975050245) Daily Country Music Songs Guessing Game. Published on June 29, 2022
-- [Portnoydle](https://portnoydle.playpass.games/)/[Twitter release post](https://x.com/PlaypassTeam/status/1541906579896672256) Music Songs Guessing Game for [Mike Portnoy's](https://linktr.ee/mikeportnoy) songs. Published on June 29, 2022
+- [Country Guesser](https://countryguesser.gg/)/[Twitter release post](https://x.com/PlaypassTeam/status/1541987009975050245) Heardle-inspired Country Music Songs Guessing Game. Published on June 29, 2022
+- [Portnoydle](https://portnoydle.playpass.games/)/[Twitter release post](https://x.com/PlaypassTeam/status/1541906579896672256) Heardle variant officially [endorsed](https://x.com/MikePortnoy/status/1541909066951364608) by [Mike Portnoy's](https://linktr.ee/mikeportnoy) for his songs. Published on June 29, 2022
+- [Hololive Guesser](https://hologuesser.playpass.games/)/[Reddit release post](https://www.reddit.com/r/Hololive/comments/v24h6i/holo_guesser_a_heardlelike_guessing_game_to_help/)/[Twitter release post](https://x.com/PlaypassTeam/status/1536222754323636224) Heardle spinoff for Hololive songs. Published on June 1, 2022
+
+# [Aki Toyoshima / u/chewchiro](https://www.reddit.com/user/chewchiro/)
+- [Oshi Sounds](https://oshisounds.playpass.games/)/[Reddit release post](https://www.reddit.com/r/Hololive/comments/wvnqs8/i_made_a_hololivethemed_daily_audio_guessing_game/) Hololive-themed Heardle variant where you guess the Hololive member based on sound snippet hints from their streams. Published on August 23, 2022
+- [Beadle](https://beadle.gg/)/[Reddit release post](https://www.reddit.com/r/beatles/comments/usr5u5/i_recently_made_a_beatlesthemed_daily_guessing/)/[Youtube video from David Bennett](https://www.youtube.com/watch?v=97eQuZOLhH0) Beatles-themed Heardle spinoff. Published on May 19, 2022
+
+# [u/Zealousideal-Grass58](https:/www.reddit.com/user/Zealousideal-Grass58/) 
+- []()
+
+
 [Alphabeticle](https://alphabeticle.xyz/) - Wordle but your number of guesses is limited by whether your letters occur earlier or later in the alphabet compared to the correct letters. 
 
 [Airportle](https://airportle.scottscheapflights.com/) - Wordle with flight codes.
