@@ -420,6 +420,11 @@ My own list of Wordle-like games and other assorted variations of this game form
 [Wor-Wordle-dle](https://wor-wordle-dle.web.app/#/) - Multi Layered Wordle.
 
 [Yeardle](https://histordle.com/yeardle/) - Guess the year some historic events happened
+
+# Games with inconclusive creator attribution
+Wordle Games where any and all information about the creator was unable to be found.
+- [Will Wood Heardle](https://will-wood-heardle.glitch.me/)/[Reddit release post](https://www.reddit.com/r/willwood/comments/u3pmd5/play_will_wood_heardle_today/) Heardle-inspired variant for Will Wood songs. Published on April 15, 2022
+
 # Sort this out
 Duordle, Bardle, Heardle, BIRD, the Movie Frame Game
 worgle, prayerdle, letterle, absurdle, primel, queerdle
