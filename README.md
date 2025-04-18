@@ -227,6 +227,7 @@ My own list of Wordle-like games and other assorted variations of this game form
 
 # [Flavio Moreno](https://ko-fi.com/customentity)/[Reddit](https://www.reddit.com/user/CustomEntity/)
 - [Valodle](https://valodle.eu/)/[Official Reddit](https://www.reddit.com/r/valodle/)/[Official Twitter](https://x.com/ValodleEU) Loldle-inspired daily Valorant-themed guessing challenges.​ Published on August 2023
+)
 
 # [Thunder Hart](https://x.com/th_nd_r)/[1](https://x.com/thunderdle)/[Linktree](https://linktr.ee/th.nd.r)
 - [Bellionle](https://bellionle.playpass.games/)/[Twitter release post](https://x.com/th_nd_r/status/1561431698063122432) a Heardle/ReHeardle variant for [Jonbellion](https://beacons.ai/jonbellion) songs. Published on August 22, 2022
@@ -246,7 +247,8 @@ My own list of Wordle-like games and other assorted variations of this game form
 - [Horsle](https://horsle.glitch.me/) Wordle parody where the answer is always "horse."​ Likely published around March 2024 [(Source)](https://bsky.app/profile/willowhorse.bsky.social/post/3kn3hoamkxc2v)
 
 # [Playpass Team](https://x.com/PlaypassTeam)
-- [Country Guesser](https://countryguesser.gg/)/[Twitter release post](https://x.com/PlaypassTeam/status/1541987009975050245) Daily Country Music Guessing Game. Published on June 29, 2022
+- [Country Guesser](https://countryguesser.gg/)/[Twitter release post](https://x.com/PlaypassTeam/status/1541987009975050245) Daily Country Music Songs Guessing Game. Published on June 29, 2022
+- [Portnoydle](https://portnoydle.playpass.games/)/[Twitter release post](https://x.com/PlaypassTeam/status/1541906579896672256) Music Songs Guessing Game for [Mike Portnoy's](https://linktr.ee/mikeportnoy) songs. Published on June 29, 2022
 [Alphabeticle](https://alphabeticle.xyz/) - Wordle but your number of guesses is limited by whether your letters occur earlier or later in the alphabet compared to the correct letters. 
 
 [Airportle](https://airportle.scottscheapflights.com/) - Wordle with flight codes.
