@@ -242,6 +242,9 @@ My own list of Wordle-like games and other assorted variations of this game form
 - [Billy Idol Heardle](https://billyidolheardle.playpass.games/)/[Twitter release post](https://x.com/JessyKrupa/status/1550150016957825024) a Heardle variant for Billy Idol songs. Published on July 21, 2022
 - [Actorle](https://actorle.com/) - Wordle but you have to guess Actors 
 
+# [mikkaio](https://bsky.app/profile/mikkaio.bsky.social)
+- [Horsle](https://horsle.glitch.me/) Wordle parody where the answer is always "horse."​ Likely published around March 2024 [(Source)](https://bsky.app/profile/willowhorse.bsky.social/post/3kn3hoamkxc2v)
+
 
 [Alphabeticle](https://alphabeticle.xyz/) - Wordle but your number of guesses is limited by whether your letters occur earlier or later in the alphabet compared to the correct letters. 
 
