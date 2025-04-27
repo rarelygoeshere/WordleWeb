@@ -269,8 +269,8 @@ My own list of Wordle-like games and other assorted variations of this game form
 
 # [Nildo Junior](https://nildo.github.io/)/[Github](https://github.com/nildo)/[Twitter](https://x.com/nildojunior)/[Reddit](https://www.reddit.com/user/nildojunior/)
 - [Letroso](https://letroso.com/en/)/[Official Reddit](https://www.reddit.com/user/nildojunior/) Daily multilingual word-guessing game with variable word lengths.​
-- [Conexo](https://conexo.ws/en/)/[Article](https://word.tips/conexo-todays-hints-answers/) Daily word-grouping puzzle emphasizing thematic connections.​ Published on February 1, 2024
-- [Contexto](https://contexto.me/)/[Hey, Good Game Interview](https://www.hey.gg/blog/contexto)/[Twitter release post](https://x.com/nildojunior/status/1497161938589130752) A Semantle inspired game meant to be more simple than the original version. Published on February 25, 2022
+- [Conexo](https://conexo.ws/en/)/[Official Reddit](https://www.reddit.com/r/conexo/)/[Article](https://word.tips/conexo-todays-hints-answers/) Daily word-grouping puzzle emphasizing thematic connections.​ Published on February 1, 2024
+- [Contexto](https://contexto.me/)/[Official Reddit](https://www.reddit.com/r/contexto/)/[Hey, Good Game Interview](https://www.hey.gg/blog/contexto)/[Twitter release post](https://x.com/nildojunior/status/1497161938589130752) A Semantle inspired game meant to be more simple than the original version. Published on February 25, 2022
 
 [Alphabeticle](https://alphabeticle.xyz/) - Wordle but your number of guesses is limited by whether your letters occur earlier or later in the alphabet compared to the correct letters. 
 
