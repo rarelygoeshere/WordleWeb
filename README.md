@@ -227,7 +227,7 @@ My own list of Wordle-like games and other assorted variations of this game form
 
 # [Flavio Moreno](https://ko-fi.com/customentity)/[Reddit](https://www.reddit.com/user/CustomEntity/)
 - [Valodle](https://valodle.eu/)/[Official Reddit](https://www.reddit.com/r/valodle/)/[Official Twitter](https://x.com/ValodleEU) Loldle-inspired daily Valorant-themed guessing challenges.​ Published on August 2023
-)
+
 
 # [Thunder Hart](https://x.com/th_nd_r)/[1](https://x.com/thunderdle)/[Linktree](https://linktr.ee/th.nd.r)
 - [Bellionle](https://bellionle.playpass.games/)/[Twitter release post](https://x.com/th_nd_r/status/1561431698063122432) a Heardle/ReHeardle variant for [Jonbellion](https://beacons.ai/jonbellion) songs. Published on August 22, 2022
@@ -267,6 +267,8 @@ My own list of Wordle-like games and other assorted variations of this game form
 # [u/Zealousideal-Grass58](https:/www.reddit.com/user/Zealousideal-Grass58/) 
 - []()
 
+# [Nildo Junior](https://nildo.github.io/)/[Github](https://github.com/nildo)/[Twitter](https://x.com/nildojunior)
+- [Contexto](https://contexto.me/)/[Hey, Good Game Interview](https://www.hey.gg/blog/contexto)/[Twitter release post](https://x.com/nildojunior/status/1497161938589130752) A Semantle inspired game meant to be more simple than the original version. Published on February 25, 2022
 
 [Alphabeticle](https://alphabeticle.xyz/) - Wordle but your number of guesses is limited by whether your letters occur earlier or later in the alphabet compared to the correct letters. 
 
@@ -447,6 +449,18 @@ https://loldle.net/
 [https://bryony.dev/chengyu/chengyu.html](https://web.archive.org/web/20220123155036/https://bryony.dev/chengyu/chengyu.html) by [@nurupo_dev](https://x.com/nurupo_dev)
   https://web.archive.org/web/20220118194332/https://pinyincaichengyu.com/ by https://x.com/_limboy
 https://allanchain.github.io/chinese-wordle/ by Allan Chain
+
+Sumplete - https://sumplete.com
+Squeezy - https://imsqueezy.com/
+Kakuro Conquest - https://kakuroconquest.com
+Mathler - https://mathler.com
+Crosswordle - https://crosswordle.com
+Sudoku Conquest - https://sudokuconquest.com
+Hitori Conquest - https://hitoriconquest.com
+Wordga - https://wordga.com
+
+
+
 # Sources
 ## Other Wordle indexes
 - [(Dead) Awesome Wordle](https://github.com/prakhar897/awesome-wordle) Note: recheck for additional Wordle variants to be added here.
