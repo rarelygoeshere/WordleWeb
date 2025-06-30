@@ -306,7 +306,7 @@ My own list of Wordle-like games and other assorted variations of this game form
 - [aniguesrr](https://aniguessr.com/) / [Release Post](https://www.reddit.com/r/anime/comments/18fak3o/aniguessr_yet_another_anime_guessing_game/) yet another anime guessing game
 
 # [u/GreyManedLizard](https://www.reddit.com/user/GreyManedLizard/)
-- [holowho](https://greymaned.itch.io/holowho) / [Release Post](https://www.reddit.com/r/VirtualYoutubers/comments/1c8bgzb/made_a_hololive_version_of_guess_who_with_online/) 
+- [holowho](https://greymaned.itch.io/holowho) / [Release Post](https://www.reddit.com/r/VirtualYoutubers/comments/1c8bgzb/made_a_hololive_version_of_guess_who_with_online/) Hololive version of Guess Who
 
 
 # [u/lenjoywillwood](https://www.reddit.com/user/ienjoywillwood/)
