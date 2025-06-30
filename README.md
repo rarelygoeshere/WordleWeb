@@ -275,6 +275,58 @@ My own list of Wordle-like games and other assorted variations of this game form
 # [Fernando Serboncini](https://fserb.com/)/[Github](https://github.com/fserb)
 - [Termo](https://term.ooo/)/[Wikipedia paeg](https://pt.wikipedia.org/wiki/Term.ooo) Daily Portuguese-language word-guessing game inspired by Wordle.​ Published on January 2022
 
+# [u/ThatnewJosh](https://www.reddit.com/user/thatnewjosh/)
+- [Thebossdle](https://thebossdle.playpass.games/a) / [Release Post](https://www.reddit.com/r/BruceSpringsteen/comments/vqwsqq/i_made_a_bruce_springsteen_heardle_thebossdle/) Bruce Springsteen heardle, based on the Beatles game (Beadle.gg)
+
+# [u/SquidBucketAC](https://www.reddit.com/user/SquidBucketAC/)
+- [ABBAdle](https://abbadle.playpass.games/) / [Release Post](https://www.reddit.com/r/ABBA/comments/x2cyqn/abba_heardle/) ABBA heardle
+
+# [u/chewchiro](https://www.reddit.com/user/chewchiro/)
+- [better-beadle](https://beadle.playpass.games/) / [Release Post](https://www.reddit.com/r/beatles/comments/usr5u5/comment/jrb1nnq/) Beadle-inspired game but better, has features Beadle.gg removed like Free Play
+
+# [u/jimmyrocks](https://www.reddit.com/user/jimmyrocks/)
+- [Heardle Ska](https://ska.rocks/heardle) / [Old Release Post (Dead Link Inside)](https://www.reddit.com/r/Ska/comments/tulfc0/heardle_but_for_ska/) / [New Release Post](https://www.reddit.com/r/Ska/comments/1dojq8l/comment/lad8umv/)  Heardle, but for ska.
+
+# [u/i-love-lamp-1024](https://www.reddit.com/user/i-love-lamp-1024/)
+- [Bachle](http://bachle.co/) / [Release Post](https://www.reddit.com/r/classicalmusic/comments/w13cjj/new_wordle_heardle_for_classical_composers/) Heardle for classical composers 
+
+# [u/Conscious_Bread181](https://www.reddit.com/user/Conscious_Bread181/)
+- [euroguessr](https://euroguessr.com/play) / [Release Post](https://www.reddit.com/r/eurovision/comments/1bfnc6k/comment/l2bno6f/) eurovision heardle
+
+# [u/castironcake](https://www.reddit.com/user/castironcake/)
+- [holodie](https://games.vchama.xyz/holodle) / [Release Post](https://www.reddit.com/r/Hololive/comments/zb5cj0/holodle_a_hololive_themed_word_puzzle_game/) Hololive themed word puzzle game
+
+# [u/mahloola](https://www.reddit.com/user/Mahloola/)
+- [jingle](https://jingle.rs/) / [Release Post](https://www.reddit.com/r/2007scape/comments/1cv6p2e/i_made_an_osrs_music_guessing_game_jinglers/)  OSRS music guessing game
+
+# [u/Zealousideal-Grass58 / HolomemsGuesser](https://www.reddit.com/user/Zealousideal-Grass58/) / [2](https://ko-fi.com/holomemsguesser) / [3](https://x.com/HoloGuessr)
+- [HolomemsGuesser](https://holomemsguesser.com/) / [Release Post](https://www.reddit.com/r/VirtualYoutubers/comments/1f5i0do/holomemsguesser_a_multimode_hololive_daily/) multi-mode hololive daily guessing game inspired by Wordle, Loldle, Narutodle, etc... 
+
+# [u/Mikizikk](https://www.reddit.com/user/Mikizikk/)
+- [aniguesrr](https://aniguessr.com/) / [Release Post](https://www.reddit.com/r/anime/comments/18fak3o/aniguessr_yet_another_anime_guessing_game/) yet another anime guessing game
+
+# [u/GreyManedLizard](https://www.reddit.com/user/GreyManedLizard/)
+- [holowho](https://greymaned.itch.io/holowho) / [Release Post](https://www.reddit.com/r/VirtualYoutubers/comments/1c8bgzb/made_a_hololive_version_of_guess_who_with_online/) 
+
+
+# [u/lenjoywillwood](https://www.reddit.com/user/ienjoywillwood/)
+- [swiftle](https://www.techyonic.co/swiftle) / [Release Post](https://www.reddit.com/r/Music/comments/184eaiv/custom_heardles/) taylor swift heardle
+
+# u/scary_godmother DELETED ACCOUNT
+- [Prince Heardle](https://purple-heardle.glitch.me/) / [2](https://prince-heardle.glitch.me/) / [Release Post](https://www.reddit.com/r/PRINCE/comments/voelzw/comment/ihile6v/) prince heardle 
+
+# [u/MilksiCream](https://www.reddit.com/user/MilksiCreem/)
+- [Kirby](https://kirby-ost-heardle.glitch.me/) / [Release Post](https://www.reddit.com/r/Kirby/comments/1f2pgj9/kirby_ost_heardle/) / [COPYRIGHT NOTE](https://x.com/MilksiCreem/status/1833359546968096797) kirby heardle
+
+# [u/ipfil](https://www.reddit.com/user/Ipfil/)
+- [Eden Heardle](https://another-eden-heardle.glitch.me/) / [2 (infinite Version](https://another-eden-infinite-heardle.glitch.me/) / [Release Post](https://www.reddit.com/r/AnotherEdenGlobal/comments/16qufuc/made_an_another_eden_heardle/) Eden Heardle
+
+# [u/Legit_Enough](https://www.reddit.com/user/Legit_enough/)
+- [Touhou](https://pniked.github.io/touhou-heardle/) / [Release Post](https://www.reddit.com/r/touhou/comments/1bdxu7x/i_made_a_touhou_heardle/) Touhou Heardle
+
+# [u/DarkDecayLP](https://www.reddit.com/user/DarkDecayLP/) / [Twitter](https://x.com/ZeldaHeardle)
+- [Zelda](https://zelda-heardle.glitch.me/) / [2 (Infinite Version)](https://zelda-heardle-infinite.glitch.me/) / [Release Post](https://www.reddit.com/r/zelda/comments/u6qmnp/all_i_made_a_zelda_heardle/) Zelda Heardle
+
 [Alphabeticle](https://alphabeticle.xyz/) - Wordle but your number of guesses is limited by whether your letters occur earlier or later in the alphabet compared to the correct letters. 
 
 [Airportle](https://airportle.scottscheapflights.com/) - Wordle with flight codes.
@@ -437,6 +489,9 @@ My own list of Wordle-like games and other assorted variations of this game form
 # Games with inconclusive creator attribution
 Wordle Games where any and all information about the creator was unable to be found.
 - [Will Wood Heardle](https://will-wood-heardle.glitch.me/)/[Reddit release post](https://www.reddit.com/r/willwood/comments/u3pmd5/play_will_wood_heardle_today/) Heardle-inspired variant for Will Wood songs. Published on April 15, 2022
+- [musicle.app](https://musicle.app/) Music Guessing Game Portal
+- [tweedle](https://tweedle.playpass.games/) / [2](https://tweedle.app/) A daily word game for your favorite twitter profiles
+- [musicals](https://musicals.heardledecades.xyz/) / [Release Post](https://www.reddit.com/r/Broadway/comments/1hkrijc/todays_broadway_heardle/) Music Guessing Game
 
 # Sort this out
 Duordle, Bardle, Heardle, BIRD, the Movie Frame Game
