@@ -244,7 +244,7 @@ My own list of Wordle-like games and other assorted variations of this game form
 - [Actorle](https://actorle.com/) - Wordle but you have to guess Actors 
 
 # [mikkaio](https://bsky.app/profile/mikkaio.bsky.social)
-- [Horsle](https://horsle.glitch.me/) Wordle parody where the answer is always "horse."​ Likely published around March 2024 [(Source)](https://bsky.app/profile/willowhorse.bsky.social/post/3kn3hoamkxc2v)
+- [Horsle](https://horsle.glitch.me/) Wordle parody where the answer is always "horse."​ Likely published around 2022 [(Source)](https://bsky.app/profile/mikkaio.bsky.social/post/3lbqclorbh22h/[2](https://bsky.app/profile/willowhorse.bsky.social/post/3kn3hoamkxc2v)
 
 # [Playpass Team](https://x.com/PlaypassTeam)
 - [Country Guesser](https://countryguesser.gg/)/[Twitter release post](https://x.com/PlaypassTeam/status/1541987009975050245) Heardle-inspired Country Music Songs Guessing Game. Published on June 29, 2022
