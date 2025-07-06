@@ -327,6 +327,9 @@ My own list of Wordle-like games and other assorted variations of this game form
 # [u/DarkDecayLP](https://www.reddit.com/user/DarkDecayLP/) / [Twitter](https://x.com/ZeldaHeardle)
 - [Zelda](https://zelda-heardle.glitch.me/) / [2 (Infinite Version)](https://zelda-heardle-infinite.glitch.me/) / [Release Post](https://www.reddit.com/r/zelda/comments/u6qmnp/all_i_made_a_zelda_heardle/) Zelda Heardle
 
+# [Beth and Angel Make Games](https://beth-and-angel-make-games.itch.io/) / [Carrd](https://bethandangelmakegames.carrd.co/)
+- [Heardle](https://bethandangelmakegames.carrd.co/) - Heardle (NOTE: Paid.)
+
 [Alphabeticle](https://alphabeticle.xyz/) - Wordle but your number of guesses is limited by whether your letters occur earlier or later in the alphabet compared to the correct letters. 
 
 [Airportle](https://airportle.scottscheapflights.com/) - Wordle with flight codes.
