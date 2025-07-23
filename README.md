@@ -328,7 +328,28 @@ My own list of Wordle-like games and other assorted variations of this game form
 - [Zelda](https://zelda-heardle.glitch.me/) / [2 (Infinite Version)](https://zelda-heardle-infinite.glitch.me/) / [Release Post](https://www.reddit.com/r/zelda/comments/u6qmnp/all_i_made_a_zelda_heardle/) Zelda Heardle
 
 # [Beth and Angel Make Games](https://beth-and-angel-make-games.itch.io/) / [Carrd](https://bethandangelmakegames.carrd.co/)
-- [Heardle](https://bethandangelmakegames.carrd.co/) - Heardle (NOTE: Paid.)
+- [Heardle](https://bethandangelmakegames.carrd.co/) Heardle (NOTE: Paid.)
+
+# [Puzzletrailpaul](puzzletrailpaul)
+- [Chainagram](https://puzzletrail.games/puzzles/chainagram/) Chainagram gives you two five-letter words, and you need to get from one word to the next step-by-step by changing one letter at a time, allowing anagrams.
+
+# [Martellaj](https://x.com/martellaj)
+- [Cladder](https://playcladder.com/) starts you off with a 3-, 4-, or 5-letter word, and you have to change one letter at a time in order to get a word that fulfills a given hint. You must do this ten times in under a minute.
+
+# [Cludl](https://cludl.com/)
+- [Cludl](https://cludl.com/) Cludl is like Wordle, but one already-colored guess is given for you, leaving only one possible answer; you must find that word in one guess, with the added goal of getting it as quickly as possible.
+
+# [Mento](https://mento.co.uk/) / [Twitter](https://x.com/fatchris)
+- [CrissWord](https://crissword.com/) gives you definitions two or more words of the same length, with most of those letters being the same. You are challenged to guess all words as quickly and with as few mistakes as you can.
+
+# [Chigozie](https://www.chigozie.co.uk/) / [Twitter](https://x.com/chigozienri)
+- [Dolphin Wordle](https://www.chigozie.co.uk/dolphin-wordle/) Wordle But you can Only type the letter "E".
+
+# [Kelly Dornhaus](https://kellydornhaus.com/) / [Bsky](https://kellydornhaus.bsky.social/)
+- [Fibble](https://fibble.xyz/) is like Wordle, but every guess, including one already-given guess, has exactly one liar in it, coloring-wise. Finding and marking the liars will help you find the target word.
+
+# [rspdev](https://x.com/_rspdev)
+- [Flaggle](https://flaggle.app/) gives you a flag; you must name its country/territory. Each incorrect guess tells you if you have the right continent, if the target country is bigger or smaller than your guess, and how far away your guess is by distance.
 
 [Alphabeticle](https://alphabeticle.xyz/) - Wordle but your number of guesses is limited by whether your letters occur earlier or later in the alphabet compared to the correct letters. 
 
@@ -495,6 +516,9 @@ Wordle Games where any and all information about the creator was unable to be fo
 - [musicle.app](https://musicle.app/) Music Guessing Game Portal
 - [tweedle](https://tweedle.playpass.games/) / [2](https://tweedle.app/) A daily word game for your favorite twitter profiles
 - [musicals](https://musicals.heardledecades.xyz/) / [Release Post](https://www.reddit.com/r/Broadway/comments/1hkrijc/todays_broadway_heardle/) Music Guessing Game
+- [Countryle](https://countryle.com/) makes you guess a country, with each wrong guess telling you if you’re right on hemisphere/continent, how close you are in terms of avg. temp./population & in which direction, and the cardinal direction you need to go.
+- [Crissle Crosle](https://crisslecrossle.com/) like Wordle, but every guess comes with an additional “blue” word, such that the yellow and green colors of your guess apply either to its corresponding blue word or to the target word.
+- [Factle](https://frontofficesports.com/trivia/factle/) requires you to guess the “top five” in a particular statistical category, in order, out of 23 given options.
 
 # Sort this out
 Duordle, Bardle, Heardle, BIRD, the Movie Frame Game
