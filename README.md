@@ -347,7 +347,7 @@ My own list of Wordle-like games and other assorted variations of this game form
 
 # [Kelly Dornhaus](https://kellydornhaus.com/) / [Bsky](https://kellydornhaus.bsky.social/)
 - [Fibble](https://fibble.xyz/) is like Wordle, but every guess, including one already-given guess, has exactly one liar in it, coloring-wise. Finding and marking the liars will help you find the target word.
-- [Warmle](https://warmle.org/) is like Wordle, but yellow means “this letter is within three letters alphabetically from the correct letter.
+- [Warmle](https://warmle.org/) is like Wordle, but yellow means “this letter is within three letters alphabetically from the correct letter."
 - [Xordle](https://xordle.org/) is basically two Wordles in one. You are given one already-colored guess, and you must find two target words that don’t share letters between them.
 
 # [rspdev](https://x.com/_rspdev)
@@ -540,7 +540,6 @@ Wordle Games where any and all information about the creator was unable to be fo
 - [Squaredle](https://squaredle.app/) is a word-search-style game without a word bank. Find all possible words by moving from letter to letter orthogonally or diagonally.
 - [WordAll](https://wordall.xyz/) starts you off with two already-given Wordle guesses. You must find all valid words consistent with the coloring of those guesses.
 - [WordHuddle](https://wordhuddle.com/) is a hangman-style game. It starts you out with all the blanks, as well as a clue. Each time you get the first available letter, it saves a guess. Get it in 10 guesses to win.
-- [
 
 
 
