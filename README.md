@@ -362,6 +362,37 @@ My own list of Wordle-like games and other assorted variations of this game form
 # [SamuelTheSetter](https://x.com/SamuelTheSetter)
 - [PlusWord](https://www.telegraph.co.uk/puzzles/puzzle/plusword/) starts you off with a 5X5 crossword; the colors on the grid are then to be used like Wordle clues, from which only one word, the PlusWord, can (and must) be derived.
 
+# [eonurk](https://www.reddit.com/user/eonurk/)
+- [Numbword](https://numbword.com/) wordle but with sum of letters
+
+# [JoshuaGehre](https://github.com/JoshuaGehre)
+- [Periodle](https://heptaveegesimal.com/periodle/) wordle but with the periodic table of elements.
+
+# [Barstool sports](https://www.barstoolsports.com/)
+- [Daily Dozen Trivia](https://dailydozentrivia.com/) sports/entertainment trivia from the barstool sports blog
+
+# [Aljvi](https://ajlvi.net)
+- [Daily25](https://www.ajlvi.net/daily25/) wordle but with an arithmetic equation
+- [Spacebar](https://www.ajlvi.net/spacebar/) wordle but with five letter words to guess a six letter word
+
+# [Jessecoleman](https://www.reddit.com/user/jessecoleman/) / [Reddit Release Post](https://www.reddit.com/r/webdev/comments/1bltxkf/i_made_an_original_word_game_called_gram_jam/)
+- [Gramjam](https://gramjam.app/) wordle but with tile-swapping where you form words to clear boards/score points within limited swaps
+
+# [RgThree](https://rgthree.com/)
+- [unlockle](https://unlockle.app/) worde but with a 3x3 lock screen pattern
+
+# [Alex Cheddar](https://www.instagram.com/a.cheddar/)
+- [Do not find the fox](https://www.donotfindthefox.com/classic) avoid spelling "fox"
+
+# [Nick Zuber](https://github.com/nickzuber)
+- [Scrambled](https://www.play-scrambled.com/) wordle but with a scrambled crossword
+
+# [Josh Wardlel](https://x.com/powerlanguish)
+- [Warbl](https://www.warbl.org/) bandle but the songs are reversed
+
+#
+
+
 [Alphabeticle](https://alphabeticle.xyz/) - Wordle but your number of guesses is limited by whether your letters occur earlier or later in the alphabet compared to the correct letters. 
 
 [Airportle](https://airportle.scottscheapflights.com/) - Wordle with flight codes.
@@ -540,8 +571,12 @@ Wordle Games where any and all information about the creator was unable to be fo
 - [Squaredle](https://squaredle.app/) is a word-search-style game without a word bank. Find all possible words by moving from letter to letter orthogonally or diagonally.
 - [WordAll](https://wordall.xyz/) starts you off with two already-given Wordle guesses. You must find all valid words consistent with the coloring of those guesses.
 - [WordHuddle](https://wordhuddle.com/) is a hangman-style game. It starts you out with all the blanks, as well as a clue. Each time you get the first available letter, it saves a guess. Get it in 10 guesses to win.
-
-
+- [LessGames](https://lessgames.com/) more or less style of something, guess the song, and custom wordle
+- [Wordlock](https://wordlockgame.com/) wordle but with columns like a lockpin, awards points based on rarity of words
+- [Wroud](https://www.wroud.net/) wordle but with a letter cloud, six-letter solutions, only three guesses
+- [mislettered](https://tryhardguides.com/mislettered/) wwordle but hangman-styled
+- [LINKR](https://www.playlinkr.net/) link the numbers puzzle
+- [Bandle](https://bandle.app/) wordle but with songs
 
 
 # Sort this out
