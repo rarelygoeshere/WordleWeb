@@ -1,6 +1,9 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 # WordleWeb
 My own list of Wordle-like games and other assorted variations of this game format. Hope people enjoy and contribute to this!
+# [danbo](https://ko-fi.com/scrandle)
+- [Scrandle](https://scrandle.com/) Guessing game that revolves around "Footy Scran" (a British slang term for food served at football/soccer stadiums)
+
 # [u/PhilosophyQuick7182](https://www.reddit.com/user/PhilosophyQuick7182/)
 - [Cobble](https://wilf.live/cobble/) Word game where you must use up all the letters in just two words, with as few extra letters as possible. Published on March 29, 2025
 
