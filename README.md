@@ -1,6 +1,9 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 # WordleWeb
 My own list of Wordle-like games and other assorted variations of this game format. Hope people enjoy and contribute to this!
+# [u/die_back](https://www.reddit.com/user/die_back/)
+- [Wormle](https://www.wormle.com/) / [Reddit release post](https://www.reddit.com/r/WebGames/comments/1e2vcn0/wormle_a_daily_word_game_that_combines_elements/) A daily word game combining word association and spacial reasoning. Published on July 14, 2024 
+
 # [danbo](https://ko-fi.com/scrandle)
 - [Scrandle](https://scrandle.com/) Food comparsion / Guessing game that revolves around "Footy Scran" (a British slang term for food served at football/soccer stadiums) where you guess which dish was rated higher by a community vote
 
