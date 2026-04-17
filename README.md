@@ -430,6 +430,7 @@ My own list of Wordle-like games and other assorted variations of this game form
 
 [DontWordle](https://dontwordle.com/) - A complete opposite of Wordle.
 
+[Dont wordle pro](https://www.dontwordle.top/) - Reverse Wordle with cleaner interaction, a larger word bank, and more varied play.
 
 [Duotrigordle](https://duotrigordle.com/#) - Wordle but you have to guess 32 words in 37 tries.
 
