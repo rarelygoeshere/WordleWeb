@@ -639,3 +639,8 @@ Wordga - https://wordga.com
 - https://www.producthunt.com/collections/wordle-like-games
 - https://github.com/idanzur/el-solver Look through this link for more games
 - https://x.com/thunderdle/status/1664149982306349057 Twitter thread for Wordle games
+
+# [684efs3](https://github.com/684efs3)
+- [Word Play Forever](https://wordplayforever.com) Unlimited Wordle in English — play as many rounds as you want, free, with no daily limit and no account required.
+- [Palabra Ilimitada](https://palabrailimitada.com) Unlimited Spanish Wordle — play as many rounds as you want, free, with no daily limit and no account required.
+- [Wordle Deutsch 247](https://wordledeutsch247.com) Unlimited German Wordle — play as many rounds as you want, free, with no daily limit and no account required. Includes umlaut support.
