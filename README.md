@@ -586,6 +586,7 @@ Wordle Games where any and all information about the creator was unable to be fo
 - [Bandle](https://bandle.app/) wordle but with songs
 
 
+- [Close Hue](https://closehue.com) A daily color-guessing game where you are given a color name and have to identify what the color looks like. Pick from 5 color swatches and get scored on how close your guess is. Features daily challenges, unlimited mode, and multiplayer.
 # Sort this out
 Duordle, Bardle, Heardle, BIRD, the Movie Frame Game
 worgle, prayerdle, letterle, absurdle, primel, queerdle
