@@ -396,12 +396,8 @@ My own list of Wordle-like games and other assorted variations of this game form
 # [Josh Wardlel](https://x.com/powerlanguish)
 - [Warbl](https://www.warbl.org/) bandle but the songs are reversed
 
-#
-
-
-[Alphabeticle](https://alphabeticle.xyz/) - Wordle but your number of guesses is limited by whether your letters occur earlier or later in the alphabet compared to the correct letters. 
-
-[Airportle](https://airportle.scottscheapflights.com/) - Wordle with flight codes.
+# [Max Lowther](https://majolo.uk/)
+- [Alphabeticle](https://alphabeticle.xyz/) - Wordle but your number of guesses is limited by whether your letters occur earlier or later in the alphabet compared to the correct letters. 
 
 
 [AntiWordle](https://www.antiwordle.com/) - Wordle but system throws difficulties on you.
