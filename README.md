@@ -399,6 +399,8 @@ My own list of Wordle-like games and other assorted variations of this game form
 # [Max Lowther](https://majolo.uk/)
 - [Alphabeticle](https://alphabeticle.xyz/) - Wordle but your number of guesses is limited by whether your letters occur earlier or later in the alphabet compared to the correct letters. 
 
+# [Going](https://www.facebook.com/official.going)
+- [Airportle](https://www.airportle.club/)/[Source post](https://www.facebook.com/official.going/photos/youve-heard-of-wordle-but-what-about-airportle-%EF%B8%8F-play-with-us-at-airportlescotts/3197871957165232/) Wordle but with airport codes
 
 [AntiWordle](https://www.antiwordle.com/) - Wordle but system throws difficulties on you.
 
