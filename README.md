@@ -397,12 +397,13 @@ My own list of Wordle-like games and other assorted variations of this game form
 - [Warbl](https://www.warbl.org/) bandle but the songs are reversed
 
 # [Max Lowther](https://majolo.uk/)
-- [Alphabeticle](https://alphabeticle.xyz/) - Wordle but your number of guesses is limited by whether your letters occur earlier or later in the alphabet compared to the correct letters. 
+- [Alphabeticle](https://alphabeticle.xyz/)/[Source post](https://www.reddit.com/r/WebGames/comments/xd73r6/alphabeticlexyz_a_new_daily_word_puzzle/) - Wordle but your number of guesses is limited by whether your letters occur earlier or later in the alphabet compared to the correct letters. Published on September 13, 2022.
 
 # [Going](https://www.facebook.com/official.going)
-- [Airportle](https://www.airportle.club/)/[Source post](https://www.facebook.com/official.going/photos/youve-heard-of-wordle-but-what-about-airportle-%EF%B8%8F-play-with-us-at-airportlescotts/3197871957165232/) Wordle but with airport codes
+- [Airportle](https://www.airportle.club/)/[Source post](https://www.facebook.com/official.going/photos/youve-heard-of-wordle-but-what-about-airportle-%EF%B8%8F-play-with-us-at-airportlescotts/3197871957165232/) Wordle but with airport codes. Published on January 28, 2022.
 
-[AntiWordle](https://www.antiwordle.com/) - Wordle but system throws difficulties on you.
+# [Joel Beer](https://www.linkedin.com/in/joelthedeveloper/)
+- [AntiWordle](https://www.antiwordle.com/)/[Source post](https://www.linkedin.com/posts/joelthedeveloper_anti-wordle-activity-6894953863854845952-3D-I/)/[Tool](https://codepen.io/WillCodeForBeer/full/mdqEqeE) - Wordle but the challenge is to stay away from the word of the day at much as possible. Published in February 3, 2022.
 
 [ArWordle](https://arwordle.netlify.app/) - Arabic Wordle
 
