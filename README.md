@@ -397,13 +397,20 @@ My own list of Wordle-like games and other assorted variations of this game form
 - [Warbl](https://www.warbl.org/) bandle but the songs are reversed
 
 # [Max Lowther](https://majolo.uk/)
-- [Alphabeticle](https://alphabeticle.xyz/)/[Source post](https://www.reddit.com/r/WebGames/comments/xd73r6/alphabeticlexyz_a_new_daily_word_puzzle/) - Wordle but your number of guesses is limited by whether your letters occur earlier or later in the alphabet compared to the correct letters. Published on September 13, 2022.
+- [Alphabeticle.xyz](https://alphabeticle.xyz/)/[Source post](https://www.reddit.com/r/WebGames/comments/xd73r6/alphabeticlexyz_a_new_daily_word_puzzle/) - Wordle but your number of guesses is limited by whether your letters occur earlier or later in the alphabet compared to the correct letters. Published on September 13, 2022.
 
 # [Going](https://www.facebook.com/official.going)
 - [Airportle](https://www.airportle.club/)/[Source post](https://www.facebook.com/official.going/photos/youve-heard-of-wordle-but-what-about-airportle-%EF%B8%8F-play-with-us-at-airportlescotts/3197871957165232/) Wordle but with airport codes. Published on January 28, 2022.
 
 # [Joel Beer](https://www.linkedin.com/in/joelthedeveloper/)
 - [AntiWordle](https://www.antiwordle.com/)/[Source post](https://www.linkedin.com/posts/joelthedeveloper_anti-wordle-activity-6894953863854845952-3D-I/)/[Tool](https://codepen.io/WillCodeForBeer/full/mdqEqeE) - Wordle but the challenge is to stay away from the word of the day at much as possible. Published in February 3, 2022.
+
+# [cesoid](https://www.reddit.com/user/cesoid/)
+- [cesoid.com/alphabeticle](https://www.cesoid.com/alphabeticle) a word game where each box tells you whether the correct letter comes before or after alphabetically. Published on April 17, 2022.
+
+# [vegeta897](https://www.reddit.com/user/vegeta897/)
+- [Word Peaks](https://vegeta897.github.io/word-peaks/)/[Source post](https://www.reddit.com/r/WebGames/comments/t3eek9/wordle_peaks_a_wordle_spinoff_where_you_narrow/) - Wordle but after each guess, the tiles show whether your letters occur earlier or later in the alphabet compared to the correct letters. Published on February 28, 2022.
+
 
 [ArWordle](https://arwordle.netlify.app/) - Arabic Wordle
 
@@ -550,7 +557,6 @@ My own list of Wordle-like games and other assorted variations of this game form
 
 [Wordle](https://www.nytimes.com/games/wordle/index.html) - The OG
 
-[Wordle-peaks](https://vegeta897.github.io/wordle-peaks/) - Wordle but after each guess, the tiles show whether your letters occur earlier or later in the alphabet compared to the correct letters. 
 
 [Worldle](https://worldle.teuteuf.fr/) - The game will show you an outline of a country, along with some basic facts about it, and challenge you to name which one it is.
 
