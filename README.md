@@ -410,7 +410,15 @@ My own list of Wordle-like games and other assorted variations of this game form
 
 # [vegeta897](https://www.reddit.com/user/vegeta897/)
 - [Word Peaks](https://vegeta897.github.io/word-peaks/)/[Source post](https://www.reddit.com/r/WebGames/comments/t3eek9/wordle_peaks_a_wordle_spinoff_where_you_narrow/) - Wordle but after each guess, the tiles show whether your letters occur earlier or later in the alphabet compared to the correct letters. Published on February 28, 2022.
+- 
+# [recursive_toast](https://news.ycombinator.com/user?id=recursive_toast)
+- [Flagordle](https://flagordle.com/)/[Source post](https://news.ycombinator.com/item?id=48124322) A daily flag-guessing game in the style of Wordle, where you identify countries by their flags. Published on May 13, 2026
+- [Close Hue](https://closehue.com)/[Source post](https://news.ycombinator.com/item?id=48053835) A daily color-guessing game where you are given a color name and have to identify what the color looks like. Pick from 5 color swatches and get scored on how close your guess is. Features daily challenges, unlimited mode, and multiplayer. Published on May 7, 2026
 
+# [684efs3](https://github.com/684efs3)
+- [Word Play Forever](https://wordplayforever.com) Unlimited Wordle in English — play as many rounds as you want, free, with no daily limit and no account required.
+- [Palabra Ilimitada](https://palabrailimitada.com) Unlimited Spanish Wordle — play as many rounds as you want, free, with no daily limit and no account required.
+- [Wordle Deutsch 247](https://wordledeutsch247.com) Unlimited German Wordle — play as many rounds as you want, free, with no daily limit and no account required. Includes umlaut support.
 
 [ArWordle](https://arwordle.netlify.app/) - Arabic Wordle
 
@@ -591,7 +599,6 @@ Wordle Games where any and all information about the creator was unable to be fo
 - [Bandle](https://bandle.app/) wordle but with songs
 
 
-- [Close Hue](https://closehue.com) A daily color-guessing game where you are given a color name and have to identify what the color looks like. Pick from 5 color swatches and get scored on how close your guess is. Features daily challenges, unlimited mode, and multiplayer.
 # Sort this out
 Duordle, Bardle, Heardle, BIRD, the Movie Frame Game
 worgle, prayerdle, letterle, absurdle, primel, queerdle
@@ -627,6 +634,7 @@ Wordga - https://wordga.com
 - [Wordleverse](https://wordleverse.net/)
 - [Alldle](https://alldle.net/)
 - [Wordle-inspired Game Collection](https://rentry.org/v72n74fu)
+- https://dles.aukspot.com/
 ## Sources to sort through
 - [March 8, 2022 - Drew Patty - Medium: Wordle Spinoffs: The Complete and Authoritative Index](https://medium.com/floodgates/the-complete-and-authoritative-list-of-wordle-spinoffs-fb00bfafc448)/[Archive link](https://archive.ph/vuNdB)
 - [A game rentry from the site hunting list on the FMHY Subreddit](https://rentry.co/aawb2pus)
@@ -644,9 +652,8 @@ Wordga - https://wordga.com
 - https://nypost.com/2022/04/18/from-foodle-to-framed-wordle-has-some-game-competition-now/
 - https://www.producthunt.com/collections/wordle-like-games
 - https://github.com/idanzur/el-solver Look through this link for more games
+- https://www.reddit.com/r/northernlion/comments/1p27odx/dles_megathread/
+
+## Sources sorted
 - https://x.com/thunderdle/status/1664149982306349057 Twitter thread for Wordle games
 
-# [684efs3](https://github.com/684efs3)
-- [Word Play Forever](https://wordplayforever.com) Unlimited Wordle in English — play as many rounds as you want, free, with no daily limit and no account required.
-- [Palabra Ilimitada](https://palabrailimitada.com) Unlimited Spanish Wordle — play as many rounds as you want, free, with no daily limit and no account required.
-- [Wordle Deutsch 247](https://wordledeutsch247.com) Unlimited German Wordle — play as many rounds as you want, free, with no daily limit and no account required. Includes umlaut support.
