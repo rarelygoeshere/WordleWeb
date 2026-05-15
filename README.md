@@ -411,8 +411,8 @@ My own list of Wordle-like games and other assorted variations of this game form
 # [vegeta897](https://www.reddit.com/user/vegeta897/)
 - [Word Peaks](https://vegeta897.github.io/word-peaks/)/[Source post](https://www.reddit.com/r/WebGames/comments/t3eek9/wordle_peaks_a_wordle_spinoff_where_you_narrow/) - Wordle but after each guess, the tiles show whether your letters occur earlier or later in the alphabet compared to the correct letters. Published on February 28, 2022.
 - 
-# [recursive_toast](https://news.ycombinator.com/user?id=recursive_toast)
-- [Flagordle](https://flagordle.com/)/[Source post](https://news.ycombinator.com/item?id=48124322) A daily flag-guessing game in the style of Wordle, where you identify countries by their flags. Published on May 13, 2026
+# [recursive_toast](https://news.ycombinator.com/user?id=recursive_toast)/[u/Reading_9590](https://www.reddit.com/user/Reading_9590/)
+- [Flagordle](https://flagordle.com/)/[Source post 1](https://news.ycombinator.com/item?id=48124322)/[2](https://www.reddit.com/r/vexillology/comments/1tc4vby/here_is_flagordlecom/) A daily flag-guessing game in the style of Wordle, where you identify countries by their flags. Published on May 13, 2026
 - [Close Hue](https://closehue.com)/[Source post](https://news.ycombinator.com/item?id=48053835) A daily color-guessing game where you are given a color name and have to identify what the color looks like. Pick from 5 color swatches and get scored on how close your guess is. Features daily challenges, unlimited mode, and multiplayer. Published on May 7, 2026
 
 # [684efs3](https://github.com/684efs3)
