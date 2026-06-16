@@ -420,6 +420,14 @@ My own list of Wordle-like games and other assorted variations of this game form
 - [Palabra Ilimitada](https://palabrailimitada.com) Unlimited Spanish Wordle — play as many rounds as you want, free, with no daily limit and no account required.
 - [Wordle Deutsch 247](https://wordledeutsch247.com) Unlimited German Wordle — play as many rounds as you want, free, with no daily limit and no account required. Includes umlaut support.
 
+[MinCalc ](https://mincalc.com/) is a free daily puzzle site with five original browser games, each with its own twist and a shareable result grid:
+
+[Targle ](https://mincalc.com/targle)— guess the hidden equation (a Nerdle/Mathler cousin).
+[Sumrex ](https://mincalc.com/sumrex)— LinkedIn Queens crossed with sums: one marker per row, column and region, none touching.
+[Quackle ](https://mincalc.com/quackle)— duck-flock region logic; place the ducks so every pond, row and column works out.
+[Toadle ](https://mincalc.com/toadle)— Wordle-style word deduction from per-letter colour clues.
+[Peerkle ](https://mincalc.com/peerkle)— rank eight items along a named daily axis (sleep hours, release year, population) from low to high in five tries.
+
 [ArWordle](https://arwordle.netlify.app/) - Arabic Wordle
 
 [Bardle](https://shakespearegeek.github.io/bardle/) - Wordle with Shakespeare Quotes.
