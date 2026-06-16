@@ -625,7 +625,8 @@ Sudoku Conquest - https://sudokuconquest.com
 Hitori Conquest - https://hitoriconquest.com
 Wordga - https://wordga.com
 
-
+# [Last Control](https://last-control.com/)
+- [Last Control](https://game.last-control.com/play?utm_source=wordleweb&utm_medium=referral&utm_campaign=daily-puzzle-circuit) A daily cognitive-audit puzzle: a 60-second timed test of pattern recognition, numeric reasoning, and perceptual accuracy, scored into a shareable emoji-grid result. The same seed for everyone each day, resets at UTC midnight; no signup required to play. Published on June 1, 2026
 
 # Sources
 ## Other Wordle indexes
