@@ -420,6 +420,9 @@ My own list of Wordle-like games and other assorted variations of this game form
 - [Palabra Ilimitada](https://palabrailimitada.com) Unlimited Spanish Wordle — play as many rounds as you want, free, with no daily limit and no account required.
 - [Wordle Deutsch 247](https://wordledeutsch247.com) Unlimited German Wordle — play as many rounds as you want, free, with no daily limit and no account required. Includes umlaut support.
 
+# [KatherineGuoGuo](https://github.com/KatherineGuoGuo)
+- [Letter Boxed Solver](https://letterboxedsolver.app) Unlimited Letter Boxed — solve any board (a past NYT puzzle, a friend's, or a random one) as many times as you want, free, with no daily limit and no account required. Also covers the daily NYT puzzle with spoiler-free progressive hints and dated answer archives.
+
 [MinCalc ](https://mincalc.com/) is a free daily puzzle site with five original browser games, each with its own twist and a shareable result grid:
 
 [Targle ](https://mincalc.com/targle)— guess the hidden equation (a Nerdle/Mathler cousin).
