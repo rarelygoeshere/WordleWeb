@@ -669,3 +669,7 @@ Wordga - https://wordga.com
 ## Sources sorted
 - https://x.com/thunderdle/status/1664149982306349057 Twitter thread for Wordle games
 
+
+# [MidnightDev](https://midnightdev.dev)/[Twitter](https://x.com/YapoleonGreater)
+- [Yapword](https://yapword.com/)/[Apple App Store](https://apps.apple.com/app/id6774829903)/[Best AI Word Games hub](https://wordgameai.com/)/[Twitter](https://x.com/YapoleonGreater) A daily AI word game where Yapoleon, a self-crowned AI emperor powered by Google Gemini, watches your guesses, gives hints, reacts in real time, and roasts your final board. Three separate daily words, one per difficulty (7, 6, and 5 guesses), plus themed games and head-to-head duels. Free to play, no account required, with a dedicated iOS app. Published on May 27, 2026
+- [Yapoleon's Court](https://court.yapoleon.com/) A daily AI game where you try to charm a haughty AI emperor, Yapoleon, into granting you his favor instead of guessing his word. Published on June 2026
