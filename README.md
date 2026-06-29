@@ -415,6 +415,9 @@ My own list of Wordle-like games and other assorted variations of this game form
 - [Flagordle](https://flagordle.com/)/[Source post 1](https://news.ycombinator.com/item?id=48124322)/[2](https://www.reddit.com/r/vexillology/comments/1tc4vby/here_is_flagordlecom/) A daily flag-guessing game in the style of Wordle, where you identify countries by their flags. Published on May 13, 2026
 - [Close Hue](https://closehue.com)/[Source post](https://news.ycombinator.com/item?id=48053835) A daily color-guessing game where you are given a color name and have to identify what the color looks like. Pick from 5 color swatches and get scored on how close your guess is. Features daily challenges, unlimited mode, and multiplayer. Published on May 7, 2026
 
+# [Atlas](https://atlas-asittley.github.io/)/[Github](https://github.com/atlas-asittley)/[Kofi](https://ko-fi.com/atlasentre)
+- [Spectra](https://atlas-asittley.github.io/spectra/) A daily color-deduction game: crack a hidden RGB color (each channel 0–9) in 6 guesses. Each channel gives exact/within-2/far feedback plus higher/lower arrows, so it's pure logic rather than eyeballing the shade. Shareable result grid, unlimited practice mode, no login. Published on June 29, 2026
+
 # [684efs3](https://github.com/684efs3)
 - [Word Play Forever](https://wordplayforever.com) Unlimited Wordle in English — play as many rounds as you want, free, with no daily limit and no account required.
 - [Palabra Ilimitada](https://palabrailimitada.com) Unlimited Spanish Wordle — play as many rounds as you want, free, with no daily limit and no account required.
