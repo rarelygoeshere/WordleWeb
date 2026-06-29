@@ -417,6 +417,7 @@ My own list of Wordle-like games and other assorted variations of this game form
 
 # [Atlas](https://atlas-asittley.github.io/)/[Github](https://github.com/atlas-asittley)/[Kofi](https://ko-fi.com/atlasentre)
 - [Spectra](https://atlas-asittley.github.io/spectra/) A daily color-deduction game: crack a hidden RGB color (each channel 0–9) in 6 guesses. Each channel gives exact/within-2/far feedback plus higher/lower arrows, so it's pure logic rather than eyeballing the shade. Shareable result grid, unlimited practice mode, no login. Published on June 29, 2026
+- [Vaultle](https://atlas-asittley.github.io/vaultle/) A daily code-cracking game (Bulls & Cows / Mastermind): crack a hidden 4-digit code in 9 guesses using bulls (right digit, right place) and cows (right digit, wrong place) clues. Shareable result grid, unlimited practice mode, no login. Published on June 29, 2026
 
 # [684efs3](https://github.com/684efs3)
 - [Word Play Forever](https://wordplayforever.com) Unlimited Wordle in English — play as many rounds as you want, free, with no daily limit and no account required.
