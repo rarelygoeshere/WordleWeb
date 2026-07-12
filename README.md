@@ -677,3 +677,6 @@ Wordga - https://wordga.com
 # [MidnightDev](https://midnightdev.dev)/[Twitter](https://x.com/YapoleonGreater)
 - [Yapword](https://yapword.com/)/[Apple App Store](https://apps.apple.com/app/id6774829903)/[Best AI Word Games hub](https://wordgameai.com/)/[Twitter](https://x.com/YapoleonGreater) A daily AI word game where Yapoleon, a self-crowned AI emperor powered by Google Gemini, watches your guesses, gives hints, reacts in real time, and roasts your final board. Three separate daily words, one per difficulty (7, 6, and 5 guesses), plus themed games and head-to-head duels. Free to play, no account required, with a dedicated iOS app. Published on May 27, 2026
 - [Yapoleon's Court](https://court.yapoleon.com/) A daily AI game where you try to charm a haughty AI emperor, Yapoleon, into granting you his favor instead of guessing his word. Published on June 2026
+
+# [Dreamwake Labs](https://dreamwakelabs.com/)
+- [Rung](https://dailyrung.com/) A daily word game of nerve: one hidden everyday answer revealed through five clues descending from cryptic to nearly obvious, worth 5 down to 1 points. Guess early to score more — but a wrong guess burns two rungs, while a safe skip drops just one. No account, no ads. Published on July 5, 2026
