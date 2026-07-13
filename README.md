@@ -438,6 +438,9 @@ My own list of Wordle-like games and other assorted variations of this game form
 # [Dreamwake Labs](https://dreamwakelabs.com/)
 - [Rung](https://dailyrung.com/) A daily word game of nerve: one hidden everyday answer revealed through five clues descending from cryptic to nearly obvious, worth 5 down to 1 points. Guess early to score more — but a wrong guess burns two rungs, while a safe skip drops just one. No account, no ads. Published on July 5, 2026
 
+# [Camalia Group](https://guessthenews.com/)/[Twitter](https://x.com/guessthenews)
+- [Guess the News](https://guessthenews.com/) - Guess the missing word in today's real news headline with hotter/colder feedback and hints. Published July 2026.
+
 [MinCalc ](https://mincalc.com/) is a free daily puzzle site with five original browser games, each with its own twist and a shareable result grid:
 
 [Targle ](https://mincalc.com/targle)— guess the hidden equation (a Nerdle/Mathler cousin).
