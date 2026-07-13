@@ -427,6 +427,17 @@ My own list of Wordle-like games and other assorted variations of this game form
 # [KatherineGuoGuo](https://github.com/KatherineGuoGuo)
 - [Letter Boxed Solver](https://letterboxedsolver.app) Unlimited Letter Boxed — solve any board (a past NYT puzzle, a friend's, or a random one) as many times as you want, free, with no daily limit and no account required. Also covers the daily NYT puzzle with spoiler-free progressive hints and dated answer archives.
 
+
+# [MidnightDev](https://midnightdev.dev)/[Twitter](https://x.com/YapoleonGreater)
+- [Yapword](https://yapword.com/)/[Apple App Store](https://apps.apple.com/app/id6774829903)/[Best AI Word Games hub](https://wordgameai.com/)/[Twitter](https://x.com/YapoleonGreater) A daily AI word game where Yapoleon, a self-crowned AI emperor powered by Google Gemini, watches your guesses, gives hints, reacts in real time, and roasts your final board. Three separate daily words, one per difficulty (7, 6, and 5 guesses), plus themed games and head-to-head duels. Free to play, no account required, with a dedicated iOS app. Published on May 27, 2026
+- [Yapoleon's Court](https://court.yapoleon.com/) A daily AI game where you try to charm a haughty AI emperor, Yapoleon, into granting you his favor instead of guessing his word. Published on June 2026
+
+# Rishwajeet
+- [TubeCount](https://tubecount.com) A daily game where you guess how many views a real YouTube video got from its thumbnail alone; the title and channel unlock as clues between guesses. Also has a higher/lower streak mode. Free, no signup required, new puzzle daily. Published June 2026
+
+# [Dreamwake Labs](https://dreamwakelabs.com/)
+- [Rung](https://dailyrung.com/) A daily word game of nerve: one hidden everyday answer revealed through five clues descending from cryptic to nearly obvious, worth 5 down to 1 points. Guess early to score more — but a wrong guess burns two rungs, while a safe skip drops just one. No account, no ads. Published on July 5, 2026
+
 [MinCalc ](https://mincalc.com/) is a free daily puzzle site with five original browser games, each with its own twist and a shareable result grid:
 
 [Targle ](https://mincalc.com/targle)— guess the hidden equation (a Nerdle/Mathler cousin).
@@ -673,10 +684,3 @@ Wordga - https://wordga.com
 ## Sources sorted
 - https://x.com/thunderdle/status/1664149982306349057 Twitter thread for Wordle games
 
-
-# [MidnightDev](https://midnightdev.dev)/[Twitter](https://x.com/YapoleonGreater)
-- [Yapword](https://yapword.com/)/[Apple App Store](https://apps.apple.com/app/id6774829903)/[Best AI Word Games hub](https://wordgameai.com/)/[Twitter](https://x.com/YapoleonGreater) A daily AI word game where Yapoleon, a self-crowned AI emperor powered by Google Gemini, watches your guesses, gives hints, reacts in real time, and roasts your final board. Three separate daily words, one per difficulty (7, 6, and 5 guesses), plus themed games and head-to-head duels. Free to play, no account required, with a dedicated iOS app. Published on May 27, 2026
-- [Yapoleon's Court](https://court.yapoleon.com/) A daily AI game where you try to charm a haughty AI emperor, Yapoleon, into granting you his favor instead of guessing his word. Published on June 2026
-
-# Rishwajeet
-- [TubeCount](https://tubecount.com) A daily game where you guess how many views a real YouTube video got from its thumbnail alone; the title and channel unlock as clues between guesses. Also has a higher/lower streak mode. Free, no signup required, new puzzle daily. Published June 2026
