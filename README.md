@@ -441,6 +441,9 @@ My own list of Wordle-like games and other assorted variations of this game form
 # [Camalia Group](https://guessthenews.com/)/[Twitter](https://x.com/guessthenews)
 - [Guess the News](https://guessthenews.com/) - Guess the missing word in today's real news headline with hotter/colder feedback and hints. Published July 2026.
 
+# [Last Control](https://last-control.com/)
+- [Last Control](https://game.last-control.com/play?utm_source=wordleweb&utm_medium=referral&utm_campaign=daily-puzzle-circuit) A daily cognitive-audit puzzle: a 60-second timed test of pattern recognition, numeric reasoning, and perceptual accuracy, scored into a shareable emoji-grid result. The same seed for everyone each day, resets at UTC midnight; no signup required to play. Published on June 1, 2026
+
 [MinCalc ](https://mincalc.com/) is a free daily puzzle site with five original browser games, each with its own twist and a shareable result grid:
 
 [Targle ](https://mincalc.com/targle)— guess the hidden equation (a Nerdle/Mathler cousin).
@@ -654,8 +657,6 @@ Sudoku Conquest - https://sudokuconquest.com
 Hitori Conquest - https://hitoriconquest.com
 Wordga - https://wordga.com
 
-# [Last Control](https://last-control.com/)
-- [Last Control](https://game.last-control.com/play?utm_source=wordleweb&utm_medium=referral&utm_campaign=daily-puzzle-circuit) A daily cognitive-audit puzzle: a 60-second timed test of pattern recognition, numeric reasoning, and perceptual accuracy, scored into a shareable emoji-grid result. The same seed for everyone each day, resets at UTC midnight; no signup required to play. Published on June 1, 2026
 
 # Sources
 ## Other Wordle indexes
