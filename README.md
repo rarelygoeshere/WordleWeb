@@ -444,6 +444,11 @@ My own list of Wordle-like games and other assorted variations of this game form
 # [Last Control](https://last-control.com/)
 - [Last Control](https://game.last-control.com/play?utm_source=wordleweb&utm_medium=referral&utm_campaign=daily-puzzle-circuit) A daily cognitive-audit puzzle: a 60-second timed test of pattern recognition, numeric reasoning, and perceptual accuracy, scored into a shareable emoji-grid result. The same seed for everyone each day, resets at UTC midnight; no signup required to play. Published on June 1, 2026
 
+# [Yush](https://github.com/Ya-shoo)
+- [OWdle](https://playowdle.com) Guess the daily Overwatch hero across five modes: Classic, Sound, Quote, Spotlight, and Ability.
+- [Deadlockle](https://deadlockle.com) Guess the daily Deadlock hero across six modes: Classic, Quote, Ability, Mugshot, Conversation, and Item.
+- [WuWadle](https://wuwadle.app) Guess the daily Wuthering Waves Resonator across five modes: Classic, Weapon, Banner, Forte, and Quote.
+
 [MinCalc ](https://mincalc.com/) is a free daily puzzle site with five original browser games, each with its own twist and a shareable result grid:
 
 [Targle ](https://mincalc.com/targle)— guess the hidden equation (a Nerdle/Mathler cousin).
