@@ -126,6 +126,11 @@ My own list of Wordle-like games and other assorted variations of this game form
 # [Jonathan Magano](https://x.com/Jonamaths)/[Framagit](https://framagit.org/JonathanMM)/[Mastodon](https://mastodon.social/@JonathanMM)
 - [Sutom](https://sutom.nocle.fr/)/[Framagit](https://framagit.org/JonathanMM/sutom)/[Wikipedia](https://fr.wikipedia.org/wiki/Sutom) Wordle game inspired by the French television game show _Motus_. Published on January 8, 2022
 
+# [Dialactal](https://dialactal.fr/)
+- [SUTOM Dialactal](https://dialactal.fr/sutom) French daily hidden word game with variable word length (6 to 9 letters) and green hints carried over between rows.
+- [Semantle FR](https://dialactal.fr/semantle) French semantic guessing game: each guess is scored by its rank among the 1000 nearest words to the secret word.
+- [L'Article du Jour](https://dialactal.fr/articledujour) Guess the hidden French Wikipedia article by revealing its words, with semantic proximity hints and a co-op mode.
+
 # [Framed](https://x.com/framedwtf)/[Instagram](https://www.instagram.com/framedwtf)/[Bluesky](https://bsky.app/profile/framed.wtf)
 - [Framed](https://framed.wtf/) Daily movie identification Wordle-like using still frames.
 
