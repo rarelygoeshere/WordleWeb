@@ -126,6 +126,12 @@ My own list of Wordle-like games and other assorted variations of this game form
 # [Jonathan Magano](https://x.com/Jonamaths)/[Framagit](https://framagit.org/JonathanMM)/[Mastodon](https://mastodon.social/@JonathanMM)
 - [Sutom](https://sutom.nocle.fr/)/[Framagit](https://framagit.org/JonathanMM/sutom)/[Wikipedia](https://fr.wikipedia.org/wiki/Sutom) Wordle game inspired by the French television game show _Motus_. Published on January 8, 2022
 
+# [Daily-Trivia.com](https://daily-trivia.com)/[Bluesky](https://bsky.app/profile/plot-hole.com)
+- [Plot Hole](https://plot-hole.com/) Daily movie guessing game — 5 clues from vague to obvious, guess the film as early as you can for a higher score. Published on March 20, 2026
+- [TV Addict](https://tv-addict.com/) Daily TV show guessing game — like Wordle but for TV shows; 5 clues, guess early for more points. Published on March 20, 2026
+- [Luminary](https://play-luminary.com/) Daily actor trivia — a sentence clue and four star photos, tap the match before the 30-second timer runs out. Published on June 12, 2026
+- [NORMIE](https://play-normie.com/) Daily "are you normal?" game — lock in your take on 3 questions, then see how your answers compare to the crowd. Published on June 2026
+
 # [Framed](https://x.com/framedwtf)/[Instagram](https://www.instagram.com/framedwtf)/[Bluesky](https://bsky.app/profile/framed.wtf)
 - [Framed](https://framed.wtf/) Daily movie identification Wordle-like using still frames.
 
