@@ -1,6 +1,13 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+
+
 # WordleWeb
 My own list of Wordle-like games and other assorted variations of this game format. Hope people enjoy and contribute to this!
+
+# [wordlecup.today](www.wordlecup.today)
+- Wordle for sports fans, where you guess a mystery football, basketball, or NFL player in six tries using clues revealed after each guess.
+
 # [u/die_back](https://www.reddit.com/user/die_back/)
 - [Wormle](https://www.wormle.com/) / [Reddit release post](https://www.reddit.com/r/WebGames/comments/1e2vcn0/wormle_a_daily_word_game_that_combines_elements/) A daily word game combining word association and spacial reasoning. Published on July 14, 2024 
 
@@ -126,12 +133,17 @@ My own list of Wordle-like games and other assorted variations of this game form
 # [Jonathan Magano](https://x.com/Jonamaths)/[Framagit](https://framagit.org/JonathanMM)/[Mastodon](https://mastodon.social/@JonathanMM)
 - [Sutom](https://sutom.nocle.fr/)/[Framagit](https://framagit.org/JonathanMM/sutom)/[Wikipedia](https://fr.wikipedia.org/wiki/Sutom) Wordle game inspired by the French television game show _Motus_. Published on January 8, 2022
 
+# [Dialactal](https://dialactal.fr/)
+- [SUTOM Dialactal](https://dialactal.fr/sutom) French daily hidden word game with variable word length (6 to 9 letters) and green hints carried over between rows.
+- [Semantle FR](https://dialactal.fr/semantle) French semantic guessing game: each guess is scored by its rank among the 1000 nearest words to the secret word.
+- [L'Article du Jour](https://dialactal.fr/articledujour) Guess the hidden French Wikipedia article by revealing its words, with semantic proximity hints and a co-op mode.
+
 # [Daily-Trivia.com](https://daily-trivia.com)/[Bluesky](https://bsky.app/profile/plot-hole.com)
 - [Plot Hole](https://plot-hole.com/) Daily movie guessing game — 5 clues from vague to obvious, guess the film as early as you can for a higher score. Published on March 20, 2026
 - [TV Addict](https://tv-addict.com/) Daily TV show guessing game — like Wordle but for TV shows; 5 clues, guess early for more points. Published on March 20, 2026
 - [Luminary](https://play-luminary.com/) Daily actor trivia — a sentence clue and four star photos, tap the match before the 30-second timer runs out. Published on June 12, 2026
 - [NORMIE](https://play-normie.com/) Daily "are you normal?" game — lock in your take on 3 questions, then see how your answers compare to the crowd. Published on June 2026
-
+- 
 # [Framed](https://x.com/framedwtf)/[Instagram](https://www.instagram.com/framedwtf)/[Bluesky](https://bsky.app/profile/framed.wtf)
 - [Framed](https://framed.wtf/) Daily movie identification Wordle-like using still frames.
 
@@ -449,6 +461,11 @@ My own list of Wordle-like games and other assorted variations of this game form
 
 # [Last Control](https://last-control.com/)
 - [Last Control](https://game.last-control.com/play?utm_source=wordleweb&utm_medium=referral&utm_campaign=daily-puzzle-circuit) A daily cognitive-audit puzzle: a 60-second timed test of pattern recognition, numeric reasoning, and perceptual accuracy, scored into a shareable emoji-grid result. The same seed for everyone each day, resets at UTC midnight; no signup required to play. Published on June 1, 2026
+
+# [Yush](https://github.com/Ya-shoo)
+- [OWdle](https://playowdle.com) Guess the daily Overwatch hero across five modes: Classic, Sound, Quote, Spotlight, and Ability.
+- [Deadlockle](https://deadlockle.com) Guess the daily Deadlock hero across six modes: Classic, Quote, Ability, Mugshot, Conversation, and Item.
+- [WuWadle](https://wuwadle.app) Guess the daily Wuthering Waves Resonator across five modes: Classic, Weapon, Banner, Forte, and Quote.
 
 [MinCalc ](https://mincalc.com/) is a free daily puzzle site with five original browser games, each with its own twist and a shareable result grid:
 
