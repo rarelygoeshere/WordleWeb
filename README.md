@@ -689,6 +689,7 @@ Wordga - https://wordga.com
 - [Alldle](https://alldle.net/)
 - [Wordle-inspired Game Collection](https://rentry.org/v72n74fu)
 - https://dles.aukspot.com/
+- [WordleLike](https://wordlelike.com/) A free hub of 5 daily Wordle-style games: classic Wordle, 6-letter Word Hurdle, Mini Crossword, Word Search, and Anagram Solver.
 ## Sources to sort through
 - [March 8, 2022 - Drew Patty - Medium: Wordle Spinoffs: The Complete and Authoritative Index](https://medium.com/floodgates/the-complete-and-authoritative-list-of-wordle-spinoffs-fb00bfafc448)/[Archive link](https://archive.ph/vuNdB)
 - [A game rentry from the site hunting list on the FMHY Subreddit](https://rentry.co/aawb2pus)
