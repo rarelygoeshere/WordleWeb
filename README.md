@@ -8,6 +8,9 @@ My own list of Wordle-like games and other assorted variations of this game form
 # [wordlecup.today](www.wordlecup.today)
 - Wordle for sports fans, where you guess a mystery football, basketball, or NFL player in six tries using clues revealed after each guess.
 
+# [Luke Lyons](https://github.com/llyons151)
+- [SoulsDoku](https://www.soulsdoku.com) Daily FromSoftware boss guessing games: a 3x3 category grid plus classic-clue, silhouette, lore and arena modes across Dark Souls, Elden Ring, Bloodborne and Sekiro. Published on June 29, 2026
+
 # [u/die_back](https://www.reddit.com/user/die_back/)
 - [Wormle](https://www.wormle.com/) / [Reddit release post](https://www.reddit.com/r/WebGames/comments/1e2vcn0/wormle_a_daily_word_game_that_combines_elements/) A daily word game combining word association and spacial reasoning. Published on July 14, 2024 
 
