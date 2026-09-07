@@ -530,6 +530,8 @@ My own list of Wordle-like games and other assorted variations of this game form
 
 [Geodle](https://geodle.me/) - Wordle with countries
 
+[DailyFoot](https://dailyfoot.live) - The daily football grid
+
 [GeoQuest](https://geoquest.wout.space/) - Find countries on a map
 
 [GramJam](https://gramjam.app/) - 5x5 swap Wordle
