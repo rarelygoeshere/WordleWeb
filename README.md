@@ -530,6 +530,8 @@ My own list of Wordle-like games and other assorted variations of this game form
 
 [Geodle](https://geodle.me/) - Wordle with countries
 
+[DailyFoot](https://dailyfoot.live) - The daily football grid
+
 [DailyGeo](https://dailygeo.live) - The daily capital and country game
 
 [GeoQuest](https://geoquest.wout.space/) - Find countries on a map
