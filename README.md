@@ -534,6 +534,8 @@ My own list of Wordle-like games and other assorted variations of this game form
 
 [DailyGeo](https://dailygeo.live) - The daily capital and country game
 
+[Geopolitix](https://geopolitix.live) - The daily country-ranking game
+
 [GeoQuest](https://geoquest.wout.space/) - Find countries on a map
 
 [GramJam](https://gramjam.app/) - 5x5 swap Wordle
