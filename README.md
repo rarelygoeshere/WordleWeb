@@ -5,6 +5,19 @@
 # WordleWeb
 My own list of Wordle-like games and other assorted variations of this game format. Hope people enjoy and contribute to this!
 
+# [Roughly](https://roughly.is)
+- [Where?](https://where.roughly.is) Daily animal guessing game: drop a pin where you think the animal lives, then the reveal shows its real range and how far off you were. Published on September 24, 2026
+- [When?](https://when.roughly.is) Guess the year something happened in history, then see how far off you and everyone else were. Published on September 24, 2026
+- [How big?](https://howbig.roughly.is) Two things side by side, guess how many times bigger one is than the other. Published on September 24, 2026
+- [How many?](https://howmany.roughly.is) Guess how many people fit into something famous, like a stadium or a pool. Published on September 24, 2026
+- [How expensive?](https://howexpensive.roughly.is) Guess what something cost in a given place and year. Published on September 24, 2026
+- [How sweet?](https://howsweet.roughly.is) Guess how much sugar is in everyday food and drinks. Published on September 24, 2026
+- [How wide?](https://howwide.roughly.is) Two cities on the same scale, guess how big one is compared to the other. Published on September 24, 2026
+- [Which way?](https://whichway.roughly.is) Draw a river or a mountain range from memory on the map. Published on September 24, 2026
+- [Where from?](https://wherefrom.roughly.is) See a company logo and guess where the company is from. Published on September 24, 2026
+- [Who?](https://who.roughly.is) A question from a real survey, guess what share of people said yes. Published on September 24, 2026
+
+
 # [wordlecup.today](www.wordlecup.today)
 - Wordle for sports fans, where you guess a mystery football, basketball, or NFL player in six tries using clues revealed after each guess.
 
