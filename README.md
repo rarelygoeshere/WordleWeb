@@ -483,6 +483,9 @@ My own list of Wordle-like games and other assorted variations of this game form
 - [Deadlockle](https://deadlockle.com) Guess the daily Deadlock hero across six modes: Classic, Quote, Ability, Mugshot, Conversation, and Item.
 - [WuWadle](https://wuwadle.app) Guess the daily Wuthering Waves Resonator across five modes: Classic, Weapon, Banner, Forte, and Quote.
 
+# [La Lutte des cases](https://luttedescases.fr/)
+- [La Lutte des cases](https://luttedescases.fr/grille/today?utm_source=github&utm_medium=referral&utm_campaign=annuaire-github) Daily French arrowword (mots fléchés) built from the day's news: the source articles are shown at the end of the grid, and the score is shared without spoilers. Free, no signup required.
+
 [MinCalc ](https://mincalc.com/) is a free daily puzzle site with five original browser games, each with its own twist and a shareable result grid:
 
 [Targle ](https://mincalc.com/targle)— guess the hidden equation (a Nerdle/Mathler cousin).
