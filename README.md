@@ -5,6 +5,10 @@
 # WordleWeb
 My own list of Wordle-like games and other assorted variations of this game format. Hope people enjoy and contribute to this!
 
+# [THEATERLE](https://theaterle.com)
+- [Show Guesser](https://theaterle.com) Daily Broadway musical guessing game: guess the mystery musical in 8 tries, with clues for premiere year, composer, genre, source material, and the decade it is set in.
+- [Character Guesser](https://theaterle.com/character-guesser) Daily Broadway character guessing game: name the mystery character in 8 tries.
+
 # [Roughly](https://roughly.is)
 - [Where?](https://where.roughly.is) Daily animal guessing game: drop a pin where you think the animal lives, then the reveal shows its real range and how far off you were. Published on September 24, 2026
 - [When?](https://when.roughly.is) Guess the year something happened in history, then see how far off you and everyone else were. Published on September 24, 2026
