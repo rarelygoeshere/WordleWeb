@@ -743,3 +743,6 @@ Wordga - https://wordga.com
 ## Sources sorted
 - https://x.com/thunderdle/status/1664149982306349057 Twitter thread for Wordle games
 
+
+# [Squaredle.fun](https://squaredle.fun)
+- [Squaredle](https://squaredle.fun) Daily word puzzle: trace letters on a 4x4 board to find the required words. New puzzle every day, plus Unlimited, Express and Weekly modes and a built-in solver.
