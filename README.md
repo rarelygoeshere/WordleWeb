@@ -5,6 +5,10 @@
 # WordleWeb
 My own list of Wordle-like games and other assorted variations of this game format. Hope people enjoy and contribute to this!
 
+# [Sol](https://solocene.com)
+- [Gnomon](https://solocene.com/gnomon?via=wordleweb) Daily shadow-reading game: a famous building stands under that day's real sun at an hour kept secret, and you name the hour from its shadow in six readings. Free, no signup.
+- [Almanac](https://solocene.com/almanac?via=wordleweb) Daily geography game: name a city in six guesses from six clues in its sky, from the day's length to the stars and the clock. Free, no signup.
+
 # [THEATERLE](https://theaterle.com)
 - [Show Guesser](https://theaterle.com) Daily Broadway musical guessing game: guess the mystery musical in 8 tries, with clues for premiere year, composer, genre, source material, and the decade it is set in.
 - [Character Guesser](https://theaterle.com/character-guesser) Daily Broadway character guessing game: name the mystery character in 8 tries.
