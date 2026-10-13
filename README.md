@@ -25,7 +25,6 @@ My own list of Wordle-like games and other assorted variations of this game form
 - [Where from?](https://wherefrom.roughly.is) See a company logo and guess where the company is from. Published on September 24, 2026
 - [Who?](https://who.roughly.is) A question from a real survey, guess what share of people said yes. Published on September 24, 2026
 
-
 # [wordlecup.today](www.wordlecup.today)
 - Wordle for sports fans, where you guess a mystery football, basketball, or NFL player in six tries using clues revealed after each guess.
 
@@ -668,6 +667,7 @@ My own list of Wordle-like games and other assorted variations of this game form
 
 # Games with inconclusive creator attribution
 Wordle Games where any and all information about the creator was unable to be found.
+- [R34 Higher or Lower Daily Challenge](https://rule34higherorlower.com/daily) Compare two anime character prompts and guess which one has the higher Popularity Score in a fixed daily 10-question challenge.
 - [Will Wood Heardle](https://will-wood-heardle.glitch.me/)/[Reddit release post](https://www.reddit.com/r/willwood/comments/u3pmd5/play_will_wood_heardle_today/) Heardle-inspired variant for Will Wood songs. Published on April 15, 2022
 - [musicle.app](https://musicle.app/) Music Guessing Game Portal
 - [tweedle](https://tweedle.playpass.games/) / [2](https://tweedle.app/) A daily word game for your favorite twitter profiles
