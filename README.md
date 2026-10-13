@@ -490,6 +490,10 @@ My own list of Wordle-like games and other assorted variations of this game form
 # [La Lutte des cases](https://luttedescases.fr/)
 - [La Lutte des cases](https://luttedescases.fr/grille/today?utm_source=github&utm_medium=referral&utm_campaign=annuaire-github) Daily French arrowword (mots fléchés) built from the day's news: the source articles are shown at the end of the grid, and the score is shared without spoilers. Free, no signup required.
 
+# [DailyPlay](https://dailyplay.com/)
+- [Sudoku](https://dailyplay.com/play/sudoku) A daily classic 9x9 Sudoku: the same grid for everyone each day, one solution reachable by logic alone, and a result you can share without spoiling it. Free, no ads, no signup required.
+- [WordSlip](https://dailyplay.com/play/wordslip) Seven scrambled letters on a hexagon grid: work out the word, then drag a path through the cells that spells it. Same puzzle for everyone each day, free, no ads, no signup required.
+
 [MinCalc ](https://mincalc.com/) is a free daily puzzle site with five original browser games, each with its own twist and a shareable result grid:
 
 [Targle ](https://mincalc.com/targle)— guess the hidden equation (a Nerdle/Mathler cousin).
