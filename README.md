@@ -5,6 +5,9 @@
 # WordleWeb
 My own list of Wordle-like games and other assorted variations of this game format. Hope people enjoy and contribute to this!
 
+# [Curio](https://curioword.com)
+- [Curio](https://curioword.com/play) Daily etymology guessing game: guess the word from up to three clues about where it came from, with a letter hint on the last. Each day's word also has a short origin story. Free, no login.
+
 # [Sol](https://solocene.com)
 - [Gnomon](https://solocene.com/gnomon?via=wordleweb) Daily shadow-reading game: a famous building stands under that day's real sun at an hour kept secret, and you name the hour from its shadow in six readings. Free, no signup.
 - [Almanac](https://solocene.com/almanac?via=wordleweb) Daily geography game: name a city in six guesses from six clues in its sky, from the day's length to the stars and the clock. Free, no signup.
