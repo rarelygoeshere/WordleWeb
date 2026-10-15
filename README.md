@@ -500,6 +500,13 @@ My own list of Wordle-like games and other assorted variations of this game form
 - [Sudoku](https://dailyplay.com/play/sudoku) A daily classic 9x9 Sudoku: the same grid for everyone each day, one solution reachable by logic alone, and a result you can share without spoiling it. Free, no ads, no signup required.
 - [WordSlip](https://dailyplay.com/play/wordslip) Seven scrambled letters on a hexagon grid: work out the word, then drag a path through the cells that spells it. Same puzzle for everyone each day, free, no ads, no signup required.
 
+# [Dave London](https://github.com/Dave-London)
+- [Jigsaw Grove](https://jigsawgr0ove.com/go/wordleweb) A daily jigsaw, one new picture a day, the same for everyone. Plus over 750 more puzzles in 28 collections. Free, no account.
+
+# [pavelvasin](https://github.com/pavelvasin)
+- [Nanizo Daily Challenge](https://nanizo.com/en/daily/) Daily trivia: 10 questions a day, the same for everyone. One try, points for accuracy and speed, world and country leaderboards
+
+
 [MinCalc ](https://mincalc.com/) is a free daily puzzle site with five original browser games, each with its own twist and a shareable result grid:
 
 [Targle ](https://mincalc.com/targle)— guess the hidden equation (a Nerdle/Mathler cousin).
@@ -507,10 +514,6 @@ My own list of Wordle-like games and other assorted variations of this game form
 [Quackle ](https://mincalc.com/quackle)— duck-flock region logic; place the ducks so every pond, row and column works out.
 [Toadle ](https://mincalc.com/toadle)— Wordle-style word deduction from per-letter colour clues.
 [Peerkle ](https://mincalc.com/peerkle)— rank eight items along a named daily axis (sleep hours, release year, population) from low to high in five tries.
-# [Dave London](https://github.com/Dave-London)
-- [Jigsaw Grove](https://jigsawgrove.com/go/wordleweb) A daily jigsaw, one new picture a day, the same for everyone. Plus over 750 more puzzles in 28 collections. Free, no account.
-
-
 [ArWordle](https://arwordle.netlify.app/) - Arabic Wordle
 
 [Bardle](https://shakespearegeek.github.io/bardle/) - Wordle with Shakespeare Quotes.
