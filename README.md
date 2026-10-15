@@ -507,6 +507,8 @@ My own list of Wordle-like games and other assorted variations of this game form
 [Quackle ](https://mincalc.com/quackle)— duck-flock region logic; place the ducks so every pond, row and column works out.
 [Toadle ](https://mincalc.com/toadle)— Wordle-style word deduction from per-letter colour clues.
 [Peerkle ](https://mincalc.com/peerkle)— rank eight items along a named daily axis (sleep hours, release year, population) from low to high in five tries.
+# [Dave London](https://github.com/Dave-London)
+- [Jigsaw Grove](https://jigsawgrove.com/go/wordleweb) A daily jigsaw, one new picture a day, the same for everyone. Plus over 750 more puzzles in 28 collections. Free, no account.
 
 
 [ArWordle](https://arwordle.netlify.app/) - Arabic Wordle
