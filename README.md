@@ -508,6 +508,7 @@ My own list of Wordle-like games and other assorted variations of this game form
 [Toadle ](https://mincalc.com/toadle)— Wordle-style word deduction from per-letter colour clues.
 [Peerkle ](https://mincalc.com/peerkle)— rank eight items along a named daily axis (sleep hours, release year, population) from low to high in five tries.
 
+
 [ArWordle](https://arwordle.netlify.app/) - Arabic Wordle
 
 [Bardle](https://shakespearegeek.github.io/bardle/) - Wordle with Shakespeare Quotes.
@@ -670,6 +671,7 @@ My own list of Wordle-like games and other assorted variations of this game form
 
 # Games with inconclusive creator attribution
 Wordle Games where any and all information about the creator was unable to be found.
+- [Shople](https://playshople.com/?utm_source=wordleweb&utm_medium=directory&utm_campaign=launch) A daily Spotle-style guessing game for brands and companies
 - [R34 Higher or Lower Daily Challenge](https://rule34higherorlower.com/daily) Compare two anime character prompts and guess which one has the higher Popularity Score in a fixed daily 10-question challenge.
 - [Will Wood Heardle](https://will-wood-heardle.glitch.me/)/[Reddit release post](https://www.reddit.com/r/willwood/comments/u3pmd5/play_will_wood_heardle_today/) Heardle-inspired variant for Will Wood songs. Published on April 15, 2022
 - [musicle.app](https://musicle.app/) Music Guessing Game Portal
