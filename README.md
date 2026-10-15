@@ -506,6 +506,9 @@ My own list of Wordle-like games and other assorted variations of this game form
 # [pavelvasin](https://github.com/pavelvasin)
 - [Nanizo Daily Challenge](https://nanizo.com/en/daily/) Daily trivia: 10 questions a day, the same for everyone. One try, points for accuracy and speed, world and country leaderboards
 
+# [maxescarpio](https://github.com/maxescarpio)
+- [Marqit](https://playmarqit.com) is a free daily game with three Yes/No predictions on sports, pop culture and news. You make your picks before they lock, then see how the crowd voted and how you compare with friends.
+
 
 [MinCalc ](https://mincalc.com/) is a free daily puzzle site with five original browser games, each with its own twist and a shareable result grid:
 
