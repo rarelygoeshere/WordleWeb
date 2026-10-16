@@ -5,6 +5,11 @@
 # WordleWeb
 My own list of Wordle-like games and other assorted variations of this game format. Hope people enjoy and contribute to this!
 
+# [Chris at cyber-jack studio](https://cyber-jack.uk)
+- [Letterly](https://letterly.cyber-jack.uk/?utm_source=wordleweb) Daily categories game: one random letter, ten categories, ninety seconds. Everyone gets the same board, and answers nobody else gave score more. Free, no login.
+- [Cluster](https://cluster.cyber-jack.uk/?utm_source=wordleweb) Daily word-connections puzzle: sixteen words hide four groups of four, find the links before your fourth mistake. Full archive of past puzzles. Free, no login.
+- [Rankle](https://rankle.cyber-jack.uk/?utm_source=wordleweb) Daily ranking puzzle: one question, four things to put in order (top speed, size, year...). Tap two to swap, one go a day. Free, no login.
+
 # [Curio](https://curioword.com)
 - [Curio](https://curioword.com/play) Daily etymology guessing game: guess the word from up to three clues about where it came from, with a letter hint on the last. Each day's word also has a short origin story. Free, no login.
 
