@@ -5,6 +5,9 @@
 # WordleWeb
 My own list of Wordle-like games and other assorted variations of this game format. Hope people enjoy and contribute to this!
 
+# [Vowelkit](https://www.vowelkit.com)
+- [Vowelkit: Daily Word Guessing Game](https://www.vowelkit.com/daily) Daily word guessing game: one five-letter word a day in six tries, plus 3 to 11 letter modes, unlimited play, a kids mode and custom puzzles you can send to a friend as a link. Free, no login.
+
 # [Curio](https://curioword.com)
 - [Curio](https://curioword.com/play) Daily etymology guessing game: guess the word from up to three clues about where it came from, with a letter hint on the last. Each day's word also has a short origin story. Free, no login.
 
