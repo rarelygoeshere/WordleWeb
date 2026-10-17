@@ -5,6 +5,9 @@
 # WordleWeb
 My own list of Wordle-like games and other assorted variations of this game format. Hope people enjoy and contribute to this!
 
+# [Tangram Fun](https://www.tangramfun.com)
+- [Daily Tangram](https://www.tangramfun.com) One tangram silhouette a day, same for everyone: drag the seven pieces until the shadow is covered, then compare your time on the daily board. Also an archive of past days and ~100 free-play figures, including the Japanese Sei Shōnagon set. Free, no signup.
+
 # [GuessWhiz](https://guesswhiz.com)
 - [GuessWhiz](https://guesswhiz.com) Daily football player guessing game: one mystery footballer per day, six guesses with clues on nation, position, birth year and shared clubs. Free, no signup.
 
