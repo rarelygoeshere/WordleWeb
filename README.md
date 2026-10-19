@@ -10,6 +10,13 @@ My own list of Wordle-like games and other assorted variations of this game form
 - [Cluster](https://cluster.cyber-jack.uk/?utm_source=wordleweb) Daily word-connections puzzle: sixteen words hide four groups of four, find the links before your fourth mistake. Full archive of past puzzles. Free, no login.
 - [Rankle](https://rankle.cyber-jack.uk/?utm_source=wordleweb) Daily ranking puzzle: one question, four things to put in order (top speed, size, year...). Tap two to swap, one go a day. Free, no login.
 
+# [GuessWhiz](https://guesswhiz.com)
+- [GuessWhiz](https://guesswhiz.com) Daily football player guessing game: one mystery footballer per day, six guesses with clues on nation, position, birth year and shared clubs. Free, no signup.
+
+# [Vowelkit](https://www.vowelkit.com)
+- [Vowelkit: Daily Word Guessing Game](https://www.vowelkit.com/daily) Daily word guessing game: one five-letter word a day in six tries, plus 3 to 11 letter modes, unlimited play, a kids mode and custom puzzles you can send to a friend as a link. Free, no login.
+
+
 # [Curio](https://curioword.com)
 - [Curio](https://curioword.com/play) Daily etymology guessing game: guess the word from up to three clues about where it came from, with a letter hint on the last. Each day's word also has a short origin story. Free, no login.
 
