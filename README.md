@@ -7,7 +7,10 @@ My own list of Wordle-like games and other assorted variations of this game form
 
 # [Mooot - Catalan Wordle](https://mooot.cat/about)
 - [Mooot](https://mooot.cat/) Daily Wordle in Catalan: guess the 5-letter word in 6 tries, with words validated against the official Catalan dictionaries. Also infinite (4–7 letters), survival and "500" modes, collectible Catalan postcards each month and group leagues on Telegram, with classification and trophies each month. Free, no login.
-  
+
+# [Tangram Fun](https://www.tangramfun.com)
+- [Daily Tangram](https://www.tangramfun.com) One tangram silhouette a day, same for everyone: drag the seven pieces until the shadow is covered, then compare your time on the daily board. Also an archive of past days and ~100 free-play figures, including the Japanese Sei Shōnagon set. Free, no signup.
+
 # [Chris at cyber-jack studio](https://cyber-jack.uk)
 - [Letterly](https://letterly.cyber-jack.uk/?utm_source=wordleweb) Daily categories game: one random letter, ten categories, ninety seconds. Everyone gets the same board, and answers nobody else gave score more. Free, no login.
 - [Cluster](https://cluster.cyber-jack.uk/?utm_source=wordleweb) Daily word-connections puzzle: sixteen words hide four groups of four, find the links before your fourth mistake. Full archive of past puzzles. Free, no login.
