@@ -5,6 +5,9 @@
 # WordleWeb
 My own list of Wordle-like games and other assorted variations of this game format. Hope people enjoy and contribute to this!
 
+# [Tangram Fun](https://www.tangramfun.com)
+- [Daily Tangram](https://www.tangramfun.com) One tangram silhouette a day, same for everyone: drag the seven pieces until the shadow is covered, then compare your time on the daily board. Also an archive of past days and ~100 free-play figures, including the Japanese Sei Shōnagon set. Free, no signup.
+
 # [Chris at cyber-jack studio](https://cyber-jack.uk)
 - [Letterly](https://letterly.cyber-jack.uk/?utm_source=wordleweb) Daily categories game: one random letter, ten categories, ninety seconds. Everyone gets the same board, and answers nobody else gave score more. Free, no login.
 - [Cluster](https://cluster.cyber-jack.uk/?utm_source=wordleweb) Daily word-connections puzzle: sixteen words hide four groups of four, find the links before your fourth mistake. Full archive of past puzzles. Free, no login.
