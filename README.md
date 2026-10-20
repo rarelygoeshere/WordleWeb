@@ -5,6 +5,9 @@
 # WordleWeb
 My own list of Wordle-like games and other assorted variations of this game format. Hope people enjoy and contribute to this!
 
+# [Driftile](https://driftile.com)
+- [Driftile](https://driftile.com/?via=wordleweb) Daily colour puzzle: one swipe moves every tile on the board at once, and you join each colour into one piece. Same board for everyone, a new one every day, hints free. Also on iPhone and Android. Free, no login.
+
 # [Mooot - Catalan Wordle](https://mooot.cat/about)
 - [Mooot](https://mooot.cat/) Daily Wordle in Catalan: guess the 5-letter word in 6 tries, with words validated against the official Catalan dictionaries. Also infinite (4–7 letters), survival and "500" modes, collectible Catalan postcards each month and group leagues on Telegram, with classification and trophies each month. Free, no login.
 
