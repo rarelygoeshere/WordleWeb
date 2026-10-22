@@ -5,6 +5,9 @@
 # WordleWeb
 My own list of Wordle-like games and other assorted variations of this game format. Hope people enjoy and contribute to this!
 
+# [Rarest Answer](https://rarestanswer.com)
+- [Rarest Answer](https://rarestanswer.com/?ref=wordleweb) Daily trivia game where the rarest right answer wins: 7 questions a day, 25 seconds each, type any correct answer and score more the fewer players gave it, with live answer percentages. Same set for everyone, free unlimited rounds and 1v1 duels, no login.
+
 # [Mooot - Catalan Wordle](https://mooot.cat/about)
 - [Mooot](https://mooot.cat/) Daily Wordle in Catalan: guess the 5-letter word in 6 tries, with words validated against the official Catalan dictionaries. Also infinite (4–7 letters), survival and "500" modes, collectible Catalan postcards each month and group leagues on Telegram, with classification and trophies each month. Free, no login.
 
