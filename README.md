@@ -5,6 +5,11 @@
 # WordleWeb
 My own list of Wordle-like games and other assorted variations of this game format. Hope people enjoy and contribute to this!
 
+# [Bludle](https://bludle.com/)
+- [Word Bridge](https://bludle.com/wordbridge/) A daily word puzzle: find the one middle word that makes a familiar word or phrase with each of two outer words. Three attempts, with a clue after the first miss. Free, no login.
+- [Rulebreaker](https://bludle.com/rulebreaker/) A daily cipher puzzle: choose, tune and reorder transformation rules to decode a hidden phrase. The output updates as you change the rule chain. Free, no login.
+- [Afterimage](https://bludle.com/afterimage/) A daily colour-memory game: study a colour briefly, then recreate it from memory with RGB controls across five rounds. Free, no login.
+
 # [Mooot - Catalan Wordle](https://mooot.cat/about)
 - [Mooot](https://mooot.cat/) Daily Wordle in Catalan: guess the 5-letter word in 6 tries, with words validated against the official Catalan dictionaries. Also infinite (4–7 letters), survival and "500" modes, collectible Catalan postcards each month and group leagues on Telegram, with classification and trophies each month. Free, no login.
 
