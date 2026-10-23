@@ -5,6 +5,9 @@
 # WordleWeb
 My own list of Wordle-like games and other assorted variations of this game format. Hope people enjoy and contribute to this!
 
+# [Major Dictionary](https://majordictionary.com)
+- [Daily Digits](https://majordictionary.com/daily) Daily number memory game: a number flashes and you type it back, one digit longer each round until your first miss. Same numbers for everyone, and after a miss it shows the number as Major System words. Free, no login.
+
 # [BeeHints](https://www.beehints.com/)
 - [BeeHints Daily](https://www.beehints.com/play) Daily Spelling Bee style word game: make words from seven letters, always using the center letter, with one new puzzle a day that is the same for everyone. Free, no login.
   - [BeeHints Unlimited](https://www.beehints.com/unlimited) more than 10,000 extra Spelling Bee style puzzles to play anytime.
