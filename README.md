@@ -5,6 +5,11 @@
 # WordleWeb
 My own list of Wordle-like games and other assorted variations of this game format. Hope people enjoy and contribute to this!
 
+# [Bludle](https://bludle.com/)
+- [Word Bridge](https://bludle.com/wordbridge/) A daily word puzzle: find the one middle word that makes a familiar word or phrase with each of two outer words. Three attempts, with a clue after the first miss. Free, no login.
+- [Rulebreaker](https://bludle.com/rulebreaker/) A daily cipher puzzle: choose, tune and reorder transformation rules to decode a hidden phrase. The output updates as you change the rule chain. Free, no login.
+- [Afterimage](https://bludle.com/afterimage/) A daily colour-memory game: study a colour briefly, then recreate it from memory with RGB controls across five rounds. Free, no login.
+
 # [BeeHints](https://www.beehints.com/)
 - [BeeHints Daily](https://www.beehints.com/play) Daily Spelling Bee style word game: make words from seven letters, always using the center letter, with one new puzzle a day that is the same for everyone. Free, no login.
   - [BeeHints Unlimited](https://www.beehints.com/unlimited) more than 10,000 extra Spelling Bee style puzzles to play anytime.
