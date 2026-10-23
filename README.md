@@ -5,6 +5,12 @@
 # WordleWeb
 My own list of Wordle-like games and other assorted variations of this game format. Hope people enjoy and contribute to this!
 
+# [Scalargame](https://www.scalargame.com/)
+- [Scalar](https://www.scalargame.com/scalar?utm_source=wordleweb&utm_medium=directory&utm_campaign=acquisition_2026q4&utm_content=scalar_listing) Daily country deduction game: guess any country and each guess returns clues (distance between capitals, region, higher/lower arrows for area and population, landlocked status, borders and more) to find the mystery country in as few moves as possible. Free, no login.
+- [Continuum](https://www.scalargame.com/continuum?utm_source=wordleweb&utm_medium=directory&utm_campaign=acquisition_2026q4&utm_content=continuum_listing) Daily ranking puzzle: one hidden scale a day (population, area or GDP per capita). Drag countries one at a time into place among those already ranked; three wrong placements end the run. Free, no login.
+- [Whenabouts](https://www.scalargame.com/whenabouts?utm_source=wordleweb&utm_medium=directory&utm_campaign=acquisition_2026q4&utm_content=whenabouts_listing) Daily history timeline puzzle: five events a day, from prehistory to recent years. Scrub to the year you think each happened; closer guesses score more and an exact year earns full points. Free, no login.
+- [Tectonic](https://www.scalargame.com/tectonic?utm_source=wordleweb&utm_medium=directory&utm_campaign=acquisition_2026q4&utm_content=tectonic_listing) Daily geography jigsaw on a 3D globe: start from one country and drag its neighbours into place, building the world outward before the clock runs out. Untimed Zen and 200 flat regional jigsaws too. Free, no login.
+
 # [Rarest Answer](https://rarestanswer.com)
 - [Rarest Answer](https://rarestanswer.com/?ref=wordleweb) Daily trivia game where the rarest right answer wins: 7 questions a day, 25 seconds each, type any correct answer and score more the fewer players gave it, with live answer percentages. Same set for everyone, free unlimited rounds and 1v1 duels, no login.
 
