@@ -5,6 +5,11 @@
 # WordleWeb
 My own list of Wordle-like games and other assorted variations of this game format. Hope people enjoy and contribute to this!
 
+# [BeeHints](https://www.beehints.com/)
+- [BeeHints Daily](https://www.beehints.com/play) Daily Spelling Bee style word game: make words from seven letters, always using the center letter, with one new puzzle a day that is the same for everyone. Free, no login.
+  - [BeeHints Unlimited](https://www.beehints.com/unlimited) more than 10,000 extra Spelling Bee style puzzles to play anytime.
+  - [BeeHints Puzzle Maker](https://www.beehints.com/create) create your own seven-letter puzzle and share it as a link.
+
 # [Driftile](https://driftile.com)
 - [Driftile](https://driftile.com/?via=wordleweb) Daily colour puzzle: one swipe moves every tile on the board at once, and you join each colour into one piece. Same board for everyone, a new one every day, hints free. Also on iPhone and Android. Free, no login.
 
