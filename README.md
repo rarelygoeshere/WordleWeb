@@ -10,6 +10,9 @@ My own list of Wordle-like games and other assorted variations of this game form
   - [BeeHints Unlimited](https://www.beehints.com/unlimited) more than 10,000 extra Spelling Bee style puzzles to play anytime.
   - [BeeHints Puzzle Maker](https://www.beehints.com/create) create your own seven-letter puzzle and share it as a link.
 
+# [Plain Game](https://plaingame.fun/)
+- [Plain Game](https://plaingame.fun/) Daily estimation game: seven 30-second rounds where you name something close to a target number (a mountain, a film, a building...) or estimate an everyday fact. Same flight for everyone each day, plus practice, past flights and friend challenge links. Free, no login.
+
 # [Driftile](https://driftile.com)
 - [Driftile](https://driftile.com/?via=wordleweb) Daily colour puzzle: one swipe moves every tile on the board at once, and you join each colour into one piece. Same board for everyone, a new one every day, hints free. Also on iPhone and Android. Free, no login.
 
