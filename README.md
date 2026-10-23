@@ -5,6 +5,9 @@
 # WordleWeb
 My own list of Wordle-like games and other assorted variations of this game format. Hope people enjoy and contribute to this!
 
+# [Rarest Answer](https://rarestanswer.com)
+- [Rarest Answer](https://rarestanswer.com/?ref=wordleweb) Daily trivia game where the rarest right answer wins: 7 questions a day, 25 seconds each, type any correct answer and score more the fewer players gave it, with live answer percentages. Same set for everyone, free unlimited rounds and 1v1 duels, no login.
+
 # [Bludle](https://bludle.com/)
 - [Word Bridge](https://bludle.com/wordbridge/) A daily word puzzle: find the one middle word that makes a familiar word or phrase with each of two outer words. Three attempts, with a clue after the first miss. Free, no login.
 - [Rulebreaker](https://bludle.com/rulebreaker/) A daily cipher puzzle: choose, tune and reorder transformation rules to decode a hidden phrase. The output updates as you change the rule chain. Free, no login.
