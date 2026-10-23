@@ -804,3 +804,6 @@ Wordga - https://wordga.com
 
 # [Squaredle.fun](https://squaredle.fun)
 - [Squaredle](https://squaredle.fun) Daily word puzzle: trace letters on a 4x4 board to find the required words. New puzzle every day, plus Unlimited, Express and Weekly modes and a built-in solver.
+
+# [Wordle Global](https://wordle.global)
+- [Wordle Global](https://wordle.global) Free daily Wordle-style word game in about 90 languages, with a new word per language each day and unlimited play. Also around 40 other daily modes: Mathle (equation guessing), Globle (geography), Spelling Bee-style, Strands-style and Word Search. No login needed. Independent, not affiliated with the New York Times.
