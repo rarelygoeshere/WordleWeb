@@ -8,6 +8,22 @@ My own list of Wordle-like games and other assorted variations of this game form
 # [Rarest Answer](https://rarestanswer.com)
 - [Rarest Answer](https://rarestanswer.com/?ref=wordleweb) Daily trivia game where the rarest right answer wins: 7 questions a day, 25 seconds each, type any correct answer and score more the fewer players gave it, with live answer percentages. Same set for everyone, free unlimited rounds and 1v1 duels, no login.
 
+# [Bludle](https://bludle.com/)
+- [Word Bridge](https://bludle.com/wordbridge/) A daily word puzzle: find the one middle word that makes a familiar word or phrase with each of two outer words. Three attempts, with a clue after the first miss. Free, no login.
+- [Rulebreaker](https://bludle.com/rulebreaker/) A daily cipher puzzle: choose, tune and reorder transformation rules to decode a hidden phrase. The output updates as you change the rule chain. Free, no login.
+- [Afterimage](https://bludle.com/afterimage/) A daily colour-memory game: study a colour briefly, then recreate it from memory with RGB controls across five rounds. Free, no login.
+
+# [BeeHints](https://www.beehints.com/)
+- [BeeHints Daily](https://www.beehints.com/play) Daily Spelling Bee style word game: make words from seven letters, always using the center letter, with one new puzzle a day that is the same for everyone. Free, no login.
+  - [BeeHints Unlimited](https://www.beehints.com/unlimited) more than 10,000 extra Spelling Bee style puzzles to play anytime.
+  - [BeeHints Puzzle Maker](https://www.beehints.com/create) create your own seven-letter puzzle and share it as a link.
+
+# [Plain Game](https://plaingame.fun/)
+- [Plain Game](https://plaingame.fun/) Daily estimation game: seven 30-second rounds where you name something close to a target number (a mountain, a film, a building...) or estimate an everyday fact. Same flight for everyone each day, plus practice, past flights and friend challenge links. Free, no login.
+
+# [Driftile](https://driftile.com)
+- [Driftile](https://driftile.com/?via=wordleweb) Daily colour puzzle: one swipe moves every tile on the board at once, and you join each colour into one piece. Same board for everyone, a new one every day, hints free. Also on iPhone and Android. Free, no login.
+
 # [Mooot - Catalan Wordle](https://mooot.cat/about)
 - [Mooot](https://mooot.cat/) Daily Wordle in Catalan: guess the 5-letter word in 6 tries, with words validated against the official Catalan dictionaries. Also infinite (4–7 letters), survival and "500" modes, collectible Catalan postcards each month and group leagues on Telegram, with classification and trophies each month. Free, no login.
 
