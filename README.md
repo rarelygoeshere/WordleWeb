@@ -5,7 +5,7 @@
 # WordleWeb
 My own list of Wordle-like games and other assorted variations of this game format. Hope people enjoy and contribute to this!
 
-# [Major Dictionary](https://majordictionary.com)Daily
+# [Major Dictionary](https://majordictionary.com)
 - [Daily Digits](https://majordictionary.com/daily)  number memory game: a number flashes and you type it back, one digit longer each round until your first miss. Same numbers for everyone, and after a miss it shows the number as Major System words. Free, no login.
 
 # [Rarest Answer](https://rarestanswer.com)
