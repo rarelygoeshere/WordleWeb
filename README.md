@@ -69,6 +69,9 @@ My own list of Wordle-like games and other assorted variations of this game form
 - [Where from?](https://wherefrom.roughly.is) See a company logo and guess where the company is from. Published on September 24, 2026
 - [Who?](https://who.roughly.is) A question from a real survey, guess what share of people said yes. Published on September 24, 2026
 
+# [guessNow](https://guessnow.fun)
+- [guessNow](https://guessnow.fun) Daily history guessing game: a real archival photograph is revealed piece by piece and you guess the year it was taken. 200+ genuine archive photos from 1855-2023, each with its photographer, licence and source shown on the reveal (no stock, no AI). Free, no signup, one round ~20 seconds. Published on October 25, 2026
+
 # [wordlecup.today](www.wordlecup.today)
 - Wordle for sports fans, where you guess a mystery football, basketball, or NFL player in six tries using clues revealed after each guess.
 
