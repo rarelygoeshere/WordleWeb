@@ -5,6 +5,18 @@
 # WordleWeb
 My own list of Wordle-like games and other assorted variations of this game format. Hope people enjoy and contribute to this!
 
+# [Scalargame](https://www.scalargame.com/)
+- [Scalar](https://www.scalargame.com/scalar?utm_source=wordleweb&utm_medium=directory&utm_campaign=acquisition_2026q4&utm_content=scalar_listing) Daily country deduction game: guess any country and each guess returns clues (distance between capitals, region, higher/lower arrows for area and population, landlocked status, borders and more) to find the mystery country in as few moves as possible. Free, no login.
+- [Continuum](https://www.scalargame.com/continuum?utm_source=wordleweb&utm_medium=directory&utm_campaign=acquisition_2026q4&utm_content=continuum_listing) Daily ranking puzzle: one hidden scale a day (population, area or GDP per capita). Drag countries one at a time into place among those already ranked; three wrong placements end the run. Free, no login.
+- [Whenabouts](https://www.scalargame.com/whenabouts?utm_source=wordleweb&utm_medium=directory&utm_campaign=acquisition_2026q4&utm_content=whenabouts_listing) Daily history timeline puzzle: five events a day, from prehistory to recent years. Scrub to the year you think each happened; closer guesses score more and an exact year earns full points. Free, no login.
+- [Tectonic](https://www.scalargame.com/tectonic?utm_source=wordleweb&utm_medium=directory&utm_campaign=acquisition_2026q4&utm_content=tectonic_listing) Daily geography jigsaw on a 3D globe: start from one country and drag its neighbours into place, building the world outward before the clock runs out. Untimed Zen and 200 flat regional jigsaws too. Free, no login.
+
+# [Squaredle.fun](https://squaredle.fun)
+- [Squaredle](https://squaredle.fun) Daily word puzzle: trace letters on a 4x4 board to find the required words. New puzzle every day, plus Unlimited, Express and Weekly modes and a built-in solver.
+
+# [Wordle Global](https://wordle.global)
+- [Wordle Global](https://wordle.global) Free daily Wordle-style word game in about 90 languages, with a new word per language each day and unlimited play. Also around 40 other daily modes: Mathle (equation guessing), Globle (geography), Spelling Bee-style, Strands-style and Word Search. No login needed. Independent, not affiliated with the New York Times.
+
 # [Major Dictionary](https://majordictionary.com)
 - [Daily Digits](https://majordictionary.com/daily)  number memory game: a number flashes and you type it back, one digit longer each round until your first miss. Same numbers for everyone, and after a miss it shows the number as Major System words. Free, no login.
 
@@ -15,7 +27,6 @@ My own list of Wordle-like games and other assorted variations of this game form
 - [Word Bridge](https://bludle.com/wordbridge/) A daily word puzzle: find the one middle word that makes a familiar word or phrase with each of two outer words. Three attempts, with a clue after the first miss. Free, no login.
 - [Rulebreaker](https://bludle.com/rulebreaker/) A daily cipher puzzle: choose, tune and reorder transformation rules to decode a hidden phrase. The output updates as you change the rule chain. Free, no login.
 - [Afterimage](https://bludle.com/afterimage/) A daily colour-memory game: study a colour briefly, then recreate it from memory with RGB controls across five rounds. Free, no login.
-
 
 # [BeeHints](https://www.beehints.com/)
 - [BeeHints Daily](https://www.beehints.com/play) Daily Spelling Bee style word game: make words from seven letters, always using the center letter, with one new puzzle a day that is the same for everyone. Free, no login.
@@ -805,9 +816,3 @@ Wordga - https://wordga.com
 ## Sources sorted
 - https://x.com/thunderdle/status/1664149982306349057 Twitter thread for Wordle games
 
-
-# [Squaredle.fun](https://squaredle.fun)
-- [Squaredle](https://squaredle.fun) Daily word puzzle: trace letters on a 4x4 board to find the required words. New puzzle every day, plus Unlimited, Express and Weekly modes and a built-in solver.
-
-# [Wordle Global](https://wordle.global)
-- [Wordle Global](https://wordle.global) Free daily Wordle-style word game in about 90 languages, with a new word per language each day and unlimited play. Also around 40 other daily modes: Mathle (equation guessing), Globle (geography), Spelling Bee-style, Strands-style and Word Search. No login needed. Independent, not affiliated with the New York Times.
