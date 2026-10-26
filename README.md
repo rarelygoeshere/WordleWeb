@@ -11,6 +11,15 @@ My own list of Wordle-like games and other assorted variations of this game form
 - [Whenabouts](https://www.scalargame.com/whenabouts?utm_source=wordleweb&utm_medium=directory&utm_campaign=acquisition_2026q4&utm_content=whenabouts_listing) Daily history timeline puzzle: five events a day, from prehistory to recent years. Scrub to the year you think each happened; closer guesses score more and an exact year earns full points. Free, no login.
 - [Tectonic](https://www.scalargame.com/tectonic?utm_source=wordleweb&utm_medium=directory&utm_campaign=acquisition_2026q4&utm_content=tectonic_listing) Daily geography jigsaw on a 3D globe: start from one country and drag its neighbours into place, building the world outward before the clock runs out. Untimed Zen and 200 flat regional jigsaws too. Free, no login.
 
+# [Squaredle.fun](https://squaredle.fun)
+- [Squaredle](https://squaredle.fun) Daily word puzzle: trace letters on a 4x4 board to find the required words. New puzzle every day, plus Unlimited, Express and Weekly modes and a built-in solver.
+
+# [Wordle Global](https://wordle.global)
+- [Wordle Global](https://wordle.global) Free daily Wordle-style word game in about 90 languages, with a new word per language each day and unlimited play. Also around 40 other daily modes: Mathle (equation guessing), Globle (geography), Spelling Bee-style, Strands-style and Word Search. No login needed. Independent, not affiliated with the New York Times.
+
+# [Major Dictionary](https://majordictionary.com)
+- [Daily Digits](https://majordictionary.com/daily)  number memory game: a number flashes and you type it back, one digit longer each round until your first miss. Same numbers for everyone, and after a miss it shows the number as Major System words. Free, no login.
+
 # [Rarest Answer](https://rarestanswer.com)
 - [Rarest Answer](https://rarestanswer.com/?ref=wordleweb) Daily trivia game where the rarest right answer wins: 7 questions a day, 25 seconds each, type any correct answer and score more the fewer players gave it, with live answer percentages. Same set for everyone, free unlimited rounds and 1v1 duels, no login.
 
@@ -807,6 +816,3 @@ Wordga - https://wordga.com
 ## Sources sorted
 - https://x.com/thunderdle/status/1664149982306349057 Twitter thread for Wordle games
 
-
-# [Squaredle.fun](https://squaredle.fun)
-- [Squaredle](https://squaredle.fun) Daily word puzzle: trace letters on a 4x4 board to find the required words. New puzzle every day, plus Unlimited, Express and Weekly modes and a built-in solver.
