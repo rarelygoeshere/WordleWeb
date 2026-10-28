@@ -92,7 +92,8 @@ My own list of Wordle-like games and other assorted variations of this game form
 - [guessNow](https://guessnow.fun) Daily history guessing game: a real archival photograph is revealed piece by piece and you guess the year it was taken. 200+ genuine archive photos from 1855-2023, each with its photographer, licence and source shown on the reveal (no stock, no AI). Free, no signup, one round ~20 seconds. Published on October 25, 2026
 
 # [Griffinley](https://griffinley.com/)
-- [Year Shot](https://griffinley.com/ashley-marlowe/)
+- [Year Shot](https://griffinley.com/ashley-marlowe/) Free daily photo game. Each day you get five everyday American photos from the Library of Congress, like a main street in Colorado or a shoe repair shop in Texas, and you guess the year each one was taken.
+- [L Stop](https://griffinley.com/james-robinson/) Daily Chicago L station guessing game. Published on October 10, 2026.
 
 # [wordlecup.today](www.wordlecup.today)
 - Wordle for sports fans, where you guess a mystery football, basketball, or NFL player in six tries using clues revealed after each guess.
