@@ -98,6 +98,7 @@ My own list of Wordle-like games and other assorted variations of this game form
 - [Street Lines](https://griffinley.com/nicole-robbins/streetlines/) Daily geography game: name the US city from its streets drawn in plain lines, six guesses, each miss zooms out.
 - [Snow depth guess](https://griffinley.com/george-harris/snow/) A free daily puzzle for Colorado skiers.
 - [Drivedle](https://griffinley.com/robert-clark/long-way-round/) Five pairs of American towns a day, each with the straight-line miles between them. You guess the driving miles as a range, a low and a high, with three tries a pair and a score out of 500 at the end.
+- [Sunday Dinner](https://griffinley.com/ella-mae-freeman/) Guess what five groceries cost, each from some month since 1980. Published on October 10, 2026.
 
 
 
