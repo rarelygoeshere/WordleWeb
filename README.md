@@ -96,6 +96,9 @@ My own list of Wordle-like games and other assorted variations of this game form
 - [L Stop](https://griffinley.com/james-robinson/) Daily Chicago L station guessing game. Published on October 10, 2026.
 - [How Far Off](https://griffinley.com/margaret-brown/how-far-off.html) A free daily game. One US city a day and one question about its weather, like the average temperature over a year.
 - [Street Lines](https://griffinley.com/nicole-robbins/streetlines/) Daily geography game: name the US city from its streets drawn in plain lines, six guesses, each miss zooms out.
+- [Snow depth guess](https://griffinley.com/george-harris/snow/) A free daily puzzle for Colorado skiers.
+
+
 
 # [wordlecup.today](www.wordlecup.today)
 - Wordle for sports fans, where you guess a mystery football, basketball, or NFL player in six tries using clues revealed after each guess.
