@@ -5,6 +5,9 @@
 # WordleWeb
 My own list of Wordle-like games and other assorted variations of this game format. Hope people enjoy and contribute to this!
 
+# [Cosmillion](https://cosmillion.com)
+- [Cosmillion](https://cosmillion.com/?utm_source=wordleweb) Daily word game where the rarest answer wins: the same 7 "Name something" prompts for everyone each day, 25 seconds each. Common answers score 10, rare ones score 100, and your rocket flies higher. See the full answer board after each launch and challenge a friend with the same seven. Free, no sign-up. Published on October 27, 2026
+
 # [Scalargame](https://www.scalargame.com/)
 - [Scalar](https://www.scalargame.com/scalar?utm_source=wordleweb&utm_medium=directory&utm_campaign=acquisition_2026q4&utm_content=scalar_listing) Daily country deduction game: guess any country and each guess returns clues (distance between capitals, region, higher/lower arrows for area and population, landlocked status, borders and more) to find the mystery country in as few moves as possible. Free, no login.
 - [Continuum](https://www.scalargame.com/continuum?utm_source=wordleweb&utm_medium=directory&utm_campaign=acquisition_2026q4&utm_content=continuum_listing) Daily ranking puzzle: one hidden scale a day (population, area or GDP per capita). Drag countries one at a time into place among those already ranked; three wrong placements end the run. Free, no login.
