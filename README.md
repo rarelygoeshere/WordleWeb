@@ -5,6 +5,11 @@
 # WordleWeb
 My own list of Wordle-like games and other assorted variations of this game format. Hope people enjoy and contribute to this!
 
+# [GeoTap](https://geotap.io)
+- [GeoTap](https://geotap.io/geotap/daily) Free daily geography games, no signup required: You get a place on a globe, tap to where you think it is, and get scored based on how close you are. Think you know the world?
+- [StreetTap](https://geotap.io/streettap/daily) Free daily geography games, no signup required: You're dropped on a real street and guess where in the world you're standing.
+- [FlagTap](https://geotap.io/flagtap/daily) Free daily geography games, no signup required: You get a flag and tap where in the world it flies.
+
 # [Scalargame](https://www.scalargame.com/)
 - [Scalar](https://www.scalargame.com/scalar?utm_source=wordleweb&utm_medium=directory&utm_campaign=acquisition_2026q4&utm_content=scalar_listing) Daily country deduction game: guess any country and each guess returns clues (distance between capitals, region, higher/lower arrows for area and population, landlocked status, borders and more) to find the mystery country in as few moves as possible. Free, no login.
 - [Continuum](https://www.scalargame.com/continuum?utm_source=wordleweb&utm_medium=directory&utm_campaign=acquisition_2026q4&utm_content=continuum_listing) Daily ranking puzzle: one hidden scale a day (population, area or GDP per capita). Drag countries one at a time into place among those already ranked; three wrong placements end the run. Free, no login.
