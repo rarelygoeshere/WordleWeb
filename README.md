@@ -5,6 +5,11 @@
 # WordleWeb
 My own list of Wordle-like games and other assorted variations of this game format. Hope people enjoy and contribute to this!
 
+# [GeoTap](https://geotap.io)
+- [GeoTap](https://geotap.io/geotap/daily) Free daily geography games, no signup required: You get a place on a globe, tap to where you think it is, and get scored based on how close you are. Think you know the world?
+- [StreetTap](https://geotap.io/streettap/daily) Free daily geography games, no signup required: You're dropped on a real street and guess where in the world you're standing.
+- [FlagTap](https://geotap.io/flagtap/daily) Free daily geography games, no signup required: You get a flag and tap where in the world it flies.
+
 # [Cosmillion](https://cosmillion.com)
 - [Cosmillion](https://cosmillion.com/?utm_source=wordleweb) Daily word game where the rarest answer wins: the same 7 "Name something" prompts for everyone each day, 25 seconds each. Common answers score 10, rare ones score 100, and your rocket flies higher. See the full answer board after each launch and challenge a friend with the same seven. Free, no sign-up. Published on October 27, 2026
 
