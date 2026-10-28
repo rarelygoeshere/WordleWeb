@@ -796,6 +796,9 @@ Hitori Conquest - https://hitoriconquest.com
 Wordga - https://wordga.com
 
 
+# [Dailydle](https://dailydle.org/)
+- [Dailydle](https://dailydle.org/) Free directory of daily word, puzzle and guessing games you can browse and play from one place. No account required.
+
 # Sources
 ## Other Wordle indexes
 - [(Dead) Awesome Wordle](https://github.com/prakhar897/awesome-wordle) Note: recheck for additional Wordle variants to be added here.
