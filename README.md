@@ -395,6 +395,8 @@ My own list of Wordle-like games and other assorted variations of this game form
 - [Letroso](https://letroso.com/en/)/[Official Reddit](https://www.reddit.com/user/nildojunior/) Daily multilingual word-guessing game with variable word lengths.​
 - [Conexo](https://conexo.ws/en/)/[Official Reddit](https://www.reddit.com/r/conexo/)/[Article](https://word.tips/conexo-todays-hints-answers/) Daily word-grouping puzzle emphasizing thematic connections.​ Published on February 1, 2024
 - [Contexto](https://contexto.me/)/[Official Reddit](https://www.reddit.com/r/contexto/)/[Hey, Good Game Interview](https://www.hey.gg/blog/contexto)/[Twitter release post](https://x.com/nildojunior/status/1497161938589130752) A Semantle inspired game meant to be more simple than the original version. Published on February 25, 2022
+# [contexto.us.com](https://www.contexto.us.com)
+- [Contexto (contexto.us.com)](https://www.contexto.us.com) Independent daily semantic word game (not affiliated with contexto.me, different daily word): every guess is ranked by closeness in meaning out of 70,000 words. Hints that reveal nearby words rather than the answer, a playable archive of every past puzzle, Unlimited practice, and custom puzzles shared as a link. English, Spanish, Portuguese, French and German, each with its own word list. Free, no login. First puzzle. Published on August 1, 2026
 
 # [Fernando Serboncini](https://fserb.com/)/[Github](https://github.com/fserb)
 - [Termo](https://term.ooo/)/[Wikipedia paeg](https://pt.wikipedia.org/wiki/Term.ooo) Daily Portuguese-language word-guessing game inspired by Wordle.​ Published on January 2022
