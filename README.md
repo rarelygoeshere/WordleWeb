@@ -5,6 +5,10 @@
 # WordleWeb
 My own list of Wordle-like games and other assorted variations of this game format. Hope people enjoy and contribute to this!
 
+# [Think in Odds](https://thinkinodds.com/)
+- [Think in Odds](https://thinkinodds.com/) Free daily probability puzzle: reason through a short scenario, submit an answer, use optional hints and explore a worked explanation. One shared puzzle at 8 p.m. America/New_York, with a free released archive. No account required. Development and explanations are AI-assisted; the archive includes adaptations of classic probability problems.
+
+
 # [GeoTap](https://geotap.io)
 - [GeoTap](https://geotap.io/geotap/daily) Free daily geography games, no signup required: You get a place on a globe, tap to where you think it is, and get scored based on how close you are. Think you know the world?
 - [StreetTap](https://geotap.io/streettap/daily) Free daily geography games, no signup required: You're dropped on a real street and guess where in the world you're standing.
