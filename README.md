@@ -5,6 +5,9 @@
 # WordleWeb
 My own list of Wordle-like games and other assorted variations of this game format. Hope people enjoy and contribute to this!
 
+# [Alline](https://allinegame.com)
+- [Alline](https://allinegame.com/?utm_source=wordleweb) Daily word puzzle where every move slides all the letters: seven letter tiles on a 10x10 board with walls, and each move slides every tile one step until it hits a wall, an edge or another tile. Line them up across or down to find the day's six hidden words before the 15-minute clock runs out. Same board for everyone, streaks and a share grid, plus a 2-minute 1v1 Duel mode. Free, no login, no ads. Published on November 3, 2026
+
 # [GeoTap](https://geotap.io)
 - [GeoTap](https://geotap.io/geotap/daily) Free daily geography games, no signup required: You get a place on a globe, tap to where you think it is, and get scored based on how close you are. Think you know the world?
 - [StreetTap](https://geotap.io/streettap/daily) Free daily geography games, no signup required: You're dropped on a real street and guess where in the world you're standing.
