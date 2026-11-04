@@ -5,6 +5,9 @@
 # WordleWeb
 My own list of Wordle-like games and other assorted variations of this game format. Hope people enjoy and contribute to this!
 
+# [Couscous](https://couscous.ai)
+- [Couscous](https://couscous.ai/play/daily?utm_source=github-wordleweb&utm_medium=listing&utm_campaign=offsite-2026-11) Daily secret-word riddle: ask yes-or-no questions, the game stamps YES, NO or I DON'T KNOW and a ring warms up as you get close, then name the word. Same riddle for everyone, changing at local midnight. A language model judges each answer. The riddle of the day is free; it asks you to sign in first (Apple, Google or an email code).
+
 # [Keep One Anime](https://keeponeanime.com)
 - [Keep One Anime](https://keeponeanime.com/?ref=wordleweb) Daily anime "keep one" game: 10 head-to-head anime pairs a day, you can only keep one of each, then see what % of players agreed with you. Same set for everyone, with a compatibility link to compare picks with a friend. Free, no login.
 
