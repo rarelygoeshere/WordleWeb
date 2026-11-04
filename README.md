@@ -5,9 +5,11 @@
 # WordleWeb
 My own list of Wordle-like games and other assorted variations of this game format. Hope people enjoy and contribute to this!
 
+# [Keep One Anime](https://keeponeanime.com)
+- [Keep One Anime](https://keeponeanime.com/?ref=wordleweb) Daily anime "keep one" game: 10 head-to-head anime pairs a day, you can only keep one of each, then see what % of players agreed with you. Same set for everyone, with a compatibility link to compare picks with a friend. Free, no login.
+
 # [Think in Odds](https://thinkinodds.com/)
 - [Think in Odds](https://thinkinodds.com/) Free daily probability puzzle: reason through a short scenario, submit an answer, use optional hints and explore a worked explanation. One shared puzzle at 8 p.m. America/New_York, with a free released archive. No account required. Development and explanations are AI-assisted; the archive includes adaptations of classic probability problems.
-
 
 # [GeoTap](https://geotap.io)
 - [GeoTap](https://geotap.io/geotap/daily) Free daily geography games, no signup required: You get a place on a globe, tap to where you think it is, and get scored based on how close you are. Think you know the world?
