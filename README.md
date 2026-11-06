@@ -5,6 +5,9 @@
 # WordleWeb
 My own list of Wordle-like games and other assorted variations of this game format. Hope people enjoy and contribute to this!
 
+# [Movie Scene Map](https://moviescenemap.com)
+- [SceneGuessr](https://moviescenemap.com/guess/?utm_source=wordleweb) Daily GeoGuessr for movies: five films, series, games or anime a day, the same five for everyone, and you click the world map where you think each one was shot (games and anime: where they are set). Each round shows how far off you were; share the emoji grid, or keep going in endless mode. Free, no login, in ten languages.
+
 # [Keep One Anime](https://keeponeanime.com)
 - [Keep One Anime](https://keeponeanime.com/?ref=wordleweb) Daily anime "keep one" game: 10 head-to-head anime pairs a day, you can only keep one of each, then see what % of players agreed with you. Same set for everyone, with a compatibility link to compare picks with a friend. Free, no login.
 
