@@ -5,6 +5,9 @@
 # WordleWeb
 My own list of Wordle-like games and other assorted variations of this game format. Hope people enjoy and contribute to this!
 
+# [Globe Party](https://globeparty.twograins.app)
+- [Globe Party](https://globeparty.twograins.app) Daily geography game, three countries a day, one per round: name a country from its flag, find one on a 3D globe where every guess glows warmer the closer it gets, and crack one from clues like continent, hemisphere and population. Play and compete with friends: as a Discord Activity everyone plays the same puzzle together and races up the server leaderboard, and on iPhone you can add friends and see who's ahead. Free, no login needed in the browser.
+
 # [Keep One Anime](https://keeponeanime.com)
 - [Keep One Anime](https://keeponeanime.com/?ref=wordleweb) Daily anime "keep one" game: 10 head-to-head anime pairs a day, you can only keep one of each, then see what % of players agreed with you. Same set for everyone, with a compatibility link to compare picks with a friend. Free, no login.
 
