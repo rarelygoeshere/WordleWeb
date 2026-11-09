@@ -5,6 +5,9 @@
 # WordleWeb
 My own list of Wordle-like games and other assorted variations of this game format. Hope people enjoy and contribute to this!
 
+# [Warmer Warmer](https://warmerwarmer.com/)
+- [Warmer Warmer](https://warmerwarmer.com/) Daily semantic word game played like hot and cold: the same secret word for everyone each day, and every guess gets a temperature from cold to hot for how close it is in meaning. More than 30 languages, each with its own daily word. Free, no sign-up.
+
 # [Keep One Anime](https://keeponeanime.com)
 - [Keep One Anime](https://keeponeanime.com/?ref=wordleweb) Daily anime "keep one" game: 10 head-to-head anime pairs a day, you can only keep one of each, then see what % of players agreed with you. Same set for everyone, with a compatibility link to compare picks with a friend. Free, no login.
 
