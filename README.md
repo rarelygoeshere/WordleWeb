@@ -5,6 +5,9 @@
 # WordleWeb
 My own list of Wordle-like games and other assorted variations of this game format. Hope people enjoy and contribute to this!
 
+# [Icon of History](https://iconofhistory.com)
+- [Icon of History](https://iconofhistory.com) Daily history guessing game: one figure from history, six hints from era and region down to initials, the same puzzle for everyone. The fewer hints you need, the more you score. Free, no sign-up, in English and Spanish. Published on November 3, 2026
+
 # [Keep One Anime](https://keeponeanime.com)
 - [Keep One Anime](https://keeponeanime.com/?ref=wordleweb) Daily anime "keep one" game: 10 head-to-head anime pairs a day, you can only keep one of each, then see what % of players agreed with you. Same set for everyone, with a compatibility link to compare picks with a friend. Free, no login.
 
