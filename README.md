@@ -5,6 +5,9 @@
 # WordleWeb
 My own list of Wordle-like games and other assorted variations of this game format. Hope people enjoy and contribute to this!
 
+# [Huss Valley Game](https://hussvalley.io/)
+- [Huss Valley Game](https://hussvalley.io/) Free multiplayer Halloween chase game in the browser: trick-or-treaters race for the finish while ghosts hunt them. Up to 30 players per room, no account, no download, works on PCs, Chromebooks and phones.
+
 # [Keep One Anime](https://keeponeanime.com)
 - [Keep One Anime](https://keeponeanime.com/?ref=wordleweb) Daily anime "keep one" game: 10 head-to-head anime pairs a day, you can only keep one of each, then see what % of players agreed with you. Same set for everyone, with a compatibility link to compare picks with a friend. Free, no login.
 
