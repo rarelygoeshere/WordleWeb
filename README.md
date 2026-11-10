@@ -5,6 +5,12 @@
 # WordleWeb
 My own list of Wordle-like games and other assorted variations of this game format. Hope people enjoy and contribute to this!
 
+# [Dayplay Games](https://dayplaygames.com)
+- [Mini Golf](https://golf.dayplaygames.com/) Free daily mini golf: a new Daily Nine every day, the same nine holes for everyone, plus thirteen original courses and online duels with friends. No sign-up.
+- [Daily Darts](https://darts.dayplaygames.com/) Nine darts at two numbers and the bull, new every day on a regulation board, plus 301, Cricket and Around the Clock against the computer or a friend.
+- [Backyard Cornhole](https://cornhole.dayplaygames.com/) Twelve bags on a regulation 27-foot court, with a new spot and new wind every day.
+- [Bubble Thread](https://bubblethread.dayplaygames.com/) Trace one line that pops every bubble exactly once, with three fresh daily sheets.
+
 # [Keep One Anime](https://keeponeanime.com)
 - [Keep One Anime](https://keeponeanime.com/?ref=wordleweb) Daily anime "keep one" game: 10 head-to-head anime pairs a day, you can only keep one of each, then see what % of players agreed with you. Same set for everyone, with a compatibility link to compare picks with a friend. Free, no login.
 
