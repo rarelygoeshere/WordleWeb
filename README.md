@@ -867,6 +867,9 @@ Wordga - https://wordga.com
 - https://github.com/idanzur/el-solver Look through this link for more games
 - https://www.reddit.com/r/northernlion/comments/1p27odx/dles_megathread/
 
+# [Outlier: Unlimited Krillion Game](https://playkrillion.net/)
+- [Outlier](https://playkrillion.net/) Free unlimited Krillion-style rare-answer word game, no daily cap: answer open prompts and score more the rarer your answer is. Free, no login.
+
 ## Sources sorted
 - https://x.com/thunderdle/status/1664149982306349057 Twitter thread for Wordle games
 
