@@ -5,6 +5,10 @@
 # WordleWeb
 My own list of Wordle-like games and other assorted variations of this game format. Hope people enjoy and contribute to this!
 
+# [WikiCards](https://playwikicards.com)
+- [Wiki Race](https://playwikicards.com/wiki-race/) Daily Wikipedia speedrun: everyone gets the same start and target article, and you reach the target by clicking links inside the articles. Scored on clicks first, then time. New race every day at midnight UTC. Free, no account, works on phones.
+- [Flag Quiz](https://playwikicards.com/flag-quiz/) Daily flag quiz: twenty flags a day, name the country for each one, with the answers at the end. A flag only comes back once all 196 national flags have been asked. Free, no account.
+
 # [Keep One Anime](https://keeponeanime.com)
 - [Keep One Anime](https://keeponeanime.com/?ref=wordleweb) Daily anime "keep one" game: 10 head-to-head anime pairs a day, you can only keep one of each, then see what % of players agreed with you. Same set for everyone, with a compatibility link to compare picks with a friend. Free, no login.
 
