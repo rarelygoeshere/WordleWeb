@@ -5,6 +5,10 @@
 # WordleWeb
 My own list of Wordle-like games and other assorted variations of this game format. Hope people enjoy and contribute to this!
 
+# [Hirnly](https://www.hirnly.com)
+- [Fünfer](https://www.hirnly.com/fuenfer) Daily German five-letter word game: guess the word in six tries, hand-picked word list. Archive of past words. Free, no login. Published on November 1, 2026
+- [Viererbande](https://www.hirnly.com/viererbande) Daily German word-connections puzzle: sixteen words hide four groups of four, full of red herrings and wordplay; extra Austria edition every Friday. Archive of past puzzles. Free, no login. Published on November 1, 2026
+
 # [Keep One Anime](https://keeponeanime.com)
 - [Keep One Anime](https://keeponeanime.com/?ref=wordleweb) Daily anime "keep one" game: 10 head-to-head anime pairs a day, you can only keep one of each, then see what % of players agreed with you. Same set for everyone, with a compatibility link to compare picks with a friend. Free, no login.
 
