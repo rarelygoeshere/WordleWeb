@@ -5,6 +5,9 @@
 # WordleWeb
 My own list of Wordle-like games and other assorted variations of this game format. Hope people enjoy and contribute to this!
 
+# [Word Guess (Free Word Puzzle)](https://www.freewordpuzzle.com/word-guess/)
+- [Word Guess (Free Word Puzzle)](https://www.freewordpuzzle.com/word-guess/) A free daily five-letter word guessing game, same puzzle for everyone each day, colour-coded hints, plays in the browser, no login.
+
 # [Keep One Anime](https://keeponeanime.com)
 - [Keep One Anime](https://keeponeanime.com/?ref=wordleweb) Daily anime "keep one" game: 10 head-to-head anime pairs a day, you can only keep one of each, then see what % of players agreed with you. Same set for everyone, with a compatibility link to compare picks with a friend. Free, no login.
 
