@@ -870,3 +870,5 @@ Wordga - https://wordga.com
 ## Sources sorted
 - https://x.com/thunderdle/status/1664149982306349057 Twitter thread for Wordle games
 
+# [Pips Hints](https://pipshints.org/)
+- [Pips Hints](https://pipshints.org/) Daily hints and answers for the NYT Pips domino puzzle (Easy, Medium, Hard) with spoiler-free tap-to-reveal, plus Pips Unlimited: free endless domino logic puzzles in the browser. Free, no login.
