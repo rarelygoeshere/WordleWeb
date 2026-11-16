@@ -5,6 +5,9 @@
 # WordleWeb
 My own list of Wordle-like games and other assorted variations of this game format. Hope people enjoy and contribute to this!
 
+# [MapGuesser](https://mapguesser.fr/en)
+- [Countryle](https://mapguesser.fr/en/game/countryle/daily?utm_source=wordleweb) Daily mystery country game: everyone gets the same country to find each day. You can guess as many times as you need, and each guess tells you how the answer compares on population, area, GDP and continent. It has a daily leaderboard and streaks, and is available in English, French, Portuguese, Italian and German. Free, no login.
+
 # [Keep One Anime](https://keeponeanime.com)
 - [Keep One Anime](https://keeponeanime.com/?ref=wordleweb) Daily anime "keep one" game: 10 head-to-head anime pairs a day, you can only keep one of each, then see what % of players agreed with you. Same set for everyone, with a compatibility link to compare picks with a friend. Free, no login.
 
