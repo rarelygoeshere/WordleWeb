@@ -5,6 +5,9 @@
 # WordleWeb
 My own list of Wordle-like games and other assorted variations of this game format. Hope people enjoy and contribute to this!
 
+# [Rulemiss](https://webgamesdaily.com/rulemiss)
+- [Rulemiss](https://webgamesdaily.com/rulemiss) Free daily rule-checking puzzle: five untimed cases, each with four choices; pick the option that satisfies exactly two of three rules. The daily set resets at midnight UTC, with an Unlimited mode for practice. No account required.
+
 # [Keep One Anime](https://keeponeanime.com)
 - [Keep One Anime](https://keeponeanime.com/?ref=wordleweb) Daily anime "keep one" game: 10 head-to-head anime pairs a day, you can only keep one of each, then see what % of players agreed with you. Same set for everyone, with a compatibility link to compare picks with a friend. Free, no login.
 
