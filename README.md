@@ -5,6 +5,10 @@
 # WordleWeb
 My own list of Wordle-like games and other assorted variations of this game format. Hope people enjoy and contribute to this!
 
+
+# [Alline](https://allinegame.com)
+- [Alline](https://allinegame.com/?utm_source=wordleweb) Daily word puzzle where every move slides all the letters: seven letter tiles on a 10x10 board with walls, and each move slides every tile one step until it hits a wall, an edge or another tile. Line them up across or down to find the day's six hidden words before the 15-minute clock runs out. Same board for everyone, streaks and a share grid, plus a 2-minute 1v1 Duel mode. Free, no login, no ads. Published on November 3, 2026
+
 # [Keep One Anime](https://keeponeanime.com)
 - [Keep One Anime](https://keeponeanime.com/?ref=wordleweb) Daily anime "keep one" game: 10 head-to-head anime pairs a day, you can only keep one of each, then see what % of players agreed with you. Same set for everyone, with a compatibility link to compare picks with a friend. Free, no login.
 
