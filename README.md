@@ -849,6 +849,7 @@ Wordga - https://wordga.com
 - https://dles.aukspot.com/
 - [WordleLike](https://wordlelike.com/) A free hub of 5 daily Wordle-style games: classic Wordle, 6-letter Word Hurdle, Mini Crossword, Word Search, and Anagram Solver.
 - [Eight daily puzzles to try after Wordle](https://bestdaily.games/collections/games-like-wordle/) A short comparison of word ladders, letter-swapping puzzles, clues, and word associations, with links to the original games.
+- [All the Dles](https://allthedles.com/) Directory of 400+ free daily browser games (word, trivia, geography, music, math), one page each with how to play and a link to the official site only. Link status checked daily.
 ## Sources to sort through
 - [March 8, 2022 - Drew Patty - Medium: Wordle Spinoffs: The Complete and Authoritative Index](https://medium.com/floodgates/the-complete-and-authoritative-list-of-wordle-spinoffs-fb00bfafc448)/[Archive link](https://archive.ph/vuNdB)
 - [A game rentry from the site hunting list on the FMHY Subreddit](https://rentry.co/aawb2pus)
