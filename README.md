@@ -5,6 +5,9 @@
 # WordleWeb
 My own list of Wordle-like games and other assorted variations of this game format. Hope people enjoy and contribute to this!
 
+# [Bingedle](https://bingedle.com/)
+- [Bingedle](https://bingedle.com/) Loldle-style daily character guessing games for 390+ TV shows, anime and video games: guess a character and each guess shows which clues match. Includes Friends, The Office, League of Legends and Pokémon. Free, no login.
+
 # [Keep One Anime](https://keeponeanime.com)
 - [Keep One Anime](https://keeponeanime.com/?ref=wordleweb) Daily anime "keep one" game: 10 head-to-head anime pairs a day, you can only keep one of each, then see what % of players agreed with you. Same set for everyone, with a compatibility link to compare picks with a friend. Free, no login.
 
