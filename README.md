@@ -8,6 +8,9 @@ My own list of Wordle-like games and other assorted variations of this game form
 # [Couscous](https://couscous.ai)
 - [Couscous](https://couscous.ai/play/daily?utm_source=github-wordleweb&utm_medium=listing&utm_campaign=offsite-2026-11) Daily secret-word riddle: ask yes-or-no questions, the game stamps YES, NO or I DON'T KNOW and a ring warms up as you get close, then name the word. Same riddle for everyone, changing at local midnight. A language model judges each answer. The riddle of the day is free; it asks you to sign in first (Apple, Google or an email code).
 
+# [Alline](https://allinegame.com)
+- [Alline](https://allinegame.com/?utm_source=wordleweb) Daily word puzzle where every move slides all the letters: seven letter tiles on a 10x10 board with walls, and each move slides every tile one step until it hits a wall, an edge or another tile. Line them up across or down to find the day's six hidden words before the 15-minute clock runs out. Same board for everyone, streaks and a share grid, plus a 2-minute 1v1 Duel mode. Free, no login, no ads. Published on November 3, 2026
+
 # [Keep One Anime](https://keeponeanime.com)
 - [Keep One Anime](https://keeponeanime.com/?ref=wordleweb) Daily anime "keep one" game: 10 head-to-head anime pairs a day, you can only keep one of each, then see what % of players agreed with you. Same set for everyone, with a compatibility link to compare picks with a friend. Free, no login.
 
@@ -851,6 +854,8 @@ Wordga - https://wordga.com
 - [Wordle-inspired Game Collection](https://rentry.org/v72n74fu)
 - https://dles.aukspot.com/
 - [WordleLike](https://wordlelike.com/) A free hub of 5 daily Wordle-style games: classic Wordle, 6-letter Word Hurdle, Mini Crossword, Word Search, and Anagram Solver.
+- [Eight daily puzzles to try after Wordle](https://bestdaily.games/collections/games-like-wordle/) A short comparison of word ladders, letter-swapping puzzles, clues, and word associations, with links to the original games.
+- [All the Dles](https://allthedles.com/) Directory of 400+ free daily browser games (word, trivia, geography, music, math), one page each with how to play and a link to the official site only. Link status checked daily.
 ## Sources to sort through
 - [March 8, 2022 - Drew Patty - Medium: Wordle Spinoffs: The Complete and Authoritative Index](https://medium.com/floodgates/the-complete-and-authoritative-list-of-wordle-spinoffs-fb00bfafc448)/[Archive link](https://archive.ph/vuNdB)
 - [A game rentry from the site hunting list on the FMHY Subreddit](https://rentry.co/aawb2pus)
