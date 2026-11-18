@@ -5,6 +5,9 @@
 # WordleWeb
 My own list of Wordle-like games and other assorted variations of this game format. Hope people enjoy and contribute to this!
 
+# [Movie Scene Map](https://moviescenemap.com)
+- [SceneGuessr](https://moviescenemap.com/guess/?utm_source=wordleweb) Daily GeoGuessr for movies: five films, series, games or anime a day, the same five for everyone, and you click the world map where you think each one was shot (games and anime: where they are set). Each round shows how far off you were; share the emoji grid, or keep going in endless mode. Free, no login, in ten languages.
+
 # [Couscous](https://couscous.ai)
 - [Couscous](https://couscous.ai/play/daily?utm_source=github-wordleweb&utm_medium=listing&utm_campaign=offsite-2026-11) Daily secret-word riddle: ask yes-or-no questions, the game stamps YES, NO or I DON'T KNOW and a ring warms up as you get close, then name the word. Same riddle for everyone, changing at local midnight. A language model judges each answer. The riddle of the day is free; it asks you to sign in first (Apple, Google or an email code).
 
