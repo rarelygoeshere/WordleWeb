@@ -5,6 +5,9 @@
 # WordleWeb
 My own list of Wordle-like games and other assorted variations of this game format. Hope people enjoy and contribute to this!
 
+# [Trick Shot Cinema](https://trickshotcinema.com)
+- [Trick Shot Cinema](https://trickshotcinema.com/?utm_source=wordleweb&utm_medium=directory&utm_campaign=listing) Daily movie-link puzzle: get from the Start film to the End film through the Trick Shot film in the middle. Each link is a person who worked on both films (actor, director, writer, composer), named from memory with no cast list on screen. Same three films for everyone each day, with 1v1 challenges and group rooms. Free, no sign-up for the Daily.
+
 # [Movie Scene Map](https://moviescenemap.com)
 - [SceneGuessr](https://moviescenemap.com/guess/?utm_source=wordleweb) Daily GeoGuessr for movies: five films, series, games or anime a day, the same five for everyone, and you click the world map where you think each one was shot (games and anime: where they are set). Each round shows how far off you were; share the emoji grid, or keep going in endless mode. Free, no login, in ten languages.
 
