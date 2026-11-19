@@ -46,6 +46,9 @@ My own list of Wordle-like games and other assorted variations of this game form
 # [Major Dictionary](https://majordictionary.com)
 - [Daily Digits](https://majordictionary.com/daily)  number memory game: a number flashes and you type it back, one digit longer each round until your first miss. Same numbers for everyone, and after a miss it shows the number as Major System words. Free, no login.
 
+# [GuessCrowd](https://guesscrowd.com/)
+- [GuessCrowd](https://guesscrowd.com/) Free daily survey game: everyone gets the same five prompts and has 20 seconds per round to guess the answer most people would give. See each answer's rank after the round. Includes an archive. No account required.
+
 # [Rarest Answer](https://rarestanswer.com)
 - [Rarest Answer](https://rarestanswer.com/?ref=wordleweb) Daily trivia game where the rarest right answer wins: 7 questions a day, 25 seconds each, type any correct answer and score more the fewer players gave it, with live answer percentages. Same set for everyone, free unlimited rounds and 1v1 duels, no login.
 
