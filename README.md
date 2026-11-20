@@ -5,6 +5,12 @@
 # WordleWeb
 My own list of Wordle-like games and other assorted variations of this game format. Hope people enjoy and contribute to this!
 
+# [Glyphtli](https://glyphtli.io)
+- [Glyphtli](https://glyphtli.io/?utm_source=wordleweb&utm_medium=directory&utm_campaign=listing) Daily deduction puzzle: a tomb door accepts some offerings of glyphs and rejects others by one hidden rule. Probe it with your own offerings, work out the rule in as few probes as you can, then prove it in a trial of six new offerings. Four doors a day, each harder. Same puzzle for everyone, plus endless mode, an archive and live 1v1 races. Free, no login for the daily.
+
+# [Abacotron](https://abacotron.io)
+- [Abacotron](https://abacotron.io/?utm_source=wordleweb&utm_medium=directory&utm_campaign=listing) Daily arithmetic duel against an old counting machine: five rounds a day, each with six number cards and a target. Combine the cards with + − × ÷ to hit the target before the machine does. Same rounds for everyone with a spoiler-free share, plus endless mode, an archive and live 1v1 duels. Free, no login for the daily.
+
 # [Trick Shot Cinema](https://trickshotcinema.com)
 - [Trick Shot Cinema](https://trickshotcinema.com/?utm_source=wordleweb&utm_medium=directory&utm_campaign=listing) Daily movie-link puzzle: get from the Start film to the End film through the Trick Shot film in the middle. Each link is a person who worked on both films (actor, director, writer, composer), named from memory with no cast list on screen. Same three films for everyone each day, with 1v1 challenges and group rooms. Free, no sign-up for the Daily.
 
