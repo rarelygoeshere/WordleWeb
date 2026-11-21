@@ -5,6 +5,9 @@
 # WordleWeb
 My own list of Wordle-like games and other assorted variations of this game format. Hope people enjoy and contribute to this!
 
+# [judexuhs](https://github.com/judexuhs)
+- [The Rung](https://pooplepractice.com/) Change one letter at a time to turn a four-letter word into POOP. After a round, you can go back to your first detour and try a shorter route.
+
 # [Globe Party](https://globeparty.twograins.app)
 - [Globe Party](https://globeparty.twograins.app) Daily geography game, three countries a day, one per round: name a country from its flag, find one on a 3D globe where every guess glows warmer the closer it gets, and crack one from clues like continent, hemisphere and population. Play and compete with friends: as a Discord Activity everyone plays the same puzzle together and races up the server leaderboard, and on iPhone you can add friends and see who's ahead. Free, no login needed in the browser.
 
