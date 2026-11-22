@@ -5,6 +5,8 @@
 # WordleWeb
 My own list of Wordle-like games and other assorted variations of this game format. Hope people enjoy and contribute to this!
 
+# [Pips Hints](https://pipshints.org/)
+- [Pips Hints](https://pipshints.org/) Daily hints and answers for the NYT Pips domino puzzle (Easy, Medium, Hard) with spoiler-free tap-to-reveal, plus Pips Unlimited: free endless domino logic puzzles in the browser. Free, no login.
 
 # [Word Guess (Free Word Puzzle)](https://www.freewordpuzzle.com/word-guess/)
 - [Word Guess (Free Word Puzzle)](https://www.freewordpuzzle.com/word-guess/) A free daily five-letter word guessing game, same puzzle for everyone each day, colour-coded hints, plays in the browser, no login.
@@ -896,3 +898,4 @@ Wordga - https://wordga.com
 
 ## Sources sorted
 - https://x.com/thunderdle/status/1664149982306349057 Twitter thread for Wordle games
+
