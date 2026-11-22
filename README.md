@@ -5,6 +5,10 @@
 # WordleWeb
 My own list of Wordle-like games and other assorted variations of this game format. Hope people enjoy and contribute to this!
 
+
+# [Word Guess (Free Word Puzzle)](https://www.freewordpuzzle.com/word-guess/)
+- [Word Guess (Free Word Puzzle)](https://www.freewordpuzzle.com/word-guess/) A free daily five-letter word guessing game, same puzzle for everyone each day, colour-coded hints, plays in the browser, no login.
+
 # [Dayplay Games](https://dayplaygames.com)
 - [Mini Golf](https://golf.dayplaygames.com/) Free daily mini golf: a new Daily Nine every day, the same nine holes for everyone, plus thirteen original courses and online duels with friends. No sign-up.
 - [Daily Darts](https://darts.dayplaygames.com/) Nine darts at two numbers and the bull, new every day on a regulation board, plus 301, Cricket and Around the Clock against the computer or a friend.
