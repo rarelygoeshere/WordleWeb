@@ -11,8 +11,22 @@ My own list of Wordle-like games and other assorted variations of this game form
 - [Backyard Cornhole](https://cornhole.dayplaygames.com/) Twelve bags on a regulation 27-foot court, with a new spot and new wind every day.
 - [Bubble Thread](https://bubblethread.dayplaygames.com/) Trace one line that pops every bubble exactly once, with three fresh daily sheets.
 
+# [Hirnly](https://www.hirnly.com)
+- [Fünfer](https://www.hirnly.com/fuenfer) Daily German five-letter word game: guess the word in six tries, hand-picked word list. Archive of past words. Free, no login. Published on November 1, 2026
+- [Viererbande](https://www.hirnly.com/viererbande) Daily German word-connections puzzle: sixteen words hide four groups of four, full of red herrings and wordplay; extra Austria edition every Friday. Archive of past puzzles. Free, no login. Published on November 1, 2026
+
+# [Huss Valley Game](https://hussvalley.io/)
+- [Huss Valley Game](https://hussvalley.io/) Free multiplayer Halloween chase game in the browser: trick-or-treaters race for the finish while ghosts hunt them. Up to 30 players per room, no account, no download, works on PCs, Chromebooks and phones.
+
+# [WikiCards](https://playwikicards.com)
+- [Wiki Race](https://playwikicards.com/wiki-race/) Daily Wikipedia speedrun: everyone gets the same start and target article, and you reach the target by clicking links inside the articles. Scored on clicks first, then time. New race every day at midnight UTC. Free, no account, works on phones.
+- [Flag Quiz](https://playwikicards.com/flag-quiz/) Daily flag quiz: twenty flags a day, name the country for each one, with the answers at the end. A flag only comes back once all 196 national flags have been asked. Free, no account.
+
 # [Keep One Anime](https://keeponeanime.com)
 - [Keep One Anime](https://keeponeanime.com/?ref=wordleweb) Daily anime "keep one" game: 10 head-to-head anime pairs a day, you can only keep one of each, then see what % of players agreed with you. Same set for everyone, with a compatibility link to compare picks with a friend. Free, no login.
+
+# [Warmer Warmer](https://warmerwarmer.com/)
+- [Warmer Warmer](https://warmerwarmer.com/) Daily semantic word game played like hot and cold: the same secret word for everyone each day, and every guess gets a temperature from cold to hot for how close it is in meaning. More than 30 languages, each with its own daily word. Free, no sign-up.
 
 # [Think in Odds](https://thinkinodds.com/)
 - [Think in Odds](https://thinkinodds.com/) Free daily probability puzzle: reason through a short scenario, submit an answer, use optional hints and explore a worked explanation. One shared puzzle at 8 p.m. America/New_York, with a free released archive. No account required. Development and explanations are AI-assisted; the archive includes adaptations of classic probability problems.
@@ -873,6 +887,8 @@ Wordga - https://wordga.com
 - https://github.com/idanzur/el-solver Look through this link for more games
 - https://www.reddit.com/r/northernlion/comments/1p27odx/dles_megathread/
 
+# [Outlier: Unlimited Krillion Game](https://playkrillion.net/)
+- [Outlier](https://playkrillion.net/) Free unlimited Krillion-style rare-answer word game, no daily cap: answer open prompts and score more the rarer your answer is. Free, no login.
+
 ## Sources sorted
 - https://x.com/thunderdle/status/1664149982306349057 Twitter thread for Wordle games
-
