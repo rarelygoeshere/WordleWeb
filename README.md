@@ -5,6 +5,10 @@
 # WordleWeb
 My own list of Wordle-like games and other assorted variations of this game format. Hope people enjoy and contribute to this!
 
+# [Hirnly](https://www.hirnly.com)
+- [Fünfer](https://www.hirnly.com/fuenfer) Daily German five-letter word game: guess the word in six tries, hand-picked word list. Archive of past words. Free, no login. Published on November 1, 2026
+- [Viererbande](https://www.hirnly.com/viererbande) Daily German word-connections puzzle: sixteen words hide four groups of four, full of red herrings and wordplay; extra Austria edition every Friday. Archive of past puzzles. Free, no login. Published on November 1, 2026
+
 # [Huss Valley Game](https://hussvalley.io/)
 - [Huss Valley Game](https://hussvalley.io/) Free multiplayer Halloween chase game in the browser: trick-or-treaters race for the finish while ghosts hunt them. Up to 30 players per room, no account, no download, works on PCs, Chromebooks and phones.
 
