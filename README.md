@@ -5,11 +5,15 @@
 # WordleWeb
 My own list of Wordle-like games and other assorted variations of this game format. Hope people enjoy and contribute to this!
 
+# [WikiCards](https://playwikicards.com)
+- [Wiki Race](https://playwikicards.com/wiki-race/) Daily Wikipedia speedrun: everyone gets the same start and target article, and you reach the target by clicking links inside the articles. Scored on clicks first, then time. New race every day at midnight UTC. Free, no account, works on phones.
+- [Flag Quiz](https://playwikicards.com/flag-quiz/) Daily flag quiz: twenty flags a day, name the country for each one, with the answers at the end. A flag only comes back once all 196 national flags have been asked. Free, no account.
+
+# [Keep One Anime](https://keeponeanime.com)
+- [Keep One Anime](https://keeponeanime.com/?ref=wordleweb) Daily anime "keep one" game: 10 head-to-head anime pairs a day, you can only keep one of each, then see what % of players agreed with you. Same set for everyone, with a compatibility link to compare picks with a friend. Free, no login.
+
 # [Warmer Warmer](https://warmerwarmer.com/)
 - [Warmer Warmer](https://warmerwarmer.com/) Daily semantic word game played like hot and cold: the same secret word for everyone each day, and every guess gets a temperature from cold to hot for how close it is in meaning. More than 30 languages, each with its own daily word. Free, no sign-up.
-
-
-- [Keep One Anime](https://keeponeanime.com/?ref=wordleweb) Daily anime "keep one" game: 10 head-to-head anime pairs a day, you can only keep one of each, then see what % of players agreed with you. Same set for everyone, with a compatibility link to compare picks with a friend. Free, no login.
 
 # [Think in Odds](https://thinkinodds.com/)
 - [Think in Odds](https://thinkinodds.com/) Free daily probability puzzle: reason through a short scenario, submit an answer, use optional hints and explore a worked explanation. One shared puzzle at 8 p.m. America/New_York, with a free released archive. No account required. Development and explanations are AI-assisted; the archive includes adaptations of classic probability problems.
