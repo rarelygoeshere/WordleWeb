@@ -5,6 +5,12 @@
 # WordleWeb
 My own list of Wordle-like games and other assorted variations of this game format. Hope people enjoy and contribute to this!
 
+# [Dayplay Games](https://dayplaygames.com)
+- [Mini Golf](https://golf.dayplaygames.com/) Free daily mini golf: a new Daily Nine every day, the same nine holes for everyone, plus thirteen original courses and online duels with friends. No sign-up.
+- [Daily Darts](https://darts.dayplaygames.com/) Nine darts at two numbers and the bull, new every day on a regulation board, plus 301, Cricket and Around the Clock against the computer or a friend.
+- [Backyard Cornhole](https://cornhole.dayplaygames.com/) Twelve bags on a regulation 27-foot court, with a new spot and new wind every day.
+- [Bubble Thread](https://bubblethread.dayplaygames.com/) Trace one line that pops every bubble exactly once, with three fresh daily sheets.
+
 # [Hirnly](https://www.hirnly.com)
 - [Fünfer](https://www.hirnly.com/fuenfer) Daily German five-letter word game: guess the word in six tries, hand-picked word list. Archive of past words. Free, no login. Published on November 1, 2026
 - [Viererbande](https://www.hirnly.com/viererbande) Daily German word-connections puzzle: sixteen words hide four groups of four, full of red herrings and wordplay; extra Austria edition every Friday. Archive of past puzzles. Free, no login. Published on November 1, 2026
