@@ -5,6 +5,10 @@
 # WordleWeb
 My own list of Wordle-like games and other assorted variations of this game format. Hope people enjoy and contribute to this!
 
+
+# [Bingedle](https://bingedle.com/)
+- [Bingedle](https://bingedle.com/) Loldle-style daily character guessing games for 390+ TV shows, anime and video games: guess a character and each guess shows which clues match. Includes Friends, The Office, League of Legends and Pokémon. Free, no login.
+
 # [Pips Hints](https://pipshints.org/)
 - [Pips Hints](https://pipshints.org/) Daily hints and answers for the NYT Pips domino puzzle (Easy, Medium, Hard) with spoiler-free tap-to-reveal, plus Pips Unlimited: free endless domino logic puzzles in the browser. Free, no login.
 
