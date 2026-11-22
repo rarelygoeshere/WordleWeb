@@ -5,25 +5,10 @@
 # WordleWeb
 My own list of Wordle-like games and other assorted variations of this game format. Hope people enjoy and contribute to this!
 
-# [Globe Party](https://globeparty.twograins.app)
-- [Globe Party](https://globeparty.twograins.app) Daily geography game, three countries a day, one per round: name a country from its flag, find one on a 3D globe where every guess glows warmer the closer it gets, and crack one from clues like continent, hemisphere and population. Play and compete with friends: as a Discord Activity everyone plays the same puzzle together and races up the server leaderboard, and on iPhone you can add friends and see who's ahead. Free, no login needed in the browser.
+# [Warmer Warmer](https://warmerwarmer.com/)
+- [Warmer Warmer](https://warmerwarmer.com/) Daily semantic word game played like hot and cold: the same secret word for everyone each day, and every guess gets a temperature from cold to hot for how close it is in meaning. More than 30 languages, each with its own daily word. Free, no sign-up.
 
-# [Trick Shot Cinema](https://trickshotcinema.com)
-- [Trick Shot Cinema](https://trickshotcinema.com/?utm_source=wordleweb&utm_medium=directory&utm_campaign=listing) Daily movie-link puzzle: get from the Start film to the End film through the Trick Shot film in the middle. Each link is a person who worked on both films (actor, director, writer, composer), named from memory with no cast list on screen. Same three films for everyone each day, with 1v1 challenges and group rooms. Free, no sign-up for the Daily.
 
-# [Movie Scene Map](https://moviescenemap.com)
-- [SceneGuessr](https://moviescenemap.com/guess/?utm_source=wordleweb) Daily GeoGuessr for movies: five films, series, games or anime a day, the same five for everyone, and you click the world map where you think each one was shot (games and anime: where they are set). Each round shows how far off you were; share the emoji grid, or keep going in endless mode. Free, no login, in ten languages.
-
-# [Couscous](https://couscous.ai)
-- [Couscous](https://couscous.ai/play/daily?utm_source=github-wordleweb&utm_medium=listing&utm_campaign=offsite-2026-11) Daily secret-word riddle: ask yes-or-no questions, the game stamps YES, NO or I DON'T KNOW and a ring warms up as you get close, then name the word. Same riddle for everyone, changing at local midnight. A language model judges each answer. The riddle of the day is free; it asks you to sign in first (Apple, Google or an email code).
-
-# [Alline](https://allinegame.com)
-- [Alline](https://allinegame.com/?utm_source=wordleweb) Daily word puzzle where every move slides all the letters: seven letter tiles on a 10x10 board with walls, and each move slides every tile one step until it hits a wall, an edge or another tile. Line them up across or down to find the day's six hidden words before the 15-minute clock runs out. Same board for everyone, streaks and a share grid, plus a 2-minute 1v1 Duel mode. Free, no login, no ads. Published on November 3, 2026
-
-# [Icon of History](https://iconofhistory.com)
-- [Icon of History](https://iconofhistory.com) Daily history guessing game: one figure from history, six hints from era and region down to initials, the same puzzle for everyone. The fewer hints you need, the more you score. Free, no sign-up, in English and Spanish. Published on November 3, 2026
-
-# [Keep One Anime](https://keeponeanime.com)
 - [Keep One Anime](https://keeponeanime.com/?ref=wordleweb) Daily anime "keep one" game: 10 head-to-head anime pairs a day, you can only keep one of each, then see what % of players agreed with you. Same set for everyone, with a compatibility link to compare picks with a friend. Free, no login.
 
 # [Think in Odds](https://thinkinodds.com/)
@@ -622,7 +607,7 @@ My own list of Wordle-like games and other assorted variations of this game form
 - [WordSlip](https://dailyplay.com/play/wordslip) Seven scrambled letters on a hexagon grid: work out the word, then drag a path through the cells that spells it. Same puzzle for everyone each day, free, no ads, no signup required.
 
 # [Dave London](https://github.com/Dave-London)
-- [Jigsaw Grove](https://jigsawgrove.com/go/wordleweb) A daily jigsaw, one new picture a day, the same for everyone. Plus over 750 more puzzles in 28 collections. Free, no account.
+- [Jigsaw Grove](https://jigsawgr0ove.com/go/wordleweb) A daily jigsaw, one new picture a day, the same for everyone. Plus over 750 more puzzles in 28 collections. Free, no account.
 
 # [pavelvasin](https://github.com/pavelvasin)
 - [Nanizo Daily Challenge](https://nanizo.com/en/daily/) Daily trivia: 10 questions a day, the same for everyone. One try, points for accuracy and speed, world and country leaderboards
@@ -866,8 +851,6 @@ Wordga - https://wordga.com
 - [Wordle-inspired Game Collection](https://rentry.org/v72n74fu)
 - https://dles.aukspot.com/
 - [WordleLike](https://wordlelike.com/) A free hub of 5 daily Wordle-style games: classic Wordle, 6-letter Word Hurdle, Mini Crossword, Word Search, and Anagram Solver.
-- [Eight daily puzzles to try after Wordle](https://bestdaily.games/collections/games-like-wordle/) A short comparison of word ladders, letter-swapping puzzles, clues, and word associations, with links to the original games.
-- [All the Dles](https://allthedles.com/) Directory of 400+ free daily browser games (word, trivia, geography, music, math), one page each with how to play and a link to the official site only. Link status checked daily.
 ## Sources to sort through
 - [March 8, 2022 - Drew Patty - Medium: Wordle Spinoffs: The Complete and Authoritative Index](https://medium.com/floodgates/the-complete-and-authoritative-list-of-wordle-spinoffs-fb00bfafc448)/[Archive link](https://archive.ph/vuNdB)
 - [A game rentry from the site hunting list on the FMHY Subreddit](https://rentry.co/aawb2pus)
@@ -889,4 +872,3 @@ Wordga - https://wordga.com
 
 ## Sources sorted
 - https://x.com/thunderdle/status/1664149982306349057 Twitter thread for Wordle games
-
