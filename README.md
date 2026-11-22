@@ -12,6 +12,9 @@ My own list of Wordle-like games and other assorted variations of this game form
 # [Keep One Anime](https://keeponeanime.com)
 - [Keep One Anime](https://keeponeanime.com/?ref=wordleweb) Daily anime "keep one" game: 10 head-to-head anime pairs a day, you can only keep one of each, then see what % of players agreed with you. Same set for everyone, with a compatibility link to compare picks with a friend. Free, no login.
 
+# [Warmer Warmer](https://warmerwarmer.com/)
+- [Warmer Warmer](https://warmerwarmer.com/) Daily semantic word game played like hot and cold: the same secret word for everyone each day, and every guess gets a temperature from cold to hot for how close it is in meaning. More than 30 languages, each with its own daily word. Free, no sign-up.
+
 # [Think in Odds](https://thinkinodds.com/)
 - [Think in Odds](https://thinkinodds.com/) Free daily probability puzzle: reason through a short scenario, submit an answer, use optional hints and explore a worked explanation. One shared puzzle at 8 p.m. America/New_York, with a free released archive. No account required. Development and explanations are AI-assisted; the archive includes adaptations of classic probability problems.
 
@@ -873,4 +876,3 @@ Wordga - https://wordga.com
 
 ## Sources sorted
 - https://x.com/thunderdle/status/1664149982306349057 Twitter thread for Wordle games
-
