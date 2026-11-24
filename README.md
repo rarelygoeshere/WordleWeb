@@ -6,6 +6,21 @@
 My own list of Wordle-like games and other assorted variations of this game format. Hope people enjoy and contribute to this!
 
 
+# [DLE Club](https://dleclub.com/)
+- [Amountle](https://amountle.dev/) - Estimate how many objects are in the jar.
+- [Halfsies](https://halfsies.dev/) - Cut each daily object in half by weight.
+- [Stackdle](https://stackdle.dev/) - Build the tallest tower that stays standing.
+- [Flipsies](https://flipsies.dev/) - Flip each object and land it upright.
+- [Puttsies](https://puttsies.dev/) - Play nine miniature golf holes each day.
+- [Weighsies](https://weighsies.dev/) - Guess how many objects balance the scale.
+- [Cutsies](https://cutsies.dev/) - Slice each object into the target number of pieces.
+- [Tiltsies](https://tiltsies.dev/) - Tilt the world to roll a hamster to the goal.
+- [Trackdle](https://trackdle.dev/) - Drift around a new track and beat your best lap.
+- [Worthsies](https://worthsies.dev/) - Guess what a past purchase is worth today.
+
+# [Collagedle](https://collagedle.com/)
+- [Collagedle](https://collagedle.com/) - Make a collage for the daily prompt.
+
 # [Bingedle](https://bingedle.com/)
 - [Bingedle](https://bingedle.com/) Loldle-style daily character guessing games for 390+ TV shows, anime and video games: guess a character and each guess shows which clues match. Includes Friends, The Office, League of Legends and Pokémon. Free, no login.
 
