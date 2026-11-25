@@ -28,6 +28,15 @@ My own list of Wordle-like games and other assorted variations of this game form
 # [Dan Atkinson](https://github.com/dakibwa)
 - [features](https://features.games/) Drag dots until no lines cross across six shared daily boards, then collect the cleared shapes as stamps. Published on 26 October 2026.
 
+# [Wordzilla](https://www.wordzilla.xyz/)
+- [Wordle](https://www.wordzilla.xyz/wordle) Daily Wordle and Wordle unlimited, plus a 1v1 race where the first solve wins and co-op where you take turns on one board. Free, no account, multiplayer included.
+- [Quadzilla](https://www.wordzilla.xyz/quordle) Quordle-style game: four words at once in nine guesses, daily and unlimited.
+- [Crosszilla](https://www.wordzilla.xyz/scrabble-with-friends) Scrabble-style crossword tile duel against a friend or the Zilla bot.
+- [Clutch](https://www.wordzilla.xyz/clutch) Daily Connections-style puzzle: sort 16 words into 4 hidden groups.
+- [Tangle](https://www.wordzilla.xyz/tangle) Daily word search like Strands, with a theme and a spangram.
+- [Monster Mind](https://www.wordzilla.xyz/monster-mind) Word500-style Wordle with no colours on the tiles, only counts.
+- [Hangman](https://www.wordzilla.xyz/hangman) and [Star Battle](https://www.wordzilla.xyz/star-battle) daily puzzles, and [Category Clash](https://www.wordzilla.xyz/category-clash), a party game on the TV with phones as controllers.
+
 # [Chaosword](https://chaosword.com/) 
 - [Chaosword](https://chaosword.com/) Free daily crossword in three sizes: a 5x5 mini, a 7x7 and an 11x11 every day, the same puzzles for everyone. Printable, no ads, no login.
 
