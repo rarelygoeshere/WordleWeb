@@ -6,6 +6,9 @@
 My own list of Wordle-like games and other assorted variations of this game format. Hope people enjoy and contribute to this!
 
 
+# [Chaosword](https://chaosword.com/)
+- [Chaosword](https://chaosword.com/) Free daily crossword in three sizes: a 5x5 mini, a 7x7 and an 11x11 every day, the same puzzles for everyone. Printable, no ads, no login.
+
 # [Bingedle](https://bingedle.com/)
 - [Bingedle](https://bingedle.com/) Loldle-style daily character guessing games for 390+ TV shows, anime and video games: guess a character and each guess shows which clues match. Includes Friends, The Office, League of Legends and Pokémon. Free, no login.
 
