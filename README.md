@@ -5,6 +5,9 @@
 # WordleWeb
 My own list of Wordle-like games and other assorted variations of this game format. Hope people enjoy and contribute to this!
 
+# [BookRank Atlas Riddle](https://openbookrank.com/en/atlas/riddle)
+- [BookRank Atlas Riddle](https://openbookrank.com/en/atlas/riddle) Daily geography guess about places from books (Hogwarts, Macondo, the Shire and others): pick the continent, then the country, then see how close you were and how we know where the place lies. Places that are not on Earth accept any answer. Same place for everyone each day, past days playable. Free, no login, 11 languages.
+
 # [Dan Atkinson](https://github.com/dakibwa)
 - [features](https://features.games/) Drag dots until no lines cross across six shared daily boards, then collect the cleared shapes as stamps. Published on 26 October 2026.
 
