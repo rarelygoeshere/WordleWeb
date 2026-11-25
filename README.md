@@ -5,6 +5,11 @@
 # WordleWeb
 My own list of Wordle-like games and other assorted variations of this game format. Hope people enjoy and contribute to this!
 
+# [Gachanime](https://gachanime.gg/en/jeux?s=wordleweb)
+- [The Mystery Character](https://gachanime.gg/en/personnage-mystere?s=wordleweb) Guess the anime character of the day in eight tries. Each guess gives seven clues: anime, genres, themes, gender, role, rarity and number. One character a day, the same for everyone, new at midnight UTC. Free, no account, in seven languages. Share your grid without spoilers.
+- [Anime Music Quiz](https://gachanime.gg/en/blind-test?s=wordleweb) Ten anime openings and endings a day: listen to the clip and pick the right anime from four posters, faster for more points. The same daily set for everyone until midnight UTC, one attempt, then a result to share. Free, no account: just pick a nickname. In seven languages.
+- [Anime Character Quiz](https://gachanime.gg/en/quiz-personnages?s=wordleweb) Ten anime character portraits a day: type the name of the character, of their anime, or both before time runs out. Small typos are accepted. The same daily set for everyone until midnight UTC, one attempt, then a result to share. Free, no account: just pick a nickname. In seven languages.
+
 # [Msk Apps!](https://play.google.com/store/apps/dev?id=7201302504954529414)
 - [Arrowdle](https://play.google.com/store/apps/details?id=com.mskapps.arrowdle&referrer=utm_source%3Dwordleweb%26utm_medium%3Ddirectory%26utm_campaign%3Dlistings) a daily logic puzzle: every day there's one new arrow board, the same for every player in the world, and you get a single try. Tap each arrow to slide it off the board along its path. If another arrow is in the way, it crashes and you lose a heart. You share your result afterwards without spoilers, Wordle-style.
 
