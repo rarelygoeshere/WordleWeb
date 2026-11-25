@@ -8,6 +8,9 @@ My own list of Wordle-like games and other assorted variations of this game form
 # [MapGuesser](https://mapguesser.fr/en)
 - [Countryle](https://mapguesser.fr/en/game/countryle/daily?utm_source=wordleweb) Daily mystery country game: everyone gets the same country to find each day. You can guess as many times as you need, and each guess tells you how the answer compares on population, area, GDP and continent. It has a daily leaderboard and streaks, and is available in English, French, Portuguese, Italian and German. Free, no login.
 
+# [Rulemiss](https://webgamesdaily.com/rulemiss)
+- [Rulemiss](https://webgamesdaily.com/rulemiss) Free daily rule-checking puzzle: five untimed cases, each with four choices; pick the option that satisfies exactly two of three rules. The daily set resets at midnight UTC, with an Unlimited mode for practice. No account required.
+
 # [Bingedle](https://bingedle.com/)
 - [Bingedle](https://bingedle.com/) Loldle-style daily character guessing games for 390+ TV shows, anime and video games: guess a character and each guess shows which clues match. Includes Friends, The Office, League of Legends and Pokémon. Free, no login.
 
