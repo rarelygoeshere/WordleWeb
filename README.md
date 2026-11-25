@@ -5,8 +5,10 @@
 # WordleWeb
 My own list of Wordle-like games and other assorted variations of this game format. Hope people enjoy and contribute to this!
 
+# [Dan Atkinson](https://github.com/dakibwa)
+- [features](https://features.games/) Drag dots until no lines cross across six shared daily boards, then collect the cleared shapes as stamps. Published on 26 October 2026.
 
-# [Chaosword](https://chaosword.com/)
+# [Chaosword](https://chaosword.com/) 
 - [Chaosword](https://chaosword.com/) Free daily crossword in three sizes: a 5x5 mini, a 7x7 and an 11x11 every day, the same puzzles for everyone. Printable, no ads, no login.
 
 # [DLE Club](https://dleclub.com/)
