@@ -5,6 +5,9 @@
 # WordleWeb
 My own list of Wordle-like games and other assorted variations of this game format. Hope people enjoy and contribute to this!
 
+# Intellikode AS
+- [Word Seesaw](https://wordseesaw.com/) Each row starts as a real word and has a clue for the word it should become. Swap any pair of letter tiles across the board to solve the clues in as few swaps as possible. There’s one new English-language board each day, free to play on phone or desktop without an account.
+
 # [zhenok](https://github.com/zhenok)
 - [Mapcade](https://mapcade.app) 24 free daily geography mini-games: redraw missing borders, finish coastlines, recognise country outlines and split a country's population with one straight line. Each mode has 5 new daily rounds, shared by everyone. Play in the browser without signing up; the interface is available in 10 languages.
 
