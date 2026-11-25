@@ -5,6 +5,9 @@
 # WordleWeb
 My own list of Wordle-like games and other assorted variations of this game format. Hope people enjoy and contribute to this!
 
+# [zhenok](https://github.com/zhenok)
+- [Mapcade](https://mapcade.app) 24 free daily geography mini-games: redraw missing borders, finish coastlines, recognise country outlines and split a country's population with one straight line. Each mode has 5 new daily rounds, shared by everyone. Play in the browser without signing up; the interface is available in 10 languages.
+
 # Veredicto
 - [Veredicto](https://miveredicto.es/?ref=wordleweb) Free daily deduction game in Spanish. Every day there is a new fictional trial: read the evidence, question two witnesses, catch the one who is lying in a cross-examination and rule guilty or innocent. Up to three stamps and a shareable emoji result. No sign-up, mobile-friendly.
 
