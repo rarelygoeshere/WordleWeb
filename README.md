@@ -54,6 +54,9 @@ My own list of Wordle-like games and other assorted variations of this game form
 # [Cosmillion](https://cosmillion.com)
 - [Cosmillion](https://cosmillion.com/?utm_source=wordleweb) Daily word game where the rarest answer wins: the same 7 "Name something" prompts for everyone each day, 25 seconds each. Common answers score 10, rare ones score 100, and your rocket flies higher. See the full answer board after each launch and challenge a friend with the same seven. Free, no sign-up. Published on October 27, 2026
 
+# [Crowd Pick](https://noillirk.best/#practice)
+- [Crowd Pick](https://noillirk.best/#practice) Untimed four-choice trivia game: pick the answer you think most people would give across seven prompts. The game reveals its editorial ranking and awards points after each pick. Free to replay without an account.
+
 # [Upsies](https://upsies.samarpit.dev)
 - [Upsies Climb](https://upsies.samarpit.dev/climb?r=dir-wordleweb) Daily higher-or-lower trivia: 15 steps, pick which of two things has the bigger number, 10 seconds a step, one life. Same climb for everyone each day; the theme changes by weekday (sports stats, video game sales, search lookups). You get a spoiler-free grid of squares to share, and can duel a friend with one link. Free, no sign-up. Published on November 9, 2026
 - [Upsies Daily 5](https://upsies.samarpit.dev/daily?r=dir-wordleweb) Five trivia questions a day, 15 seconds each, one go, same for everyone. Free, no sign-up.
