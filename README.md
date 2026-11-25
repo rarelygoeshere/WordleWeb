@@ -5,6 +5,9 @@
 # WordleWeb
 My own list of Wordle-like games and other assorted variations of this game format. Hope people enjoy and contribute to this!
 
+# [Msk Apps!](https://play.google.com/store/apps/dev?id=7201302504954529414)
+- [Arrowdle](https://play.google.com/store/apps/details?id=com.mskapps.arrowdle&referrer=utm_source%3Dwordleweb%26utm_medium%3Ddirectory%26utm_campaign%3Dlistings) a daily logic puzzle: every day there's one new arrow board, the same for every player in the world, and you get a single try. Tap each arrow to slide it off the board along its path. If another arrow is in the way, it crashes and you lose a heart. You share your result afterwards without spoilers, Wordle-style.
+
 # Intellikode AS
 - [Word Seesaw](https://wordseesaw.com/) Each row starts as a real word and has a clue for the word it should become. Swap any pair of letter tiles across the board to solve the clues in as few swaps as possible. There’s one new English-language board each day, free to play on phone or desktop without an account.
 
