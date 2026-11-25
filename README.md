@@ -6,6 +6,13 @@
 My own list of Wordle-like games and other assorted variations of this game format. Hope people enjoy and contribute to this!
 
 
+# [judexuhs](https://github.com/judexuhs)
+- [The Rung](https://pooplepractice.com/) Change one letter at a time to turn a four-letter word into POOP. After a round, you can go back to your first detour and try a shorter route.
+
+# [Globe Party](https://globeparty.twograins.app)
+- [Globe Party](https://globeparty.twograins.app) Daily geography game, three countries a day, one per round: name a country from its flag, find one on a 3D globe where every guess glows warmer the closer it gets, and crack one from clues like continent, hemisphere and population. Play and compete with friends: as a Discord Activity everyone plays the same puzzle together and races up the server leaderboard, and on iPhone you can add friends and see who's ahead. Free, no login needed in the browser.
+
+
 # [Glyphtli](https://glyphtli.io)
 - [Glyphtli](https://glyphtli.io/?utm_source=wordleweb&utm_medium=directory&utm_campaign=listing) Daily deduction puzzle: a tomb door accepts some offerings of glyphs and rejects others by one hidden rule. Probe it with your own offerings, work out the rule in as few probes as you can, then prove it in a trial of six new offerings. Four doors a day, each harder. Same puzzle for everyone, plus endless mode, an archive and live 1v1 races. Free, no login for the daily.
 
@@ -17,6 +24,7 @@ My own list of Wordle-like games and other assorted variations of this game form
 
 # [Kegillion](https://kegillion.org/)
 - [Kegillion](https://kegillion.org/) Daily campus trivia with seven prompts and 25 seconds to answer each. Find a valid, less obvious answer to score more, or play repeatable random practice. This independent adaptation was inspired by Kegillion.io and uses its own question bank and scoring.
+
 
 # [Trick Shot Cinema](https://trickshotcinema.com)
 - [Trick Shot Cinema](https://trickshotcinema.com/?utm_source=wordleweb&utm_medium=directory&utm_campaign=listing) Daily movie-link puzzle: get from the Start film to the End film through the Trick Shot film in the middle. Each link is a person who worked on both films (actor, director, writer, composer), named from memory with no cast list on screen. Same three films for everyone each day, with 1v1 challenges and group rooms. Free, no sign-up for the Daily.
