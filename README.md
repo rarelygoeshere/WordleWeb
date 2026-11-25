@@ -5,6 +5,9 @@
 # WordleWeb
 My own list of Wordle-like games and other assorted variations of this game format. Hope people enjoy and contribute to this!
 
+# anoxia
+- [Football Krillion](https://footballkrillion.net/) Pick a player or team for each of seven daily men’s World Cup prompts. Less obvious correct answers score more, and everyone gets the same set. Free daily round, no timer or sign-up.
+
 # [Kegillion](https://kegillion.org/)
 - [Kegillion](https://kegillion.org/) Daily campus trivia with seven prompts and 25 seconds to answer each. Find a valid, less obvious answer to score more, or play repeatable random practice. This independent adaptation was inspired by Kegillion.io and uses its own question bank and scoring.
 
