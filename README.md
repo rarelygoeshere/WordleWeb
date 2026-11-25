@@ -5,6 +5,9 @@
 # WordleWeb
 My own list of Wordle-like games and other assorted variations of this game format. Hope people enjoy and contribute to this!
 
+# Veredicto
+- [Veredicto](https://miveredicto.es/?ref=wordleweb) Free daily deduction game in Spanish. Every day there is a new fictional trial: read the evidence, question two witnesses, catch the one who is lying in a cross-examination and rule guilty or innocent. Up to three stamps and a shareable emoji result. No sign-up, mobile-friendly.
+
 # [BookRank Atlas Riddle](https://openbookrank.com/en/atlas/riddle)
 - [BookRank Atlas Riddle](https://openbookrank.com/en/atlas/riddle) Daily geography guess about places from books (Hogwarts, Macondo, the Shire and others): pick the continent, then the country, then see how close you were and how we know where the place lies. Places that are not on Earth accept any answer. Same place for everyone each day, past days playable. Free, no login, 11 languages.
 
