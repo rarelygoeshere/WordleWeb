@@ -8,20 +8,49 @@ My own list of Wordle-like games and other assorted variations of this game form
 # anoxia
 - [Football Krillion](https://footballkrillion.net/) Pick a player or team for each of seven daily men’s World Cup prompts. Less obvious correct answers score more, and everyone gets the same set. Free daily round, no timer or sign-up.
 
+# [Kegillion](https://kegillion.org/)
+- [Kegillion](https://kegillion.org/) Daily campus trivia with seven prompts and 25 seconds to answer each. Find a valid, less obvious answer to score more, or play repeatable random practice. This independent adaptation was inspired by Kegillion.io and uses its own question bank and scoring.
+
 # [Trick Shot Cinema](https://trickshotcinema.com)
 - [Trick Shot Cinema](https://trickshotcinema.com/?utm_source=wordleweb&utm_medium=directory&utm_campaign=listing) Daily movie-link puzzle: get from the Start film to the End film through the Trick Shot film in the middle. Each link is a person who worked on both films (actor, director, writer, composer), named from memory with no cast list on screen. Same three films for everyone each day, with 1v1 challenges and group rooms. Free, no sign-up for the Daily.
 
-# [Movie Scene Map](https://moviescenemap.com)
-- [SceneGuessr](https://moviescenemap.com/guess/?utm_source=wordleweb) Daily GeoGuessr for movies: five films, series, games or anime a day, the same five for everyone, and you click the world map where you think each one was shot (games and anime: where they are set). Each round shows how far off you were; share the emoji grid, or keep going in endless mode. Free, no login, in ten languages.
+# [MapGuesser](https://mapguesser.fr/en)
+- [Countryle](https://mapguesser.fr/en/game/countryle/daily?utm_source=wordleweb) Daily mystery country game: everyone gets the same country to find each day. You can guess as many times as you need, and each guess tells you how the answer compares on population, area, GDP and continent. It has a daily leaderboard and streaks, and is available in English, French, Portuguese, Italian and German. Free, no login.
 
-# [Couscous](https://couscous.ai)
-- [Couscous](https://couscous.ai/play/daily?utm_source=github-wordleweb&utm_medium=listing&utm_campaign=offsite-2026-11) Daily secret-word riddle: ask yes-or-no questions, the game stamps YES, NO or I DON'T KNOW and a ring warms up as you get close, then name the word. Same riddle for everyone, changing at local midnight. A language model judges each answer. The riddle of the day is free; it asks you to sign in first (Apple, Google or an email code).
+# [Rulemiss](https://webgamesdaily.com/rulemiss)
+- [Rulemiss](https://webgamesdaily.com/rulemiss) Free daily rule-checking puzzle: five untimed cases, each with four choices; pick the option that satisfies exactly two of three rules. The daily set resets at midnight UTC, with an Unlimited mode for practice. No account required.
 
-# [Alline](https://allinegame.com)
-- [Alline](https://allinegame.com/?utm_source=wordleweb) Daily word puzzle where every move slides all the letters: seven letter tiles on a 10x10 board with walls, and each move slides every tile one step until it hits a wall, an edge or another tile. Line them up across or down to find the day's six hidden words before the 15-minute clock runs out. Same board for everyone, streaks and a share grid, plus a 2-minute 1v1 Duel mode. Free, no login, no ads. Published on November 3, 2026
+# [Bingedle](https://bingedle.com/)
+- [Bingedle](https://bingedle.com/) Loldle-style daily character guessing games for 390+ TV shows, anime and video games: guess a character and each guess shows which clues match. Includes Friends, The Office, League of Legends and Pokémon. Free, no login.
+
+# [Pips Hints](https://pipshints.org/)
+- [Pips Hints](https://pipshints.org/) Daily hints and answers for the NYT Pips domino puzzle (Easy, Medium, Hard) with spoiler-free tap-to-reveal, plus Pips Unlimited: free endless domino logic puzzles in the browser. Free, no login.
+
+# [Word Guess (Free Word Puzzle)](https://www.freewordpuzzle.com/word-guess/)
+- [Word Guess (Free Word Puzzle)](https://www.freewordpuzzle.com/word-guess/) A free daily five-letter word guessing game, same puzzle for everyone each day, colour-coded hints, plays in the browser, no login.
+
+# [Dayplay Games](https://dayplaygames.com)
+- [Mini Golf](https://golf.dayplaygames.com/) Free daily mini golf: a new Daily Nine every day, the same nine holes for everyone, plus thirteen original courses and online duels with friends. No sign-up.
+- [Daily Darts](https://darts.dayplaygames.com/) Nine darts at two numbers and the bull, new every day on a regulation board, plus 301, Cricket and Around the Clock against the computer or a friend.
+- [Backyard Cornhole](https://cornhole.dayplaygames.com/) Twelve bags on a regulation 27-foot court, with a new spot and new wind every day.
+- [Bubble Thread](https://bubblethread.dayplaygames.com/) Trace one line that pops every bubble exactly once, with three fresh daily sheets.
+
+# [Hirnly](https://www.hirnly.com)
+- [Fünfer](https://www.hirnly.com/fuenfer) Daily German five-letter word game: guess the word in six tries, hand-picked word list. Archive of past words. Free, no login. Published on November 1, 2026
+- [Viererbande](https://www.hirnly.com/viererbande) Daily German word-connections puzzle: sixteen words hide four groups of four, full of red herrings and wordplay; extra Austria edition every Friday. Archive of past puzzles. Free, no login. Published on November 1, 2026
+
+# [Huss Valley Game](https://hussvalley.io/)
+- [Huss Valley Game](https://hussvalley.io/) Free multiplayer Halloween chase game in the browser: trick-or-treaters race for the finish while ghosts hunt them. Up to 30 players per room, no account, no download, works on PCs, Chromebooks and phones.
+
+# [WikiCards](https://playwikicards.com)
+- [Wiki Race](https://playwikicards.com/wiki-race/) Daily Wikipedia speedrun: everyone gets the same start and target article, and you reach the target by clicking links inside the articles. Scored on clicks first, then time. New race every day at midnight UTC. Free, no account, works on phones.
+- [Flag Quiz](https://playwikicards.com/flag-quiz/) Daily flag quiz: twenty flags a day, name the country for each one, with the answers at the end. A flag only comes back once all 196 national flags have been asked. Free, no account.
 
 # [Keep One Anime](https://keeponeanime.com)
 - [Keep One Anime](https://keeponeanime.com/?ref=wordleweb) Daily anime "keep one" game: 10 head-to-head anime pairs a day, you can only keep one of each, then see what % of players agreed with you. Same set for everyone, with a compatibility link to compare picks with a friend. Free, no login.
+
+# [Warmer Warmer](https://warmerwarmer.com/)
+- [Warmer Warmer](https://warmerwarmer.com/) Daily semantic word game played like hot and cold: the same secret word for everyone each day, and every guess gets a temperature from cold to hot for how close it is in meaning. More than 30 languages, each with its own daily word. Free, no sign-up.
 
 # [Think in Odds](https://thinkinodds.com/)
 - [Think in Odds](https://thinkinodds.com/) Free daily probability puzzle: reason through a short scenario, submit an answer, use optional hints and explore a worked explanation. One shared puzzle at 8 p.m. America/New_York, with a free released archive. No account required. Development and explanations are AI-assisted; the archive includes adaptations of classic probability problems.
@@ -33,6 +62,13 @@ My own list of Wordle-like games and other assorted variations of this game form
 
 # [Cosmillion](https://cosmillion.com)
 - [Cosmillion](https://cosmillion.com/?utm_source=wordleweb) Daily word game where the rarest answer wins: the same 7 "Name something" prompts for everyone each day, 25 seconds each. Common answers score 10, rare ones score 100, and your rocket flies higher. See the full answer board after each launch and challenge a friend with the same seven. Free, no sign-up. Published on October 27, 2026
+
+# [Crowd Pick](https://noillirk.best/#practice)
+- [Crowd Pick](https://noillirk.best/#practice) Untimed four-choice trivia game: pick the answer you think most people would give across seven prompts. The game reveals its editorial ranking and awards points after each pick. Free to replay without an account.
+
+# [Upsies](https://upsies.samarpit.dev)
+- [Upsies Climb](https://upsies.samarpit.dev/climb?r=dir-wordleweb) Daily higher-or-lower trivia: 15 steps, pick which of two things has the bigger number, 10 seconds a step, one life. Same climb for everyone each day; the theme changes by weekday (sports stats, video game sales, search lookups). You get a spoiler-free grid of squares to share, and can duel a friend with one link. Free, no sign-up. Published on November 9, 2026
+- [Upsies Daily 5](https://upsies.samarpit.dev/daily?r=dir-wordleweb) Five trivia questions a day, 15 seconds each, one go, same for everyone. Free, no sign-up.
 
 # [Uncommon Trivia](https://uncommontrivia.com)
 - [Uncommon Trivia](https://uncommontrivia.com/) Daily rare-answer trivia: the same open prompts for everyone each day; rarer correct answers score more. Free, no sign-up, unlimited practice and an archive. Published on October 2025
@@ -51,6 +87,9 @@ My own list of Wordle-like games and other assorted variations of this game form
 
 # [Major Dictionary](https://majordictionary.com)
 - [Daily Digits](https://majordictionary.com/daily)  number memory game: a number flashes and you type it back, one digit longer each round until your first miss. Same numbers for everyone, and after a miss it shows the number as Major System words. Free, no login.
+
+# [GuessCrowd](https://guesscrowd.com/)
+- [GuessCrowd](https://guesscrowd.com/) Free daily survey game: everyone gets the same five prompts and has 20 seconds per round to guess the answer most people would give. See each answer's rank after the round. Includes an archive. No account required.
 
 # [Rarest Answer](https://rarestanswer.com)
 - [Rarest Answer](https://rarestanswer.com/?ref=wordleweb) Daily trivia game where the rarest right answer wins: 7 questions a day, 25 seconds each, type any correct answer and score more the fewer players gave it, with live answer percentages. Same set for everyone, free unlimited rounds and 1v1 duels, no login.
@@ -863,8 +902,6 @@ Wordga - https://wordga.com
 - [Wordle-inspired Game Collection](https://rentry.org/v72n74fu)
 - https://dles.aukspot.com/
 - [WordleLike](https://wordlelike.com/) A free hub of 5 daily Wordle-style games: classic Wordle, 6-letter Word Hurdle, Mini Crossword, Word Search, and Anagram Solver.
-- [Eight daily puzzles to try after Wordle](https://bestdaily.games/collections/games-like-wordle/) A short comparison of word ladders, letter-swapping puzzles, clues, and word associations, with links to the original games.
-- [All the Dles](https://allthedles.com/) Directory of 400+ free daily browser games (word, trivia, geography, music, math), one page each with how to play and a link to the official site only. Link status checked daily.
 ## Sources to sort through
 - [March 8, 2022 - Drew Patty - Medium: Wordle Spinoffs: The Complete and Authoritative Index](https://medium.com/floodgates/the-complete-and-authoritative-list-of-wordle-spinoffs-fb00bfafc448)/[Archive link](https://archive.ph/vuNdB)
 - [A game rentry from the site hunting list on the FMHY Subreddit](https://rentry.co/aawb2pus)
@@ -883,6 +920,9 @@ Wordga - https://wordga.com
 - https://www.producthunt.com/collections/wordle-like-games
 - https://github.com/idanzur/el-solver Look through this link for more games
 - https://www.reddit.com/r/northernlion/comments/1p27odx/dles_megathread/
+
+# [Outlier: Unlimited Krillion Game](https://playkrillion.net/)
+- [Outlier](https://playkrillion.net/) Free unlimited Krillion-style rare-answer word game, no daily cap: answer open prompts and score more the rarer your answer is. Free, no login.
 
 ## Sources sorted
 - https://x.com/thunderdle/status/1664149982306349057 Twitter thread for Wordle games
