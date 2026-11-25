@@ -5,6 +5,12 @@
 # WordleWeb
 My own list of Wordle-like games and other assorted variations of this game format. Hope people enjoy and contribute to this!
 
+# [Kegillion](https://kegillion.org/)
+- [Kegillion](https://kegillion.org/) Daily campus trivia with seven prompts and 25 seconds to answer each. Find a valid, less obvious answer to score more, or play repeatable random practice. This independent adaptation was inspired by Kegillion.io and uses its own question bank and scoring.
+
+# [Trick Shot Cinema](https://trickshotcinema.com)
+- [Trick Shot Cinema](https://trickshotcinema.com/?utm_source=wordleweb&utm_medium=directory&utm_campaign=listing) Daily movie-link puzzle: get from the Start film to the End film through the Trick Shot film in the middle. Each link is a person who worked on both films (actor, director, writer, composer), named from memory with no cast list on screen. Same three films for everyone each day, with 1v1 challenges and group rooms. Free, no sign-up for the Daily.
+
 # [MapGuesser](https://mapguesser.fr/en)
 - [Countryle](https://mapguesser.fr/en/game/countryle/daily?utm_source=wordleweb) Daily mystery country game: everyone gets the same country to find each day. You can guess as many times as you need, and each guess tells you how the answer compares on population, area, GDP and continent. It has a daily leaderboard and streaks, and is available in English, French, Portuguese, Italian and German. Free, no login.
 
