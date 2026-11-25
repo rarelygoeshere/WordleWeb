@@ -33,7 +33,7 @@ My own list of Wordle-like games and other assorted variations of this game form
 - [The Rung](https://pooplepractice.com/) Change one letter at a time to turn a four-letter word into POOP. After a round, you can go back to your first detour and try a shorter route.
 
 # [Globe Party](https://globeparty.twograins.app)
-- [Globe Party](https://globeparty.twograins.app) Daily geography game, three countries a day, one per round: name a country from its flag, find one on a 3D globe where every guess glows warmer the closer it gets, and crack one from clues like continent, hemisphere and population. Play and compete with friends: as a Discord Activity everyone plays the same puzzle together and races up the server leaderboard, and on iPhone you can add friends and see who's ahead. Free, no login needed in the browser.
+- [Globe Party](https://globeparty.twograins.app) Daily  game, three countries a day, one per round: name a country from its flag, find one on a 3D globe where every guess glows warmer the closer it gets, and crack one from clues like continent, hemisphere and population. Play and compete with friends: as a Discord Activity everyone plays the same puzzle together and races up the server leaderboard, and on iPhone you can add friends and see who's ahead. Free, no login needed in the browser.
 
 # [Glyphtli](https://glyphtli.io)
 - [Glyphtli](https://glyphtli.io/?utm_source=wordleweb&utm_medium=directory&utm_campaign=listing) Daily deduction puzzle: a tomb door accepts some offerings of glyphs and rejects others by one hidden rule. Probe it with your own offerings, work out the rule in as few probes as you can, then prove it in a trial of six new offerings. Four doors a day, each harder. Same puzzle for everyone, plus endless mode, an archive and live 1v1 races. Free, no login for the daily.
@@ -96,6 +96,9 @@ My own list of Wordle-like games and other assorted variations of this game form
 - [GeoTap](https://geotap.io/geotap/daily) Free daily geography games, no signup required: You get a place on a globe, tap to where you think it is, and get scored based on how close you are. Think you know the world?
 - [StreetTap](https://geotap.io/streettap/daily) Free daily geography games, no signup required: You're dropped on a real street and guess where in the world you're standing.
 - [FlagTap](https://geotap.io/flagtap/daily) Free daily geography games, no signup required: You get a flag and tap where in the world it flies.
+
+# [Originle](https://originle.io/)
+- [Originle](https://originle.io/)/[Unofficial fan companion](https://originle.app/) Daily country-guessing game built around a real person: watch up to eight short video clues (language, food, customs, landscape, neighbours), each easier than the last, and name the country of their roots in three guesses. First-clip guesses are worth the most points. Free, in the browser.
 
 # [Cosmillion](https://cosmillion.com)
 - [Cosmillion](https://cosmillion.com/?utm_source=wordleweb) Daily word game where the rarest answer wins: the same 7 "Name something" prompts for everyone each day, 25 seconds each. Common answers score 10, rare ones score 100, and your rocket flies higher. See the full answer board after each launch and challenge a friend with the same seven. Free, no sign-up. Published on October 27, 2026
