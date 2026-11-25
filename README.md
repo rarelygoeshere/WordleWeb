@@ -6,12 +6,26 @@
 My own list of Wordle-like games and other assorted variations of this game format. Hope people enjoy and contribute to this!
 
 
+# [DLE Club](https://dleclub.com/)
+- [Amountle](https://amountle.dev/) - Estimate how many objects are in the jar.
+- [Halfsies](https://halfsies.dev/) - Cut each daily object in half by weight.
+- [Stackdle](https://stackdle.dev/) - Build the tallest tower that stays standing.
+- [Flipsies](https://flipsies.dev/) - Flip each object and land it upright.
+- [Puttsies](https://puttsies.dev/) - Play nine miniature golf holes each day.
+- [Weighsies](https://weighsies.dev/) - Guess how many objects balance the scale.
+- [Cutsies](https://cutsies.dev/) - Slice each object into the target number of pieces.
+- [Tiltsies](https://tiltsies.dev/) - Tilt the world to roll a hamster to the goal.
+- [Trackdle](https://trackdle.dev/) - Drift around a new track and beat your best lap.
+- [Worthsies](https://worthsies.dev/) - Guess what a past purchase is worth today.
+
+# [Collagedle](https://collagedle.com/)
+- [Collagedle](https://collagedle.com/) - Make a collage for the daily prompt.
+
 # [judexuhs](https://github.com/judexuhs)
 - [The Rung](https://pooplepractice.com/) Change one letter at a time to turn a four-letter word into POOP. After a round, you can go back to your first detour and try a shorter route.
 
 # [Globe Party](https://globeparty.twograins.app)
 - [Globe Party](https://globeparty.twograins.app) Daily geography game, three countries a day, one per round: name a country from its flag, find one on a 3D globe where every guess glows warmer the closer it gets, and crack one from clues like continent, hemisphere and population. Play and compete with friends: as a Discord Activity everyone plays the same puzzle together and races up the server leaderboard, and on iPhone you can add friends and see who's ahead. Free, no login needed in the browser.
-
 
 # [Glyphtli](https://glyphtli.io)
 - [Glyphtli](https://glyphtli.io/?utm_source=wordleweb&utm_medium=directory&utm_campaign=listing) Daily deduction puzzle: a tomb door accepts some offerings of glyphs and rejects others by one hidden rule. Probe it with your own offerings, work out the rule in as few probes as you can, then prove it in a trial of six new offerings. Four doors a day, each harder. Same puzzle for everyone, plus endless mode, an archive and live 1v1 races. Free, no login for the daily.
