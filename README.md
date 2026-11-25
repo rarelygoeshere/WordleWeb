@@ -6,6 +6,9 @@
 My own list of Wordle-like games and other assorted variations of this game format. Hope people enjoy and contribute to this!
 
 
+# [Chaosword](https://chaosword.com/)
+- [Chaosword](https://chaosword.com/) Free daily crossword in three sizes: a 5x5 mini, a 7x7 and an 11x11 every day, the same puzzles for everyone. Printable, no ads, no login.
+
 # [DLE Club](https://dleclub.com/)
 - [Amountle](https://amountle.dev/) - Estimate how many objects are in the jar.
 - [Halfsies](https://halfsies.dev/) - Cut each daily object in half by weight.
