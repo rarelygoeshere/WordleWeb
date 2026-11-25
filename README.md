@@ -225,11 +225,11 @@ My own list of Wordle-like games and other assorted variations of this game form
 - [Sunday Dinner](https://griffinley.com/ella-mae-freeman/) Guess what five groceries cost, each from some month since 1980. Published on October 10, 2026.
 - [Daily train puzzle](https://griffinley.com/harold-miller/inglenook/) A free daily train puzzle. Each day lists five of eight numbered cars, and you drive a small engine that carries three at a time, moving cars between three short tracks until those five stand on the Top track in order. Published on October 12, 2026. 
 
-
-
-
 # [wordlecup.today](www.wordlecup.today)
 - Wordle for sports fans, where you guess a mystery football, basketball, or NFL player in six tries using clues revealed after each guess.
+
+# [benhrsn](https://github.com/benhrsn)
+- [Daily Bullpen](https://dailybullpen.com) Daily baseball trivia: name an MLB player for each of 7 categories. Obvious answers are singles, rarer ones go for extra bases, and deep cuts are home runs up to 480 ft.
 
 # [Luke Lyons](https://github.com/llyons151)
 - [SoulsDoku](https://www.soulsdoku.com) Daily FromSoftware boss guessing games: a 3x3 category grid plus classic-clue, silhouette, lore and arena modes across Dark Souls, Elden Ring, Bloodborne and Sekiro. Published on June 29, 2026
