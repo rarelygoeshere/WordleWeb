@@ -5,6 +5,9 @@
 # WordleWeb
 My own list of Wordle-like games and other assorted variations of this game format. Hope people enjoy and contribute to this!
 
+# [Jamband Games](https://jambandgames.com/?src=wordleweb)
+- [Jamband Games](https://jambandgames.com/?src=wordleweb) a daily lyric game for jam band fans. Name the song from one line in three guesses. Seven bands, from the Grateful Dead and Phish to Goose and Billy Strings. Published on October 4, 2026
+
 # [Gachanime](https://gachanime.gg/en/jeux?s=wordleweb)
 - [The Mystery Character](https://gachanime.gg/en/personnage-mystere?s=wordleweb) Guess the anime character of the day in eight tries. Each guess gives seven clues: anime, genres, themes, gender, role, rarity and number. One character a day, the same for everyone, new at midnight UTC. Free, no account, in seven languages. Share your grid without spoilers.
 - [Anime Music Quiz](https://gachanime.gg/en/blind-test?s=wordleweb) Ten anime openings and endings a day: listen to the clip and pick the right anime from four posters, faster for more points. The same daily set for everyone until midnight UTC, one attempt, then a result to share. Free, no account: just pick a nickname. In seven languages.
