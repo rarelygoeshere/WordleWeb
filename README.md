@@ -1006,3 +1006,6 @@ Wordga - https://wordga.com
 ## Sources sorted
 - https://x.com/thunderdle/status/1664149982306349057 Twitter thread for Wordle games
 
+
+# [Krillion Answers Today](https://krillionanswers.site/)
+- [Krillion Answers](https://krillionanswers.site/) Daily hints and answers for Krillion (the dive-and-discover trivia game): all seven prompts, every rarity tier from Plankton to One in a Krillion, how many players gave each answer, and a dated archive. Free, no login.
