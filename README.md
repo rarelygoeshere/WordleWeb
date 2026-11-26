@@ -5,6 +5,10 @@
 # WordleWeb
 My own list of Wordle-like games and other assorted variations of this game format. Hope people enjoy and contribute to this!
 
+# [Solitaire for Seniors](https://solitaireforseniors.com/?src=wordleweb)
+- [Daily Solitaire](https://solitaireforseniors.com/daily-solitaire?src=wordleweb) One Klondike deal a day, the same deal for everyone, and every deal is winnable. Large cards and tap to move, made for older players, with a free calendar of past deals. Published on November 23, 2026
+- [Daily Killer Sudoku](https://solitaireforseniors.com/killer-sudoku?src=wordleweb) A daily Killer Sudoku at Easy, Medium and Hard with large numbers, no timer, and hints that explain the next step. Published on November 25, 2026
+
 # [Jamband Games](https://jambandgames.com/?src=wordleweb)
 - [Jamband Games](https://jambandgames.com/?src=wordleweb) a daily lyric game for jam band fans. Name the song from one line in three guesses. Seven bands, from the Grateful Dead and Phish to Goose and Billy Strings. Published on October 4, 2026
 
