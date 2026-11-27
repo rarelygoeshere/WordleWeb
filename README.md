@@ -5,6 +5,11 @@
 # WordleWeb
 My own list of Wordle-like games and other assorted variations of this game format. Hope people enjoy and contribute to this!
 
+
+# [playmixy](https://playmixy.com/)
+- [Volcano Climb](https://playmixy.com/volcano-krillion) Original rare-answer volcano trivia game with 60 curated packs (420 prompts), 25-second timer, and free Daily + Unlimited modes.
+- [Krillion Unlimited](https://playmixy.com/krillion-unlimited) Free unlimited 7-prompt rare-answer trivia practice with no login.
+
 # [Outlier: Unlimited Krillion Game](https://playkrillion.net/)
 - [Outlier](https://playkrillion.net/) Free unlimited Krillion-style rare-answer word game, no daily cap: answer open prompts and score more the rarer your answer is. Free, no login.
 
