@@ -759,19 +759,21 @@ My own list of Wordle-like games and other assorted variations of this game form
 # [maxescarpio](https://github.com/maxescarpio)
 - [Marqit](https://playmarqit.com) is a free daily game with three Yes/No predictions on sports, pop culture and news. You make your picks before they lock, then see how the crowd voted and how you compare with friends.
 
+# [MinCalc](https://mincalc.com/)
+- [Targle](https://mincalc.com/targle)— guess the hidden equation (a Nerdle/Mathler cousin).
+- [Sumrex](https://mincalc.com/sumrex)— LinkedIn Queens crossed with sums: one marker per row, column and region, none touching.
+- [Quackle](https://mincalc.com/quackle)— duck-flock region logic; place the ducks so every pond, row and column works out.
+- [Toadle](https://mincalc.com/toadle)— Wordle-style word deduction from per-letter colour clues.
+- [Peerkle](https://mincalc.com/peerkle)— rank eight items along a named daily axis (sleep hours, release year, population) from low to high in five tries.
 
-[MinCalc ](https://mincalc.com/) is a free daily puzzle site with five original browser games, each with its own twist and a shareable result grid:
+# [AlWirdArabic](https://x.com/AlWirdArabic)
+- [ArWordle](https://arwordle.netlify.app/) Arabic Wordle
 
-[Targle ](https://mincalc.com/targle)— guess the hidden equation (a Nerdle/Mathler cousin).
-[Sumrex ](https://mincalc.com/sumrex)— LinkedIn Queens crossed with sums: one marker per row, column and region, none touching.
-[Quackle ](https://mincalc.com/quackle)— duck-flock region logic; place the ducks so every pond, row and column works out.
-[Toadle ](https://mincalc.com/toadle)— Wordle-style word deduction from per-letter colour clues.
-[Peerkle ](https://mincalc.com/peerkle)— rank eight items along a named daily axis (sleep hours, release year, population) from low to high in five tries.
-[ArWordle](https://arwordle.netlify.app/) - Arabic Wordle
+# [Shakespeare Geek](https://x.com/shakespearegeek)
+- [Bardle](https://shakespearegeek.github.io/bardle/) Wordle with Shakespeare Quotes.
 
-[Bardle](https://shakespearegeek.github.io/bardle/) - Wordle with Shakespeare Quotes.
-
-[Bookli](https://bookli.co.uk/) - Guess Book lines.
+# [foilmanGames](https://x.com/foilmanGames)
+- [Bookli](https://bookli.co.uk/) Guess Book lines.
 
 [Brdl](https://brdl.alex.gd/) - Guess daily bird banding code.
 
