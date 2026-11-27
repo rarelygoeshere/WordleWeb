@@ -5,6 +5,15 @@
 # WordleWeb
 My own list of Wordle-like games and other assorted variations of this game format. Hope people enjoy and contribute to this!
 
+# [Outlier: Unlimited Krillion Game](https://playkrillion.net/)
+- [Outlier](https://playkrillion.net/) Free unlimited Krillion-style rare-answer word game, no daily cap: answer open prompts and score more the rarer your answer is. Free, no login.
+
+# [Krillion Answers Today](https://krillionanswers.site/)
+- [Krillion Answers](https://krillionanswers.site/) Daily hints and answers for Krillion (the dive-and-discover trivia game): all seven prompts, every rarity tier from Plankton to One in a Krillion, how many players gave each answer, and a dated archive. Free, no login.
+
+# [Dailydle](https://dailydle.org/)
+- [Dailydle](https://dailydle.org/) Free directory of daily word, puzzle and guessing games you can browse and play from one place. No account required.
+
 # [Solitaire for Seniors](https://solitaireforseniors.com/?src=wordleweb)
 - [Daily Solitaire](https://solitaireforseniors.com/daily-solitaire?src=wordleweb) One Klondike deal a day, the same deal for everyone, and every deal is winnable. Large cards and tap to move, made for older players, with a free calendar of past deals. Published on November 23, 2026
 - [Daily Killer Sudoku](https://solitaireforseniors.com/killer-sudoku?src=wordleweb) A daily Killer Sudoku at Easy, Medium and Hard with large numbers, no timer, and hints that explain the next step. Published on November 25, 2026
@@ -969,9 +978,6 @@ Hitori Conquest - https://hitoriconquest.com
 Wordga - https://wordga.com
 
 
-# [Dailydle](https://dailydle.org/)
-- [Dailydle](https://dailydle.org/) Free directory of daily word, puzzle and guessing games you can browse and play from one place. No account required.
-
 # Sources
 ## Other Wordle indexes
 - [(Dead) Awesome Wordle](https://github.com/prakhar897/awesome-wordle) Note: recheck for additional Wordle variants to be added here.
@@ -1000,12 +1006,6 @@ Wordga - https://wordga.com
 - https://github.com/idanzur/el-solver Look through this link for more games
 - https://www.reddit.com/r/northernlion/comments/1p27odx/dles_megathread/
 
-# [Outlier: Unlimited Krillion Game](https://playkrillion.net/)
-- [Outlier](https://playkrillion.net/) Free unlimited Krillion-style rare-answer word game, no daily cap: answer open prompts and score more the rarer your answer is. Free, no login.
-
 ## Sources sorted
 - https://x.com/thunderdle/status/1664149982306349057 Twitter thread for Wordle games
 
-
-# [Krillion Answers Today](https://krillionanswers.site/)
-- [Krillion Answers](https://krillionanswers.site/) Daily hints and answers for Krillion (the dive-and-discover trivia game): all seven prompts, every rarity tier from Plankton to One in a Krillion, how many players gave each answer, and a dated archive. Free, no login.
