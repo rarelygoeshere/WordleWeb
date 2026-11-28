@@ -5,6 +5,7 @@
 # WordleWeb
 My own list of Wordle-like games and other assorted variations of this game format. Hope people enjoy and contribute to this!
 
+
 # [Earshot](https://earshot.wtf/?utm_source=wordleweb)
 - [Earshot](https://earshot.wtf/?utm_source=wordleweb) a daily sound game: one strange real-world sound a day (an animal, a machine, an instrument, sometimes something from space), the same for everyone. You hear half a second and each guess unlocks more, up to 16 seconds; six guesses to name what made it. Spoiler-free sharing, an archive and an endless mode. Free, no account. Published on November 25, 2026
 
