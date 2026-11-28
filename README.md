@@ -762,6 +762,9 @@ My own list of Wordle-like games and other assorted variations of this game form
 # [maxescarpio](https://github.com/maxescarpio)
 - [Marqit](https://playmarqit.com) is a free daily game with three Yes/No predictions on sports, pop culture and news. You make your picks before they lock, then see how the crowd voted and how you compare with friends.
 
+# [ModuMath](https://math.hjinlabs.com/?lang=en)
+- [Rupee Recount](https://lmo0317.github.io/modumath-probability-lab/rupee-recount/) — a daily Hindi and English number puzzle. Work out how many ₹10, ₹20 and ₹50 notes are in the till from two totals and one clue. Resets at midnight in India.
+
 # [MinCalc](https://mincalc.com/)
 - [Targle](https://mincalc.com/targle)— guess the hidden equation (a Nerdle/Mathler cousin).
 - [Sumrex](https://mincalc.com/sumrex)— LinkedIn Queens crossed with sums: one marker per row, column and region, none touching.
