@@ -116,6 +116,9 @@ My own list of Wordle-like games and other assorted variations of this game form
 # [Word Guess (Free Word Puzzle)](https://www.freewordpuzzle.com/word-guess/)
 - [Word Guess (Free Word Puzzle)](https://www.freewordpuzzle.com/word-guess/) A free daily five-letter word guessing game, same puzzle for everyone each day, colour-coded hints, plays in the browser, no login.
 
+# [Games Like Wordle](https://gameslikewordle.org/?ref=wordleweb)
+- [Wordhearth](https://gameslikewordle.org/?ref=wordleweb) Daily five-letter word game: find the shared word in six guesses, then play unlimited practice rounds. Free, no login.
+
 # [Dayplay Games](https://dayplaygames.com)
 - [Mini Golf](https://golf.dayplaygames.com/) Free daily mini golf: a new Daily Nine every day, the same nine holes for everyone, plus thirteen original courses and online duels with friends. No sign-up.
 - [Daily Darts](https://darts.dayplaygames.com/) Nine darts at two numbers and the bull, new every day on a regulation board, plus 301, Cricket and Around the Clock against the computer or a friend.
@@ -156,6 +159,9 @@ My own list of Wordle-like games and other assorted variations of this game form
 
 # [Cosmillion](https://cosmillion.com)
 - [Cosmillion](https://cosmillion.com/?utm_source=wordleweb) Daily word game where the rarest answer wins: the same 7 "Name something" prompts for everyone each day, 25 seconds each. Common answers score 10, rare ones score 100, and your rocket flies higher. See the full answer board after each launch and challenge a friend with the same seven. Free, no sign-up. Published on October 27, 2026
+
+# [Games Like Wordle](https://gameslikewordle.org/games-like-krillion?ref=wordleweb)
+- [Deep Cut](https://gameslikewordle.org/games-like-krillion?ref=wordleweb) Daily rare-answer trivia: answer five prompts in 30 seconds each, where rarer correct answers score higher. Free, no login.
 
 # [Crowd Pick](https://noillirk.best/#practice)
 - [Crowd Pick](https://noillirk.best/#practice) Untimed four-choice trivia game: pick the answer you think most people would give across seven prompts. The game reveals its editorial ranking and awards points after each pick. Free to replay without an account.
